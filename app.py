@@ -192,8 +192,9 @@ def quiz_question_fragment():
                         font-weight: 600;
                         width: 100%;
                         box-shadow: 0 2px 8px rgba(255,75,75,0.3);
+                        transition: all 0.2s;
                     ">
-                        ▶️ Tap to Play Audio
+                        ▶️ Play Audio
                     </button>
                 </div>
                 <script>
@@ -207,7 +208,7 @@ def quiz_question_fragment():
                     utterance.rate = 0.85;
                     window.speechSynthesis.speak(utterance);
 
-                    // Update button after first play
+                    // Update button only on actual click
                     if (!hasPlayedOnce) {{
                         hasPlayedOnce = true;
                         const btn = document.getElementById('playBtn');
@@ -217,25 +218,11 @@ def quiz_question_fragment():
                     }}
                 }};
 
-                // Button click
-                document.getElementById('playBtn').addEventListener('click', speak);
-
-                // Try autoplay (works on desktop, blocked on mobile)
-                setTimeout(() => {{
-                    try {{
-                        speak();
-                        // If autoplay worked, update button
-                        setTimeout(() => {{
-                            if (window.speechSynthesis.speaking && !hasPlayedOnce) {{
-                                hasPlayedOnce = true;
-                                const btn = document.getElementById('playBtn');
-                                btn.textContent = '🔁 Play Again';
-                                btn.style.backgroundColor = '#262730';
-                                btn.style.boxShadow = 'none';
-                            }}
-                        }}, 200);
-                    }} catch(e) {{}}
-                }}, 100);
+                // Button click - only way to play
+                document.getElementById('playBtn').addEventListener('click', (e) => {{
+                    e.preventDefault();
+                    speak();
+                }});
 
                 // Hover effect
                 const btn = document.getElementById('playBtn');
