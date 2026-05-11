@@ -150,7 +150,9 @@ def show_home():
         st.rerun()
 
 
-def show_quiz():
+@st.fragment
+def quiz_question_fragment():
+    """Fragment for quiz interaction - only reruns this part on answer submission."""
     items = st.session_state.get("quiz_items", [])
     index = st.session_state.get("quiz_index", 0)
     phase_type = st.session_state.get("quiz_phase_type", "")
@@ -162,7 +164,6 @@ def show_quiz():
         return
 
     item = items[index]
-    total = len(items)
 
     # Reset revealed state when question changes
     if st.session_state.get("quiz_revealed_for") != index:
@@ -174,10 +175,6 @@ def show_quiz():
     is_reverse = (phase_type == "phrases_reverse")
     is_audio_quiz = audio_mode and (phase_type in AUDIO_TYPES)
     audio_lang = 'ru-RU'
-
-    st.title("Quiz" + (" - Listening" if is_audio_quiz else ""))
-    st.progress(index / total)
-    st.caption(f"Question {index + 1} of {total}")
 
     if is_audio_quiz:
         # Audio quiz: show play button instead of text
@@ -286,6 +283,25 @@ def show_quiz():
             if st.button("Quit Quiz", use_container_width=True):
                 st.session_state["view"] = "home"
                 st.rerun()
+
+
+def show_quiz():
+    """Main quiz view - displays progress and calls the interactive fragment."""
+    items = st.session_state.get("quiz_items", [])
+    index = st.session_state.get("quiz_index", 0)
+    phase_type = st.session_state.get("quiz_phase_type", "")
+    audio_mode = st.session_state.get("audio_mode", True)
+    is_audio_quiz = audio_mode and (phase_type in AUDIO_TYPES)
+
+    total = len(items)
+
+    # These don't need to rerun on every answer submission
+    st.title("Quiz" + (" - Listening" if is_audio_quiz else ""))
+    st.progress(index / total)
+    st.caption(f"Question {index + 1} of {total}")
+
+    # Call the fragment - only this part reruns on answer submission
+    quiz_question_fragment()
 
 
 def show_results():

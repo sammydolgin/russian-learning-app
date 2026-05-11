@@ -35,7 +35,12 @@
       "Bash(powershell -Command \"\\(Get-Content a0_part1_words.json | ConvertFrom-Json\\).items.answer | Select-String -Pattern 'one|two|three|four|five|six|seven|eight|nine|ten|zero'\")",
       "Bash(dir:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ]
   }
 }
