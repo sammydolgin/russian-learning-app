@@ -179,65 +179,79 @@ def quiz_question_fragment():
     if is_audio_quiz:
         # Audio quiz: show play button instead of text
         if not revealed:
-            st.markdown("### 🔊 Listen")
             components.html(f"""
                 <div style="margin: 20px 0;">
-                    <button id="replayBtn" style="
-                        background-color: #262730;
+                    <button id="playBtn" style="
+                        background-color: #FF4B4B;
                         color: white;
-                        border: 1px solid #464646;
-                        padding: 10px 20px;
-                        border-radius: 5px;
+                        border: none;
+                        padding: 15px 20px;
+                        border-radius: 8px;
                         cursor: pointer;
-                        font-size: 16px;
+                        font-size: 18px;
+                        font-weight: 600;
                         width: 100%;
+                        box-shadow: 0 2px 8px rgba(255,75,75,0.3);
                     ">
-                        🔁 Play Again
+                        ▶️ Tap to Play Audio
                     </button>
                 </div>
                 <script>
                 const text = {json.dumps(item['prompt'])};
+                let hasPlayedOnce = false;
+
                 const speak = () => {{
                     window.speechSynthesis.cancel();
                     const utterance = new SpeechSynthesisUtterance(text);
                     utterance.lang = {json.dumps(audio_lang)};
                     utterance.rate = 0.85;
                     window.speechSynthesis.speak(utterance);
-                }};
 
-                // Auto-play immediately and retry if blocked
-                const autoPlay = () => {{
-                    speak();
-                    // Retry after a delay if first attempt was blocked
-                    setTimeout(() => {{
-                        if (window.speechSynthesis.speaking === false) {{
-                            speak();
-                        }}
-                    }}, 500);
-                }};
-
-                // Try to play immediately
-                autoPlay();
-
-                // Also play on any user interaction as fallback
-                let hasPlayed = false;
-                document.addEventListener('click', () => {{
-                    if (!hasPlayed) {{
-                        speak();
-                        hasPlayed = true;
+                    // Update button after first play
+                    if (!hasPlayedOnce) {{
+                        hasPlayedOnce = true;
+                        const btn = document.getElementById('playBtn');
+                        btn.textContent = '🔁 Play Again';
+                        btn.style.backgroundColor = '#262730';
+                        btn.style.boxShadow = 'none';
                     }}
-                }}, {{ once: true }});
+                }};
 
-                // Replay button
-                document.getElementById('replayBtn').addEventListener('click', speak);
+                // Button click
+                document.getElementById('playBtn').addEventListener('click', speak);
+
+                // Try autoplay (works on desktop, blocked on mobile)
+                setTimeout(() => {{
+                    try {{
+                        speak();
+                        // If autoplay worked, update button
+                        setTimeout(() => {{
+                            if (window.speechSynthesis.speaking && !hasPlayedOnce) {{
+                                hasPlayedOnce = true;
+                                const btn = document.getElementById('playBtn');
+                                btn.textContent = '🔁 Play Again';
+                                btn.style.backgroundColor = '#262730';
+                                btn.style.boxShadow = 'none';
+                            }}
+                        }}, 200);
+                    }} catch(e) {{}}
+                }}, 100);
 
                 // Hover effect
-                const btn = document.getElementById('replayBtn');
+                const btn = document.getElementById('playBtn');
                 btn.addEventListener('mouseover', () => {{
-                    btn.style.backgroundColor = '#3d3d4a';
+                    if (hasPlayedOnce) {{
+                        btn.style.backgroundColor = '#3d3d4a';
+                    }} else {{
+                        btn.style.backgroundColor = '#ff5e5e';
+                    }}
                 }});
                 btn.addEventListener('mouseout', () => {{
-                    btn.style.backgroundColor = '#262730';
+                    if (hasPlayedOnce) {{
+                        btn.style.backgroundColor = '#262730';
+                    }} else {{
+                        btn.style.backgroundColor = '#FF4B4B';
+                    }}
                 }});
                 </script>
             """, height=80)
