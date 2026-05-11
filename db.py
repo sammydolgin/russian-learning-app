@@ -2,10 +2,14 @@ import sqlite3
 import json
 import re
 import random
+import os
 from pathlib import Path
 from datetime import date
 
-DB_PATH = Path(__file__).parent / "data" / "russian_learning.db"
+# Use environment variable for DB path (for persistent disk on Render)
+# Fall back to local data/ directory for development
+DB_DIR = Path(os.getenv("DB_PATH", str(Path(__file__).parent / "data")))
+DB_PATH = DB_DIR / "russian_learning.db"
 CONTENT_PATH = Path(__file__).parent / "data" / "content"
 
 UNLOCK_PASSWORD = "pumpernickel"
