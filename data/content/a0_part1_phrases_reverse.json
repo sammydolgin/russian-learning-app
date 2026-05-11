@@ -1,0 +1,196 @@
+{
+  "phase": "A0 Part 1 Phrases (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "I am here.",
+      "answer": "Я здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You are here.",
+      "answer": "Ты здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is there.",
+      "answer": "Он там.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is here.",
+      "answer": "Она здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are here.",
+      "answer": "Мы здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They are there.",
+      "answer": "Они там.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a house.",
+      "answer": "Это дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a friend.",
+      "answer": "Это друг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Hi! How are you?",
+      "answer": "Привет! Как ты?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Hi! How are you?",
+      "answer": "Привет! Как вы?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good, thank you.",
+      "answer": "Хорошо, спасибо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want water.",
+      "answer": "Я хочу воды.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to.",
+      "answer": "Я хочу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He wants to.",
+      "answer": "Он хочет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am going.",
+      "answer": "Я иду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where are you?",
+      "answer": "Где ты?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is the house?",
+      "answer": "Где дом?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The house is big.",
+      "answer": "Дом большой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The house is small.",
+      "answer": "Дом маленький.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a big house.",
+      "answer": "Это большой дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a small house.",
+      "answer": "Это маленький дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a new house.",
+      "answer": "Это новый дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is an old house.",
+      "answer": "Это старый дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is this?",
+      "answer": "Что это?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Who is this?",
+      "answer": "Кто это?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is good.",
+      "answer": "Это хорошо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is bad.",
+      "answer": "Это плохо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I know.",
+      "answer": "Я знаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not know.",
+      "answer": "Я не знаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He does not know.",
+      "answer": "Он не знает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I think so.",
+      "answer": "Я думаю, что да.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I think not.",
+      "answer": "Я думаю, что нет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When are you going?",
+      "answer": "Когда ты идёшь?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "How are you?",
+      "answer": "Как ты?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Why are you here?",
+      "answer": "Почему ты здесь?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to, but I cannot.",
+      "answer": "Я хочу, но не могу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Very good!",
+      "answer": "Очень хорошо!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is the friend?",
+      "answer": "Где друг?",
+      "alt_answers": []
+    }
+  ]
+}

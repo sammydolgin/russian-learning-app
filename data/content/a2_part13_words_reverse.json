@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 13 Words Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "society",
+      "answer": "общество",
+      "alt_answers": []
+    },
+    {
+      "prompt": "humanity",
+      "answer": "человечество",
+      "alt_answers": []
+    },
+    {
+      "prompt": "citizen",
+      "answer": "гражданин",
+      "alt_answers": []
+    },
+    {
+      "prompt": "resident",
+      "answer": "житель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "population",
+      "answer": "население",
+      "alt_answers": []
+    },
+    {
+      "prompt": "group",
+      "answer": "группа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "organization",
+      "answer": "организация",
+      "alt_answers": []
+    },
+    {
+      "prompt": "company",
+      "answer": "компания",
+      "alt_answers": []
+    },
+    {
+      "prompt": "party",
+      "answer": "партия",
+      "alt_answers": []
+    },
+    {
+      "prompt": "movement",
+      "answer": "движение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "politics",
+      "answer": "политика",
+      "alt_answers": []
+    },
+    {
+      "prompt": "government",
+      "answer": "правительство",
+      "alt_answers": []
+    },
+    {
+      "prompt": "power",
+      "answer": "власть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "president",
+      "answer": "президент",
+      "alt_answers": []
+    },
+    {
+      "prompt": "minister",
+      "answer": "министр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "deputy",
+      "answer": "депутат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "elections",
+      "answer": "выборы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "voting",
+      "answer": "голосование",
+      "alt_answers": []
+    },
+    {
+      "prompt": "voice",
+      "answer": "голос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "right",
+      "answer": "право",
+      "alt_answers": []
+    },
+    {
+      "prompt": "law",
+      "answer": "закон",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rule",
+      "answer": "правило",
+      "alt_answers": []
+    },
+    {
+      "prompt": "freedom",
+      "answer": "свобода",
+      "alt_answers": []
+    },
+    {
+      "prompt": "equality",
+      "answer": "равенство",
+      "alt_answers": []
+    },
+    {
+      "prompt": "justice",
+      "answer": "справедливость",
+      "alt_answers": []
+    },
+    {
+      "prompt": "order",
+      "answer": "порядок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "world",
+      "answer": "мир",
+      "alt_answers": []
+    },
+    {
+      "prompt": "war",
+      "answer": "война",
+      "alt_answers": []
+    },
+    {
+      "prompt": "conflict",
+      "answer": "конфликт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "problem",
+      "answer": "проблема",
+      "alt_answers": []
+    },
+    {
+      "prompt": "solution",
+      "answer": "решение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "question",
+      "answer": "вопрос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "answer",
+      "answer": "ответ",
+      "alt_answers": []
+    },
+    {
+      "prompt": "agreement",
+      "answer": "согласие",
+      "alt_answers": []
+    },
+    {
+      "prompt": "permission",
+      "answer": "разрешение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "prohibition",
+      "answer": "запрет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "requirement",
+      "answer": "требование",
+      "alt_answers": []
+    },
+    {
+      "prompt": "condition",
+      "answer": "условие",
+      "alt_answers": []
+    },
+    {
+      "prompt": "contract",
+      "answer": "договор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "agreement",
+      "answer": "соглашение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "duty",
+      "answer": "обязанность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "responsibility",
+      "answer": "ответственность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "debt",
+      "answer": "долг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "help",
+      "answer": "помощь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "support",
+      "answer": "поддержка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "protection",
+      "answer": "защита",
+      "alt_answers": []
+    },
+    {
+      "prompt": "danger",
+      "answer": "опасность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "risk",
+      "answer": "риск",
+      "alt_answers": []
+    },
+    {
+      "prompt": "safety",
+      "answer": "безопасность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "threat",
+      "answer": "угроза",
+      "alt_answers": []
+    }
+  ]
+}

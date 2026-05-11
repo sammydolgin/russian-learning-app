@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 2 Audio (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I love nature.",
+      "answer": "Я люблю природу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A big tree stands by the house.",
+      "answer": "Большое дерево стоит у дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Flowers grow in spring.",
+      "answer": "Весной растут цветы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The grass is green and soft.",
+      "answer": "Трава зелёная и мягкая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are walking in the forest.",
+      "answer": "Мы гуляем в лесу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This mountain is very high.",
+      "answer": "Эта гора очень высокая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The river flows quickly.",
+      "answer": "Река течёт быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lake is deep and clean.",
+      "answer": "Озеро глубокое и чистое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The Black Sea is beautiful.",
+      "answer": "Чёрное море красивое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The ocean is bigger than the sea.",
+      "answer": "Океан больше моря.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We live on an island.",
+      "answer": "Мы живём на острове.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer we go to the beach.",
+      "answer": "Летом мы ходим на пляж.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The earth is round.",
+      "answer": "Земля круглая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sky is blue and clear.",
+      "answer": "Небо голубое и чистое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At night the stars are visible.",
+      "answer": "Ночью видны звёзды.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The moon shines at night.",
+      "answer": "Луна светит ночью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our planet is called Earth.",
+      "answer": "Наша планета называется Земля.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a dog.",
+      "answer": "У меня есть собака.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cat is sleeping on the sofa.",
+      "answer": "Кошка спит на диване.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Birds sing in the morning.",
+      "answer": "Птицы поют утром.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The fish swims in the water.",
+      "answer": "Рыба плавает в воде.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The horse runs fast.",
+      "answer": "Лошадь бежит быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cow gives milk.",
+      "answer": "Корова даёт молоко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pig lives on the farm.",
+      "answer": "Свинья живёт на ферме.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sheep gives wool.",
+      "answer": "Овца даёт шерсть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The bear sleeps in winter.",
+      "answer": "Медведь спит зимой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The wolf lives in the forest.",
+      "answer": "Волк живёт в лесу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The fox is cunning.",
+      "answer": "Лиса хитрая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The hare runs fast.",
+      "answer": "Заяц бегает быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The mouse is small.",
+      "answer": "Мышь маленькая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The snake is dangerous.",
+      "answer": "Змея опасная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My husband works as a teacher.",
+      "answer": "Мой муж работает учителем.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His wife is very beautiful.",
+      "answer": "Его жена очень красивая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My parents live in the village.",
+      "answer": "Мои родители живут в деревне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have three children.",
+      "answer": "У нас трое детей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My son studies at school.",
+      "answer": "Мой сын учится в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My daughter loves music.",
+      "answer": "Моя дочь любит музыку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My grandfather is a wise man.",
+      "answer": "Мой дедушка мудрый человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandmother cooks deliciously.",
+      "answer": "Бабушка готовит вкусно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The grandson visits grandmother.",
+      "answer": "Внук навещает бабушку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The granddaughter helps grandfather.",
+      "answer": "Внучка помогает дедушке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My uncle lives in Moscow.",
+      "answer": "Мой дядя живёт в Москве.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Aunt will arrive tomorrow.",
+      "answer": "Тётя приедет завтра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The nephew studies at university.",
+      "answer": "Племянник учится в университете.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The niece is getting married.",
+      "answer": "Племянница выходит замуж.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My cousin lives in America.",
+      "answer": "Мой двоюродный брат живёт в Америке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My cousin is coming in summer.",
+      "answer": "Двоюродная сестра приезжает летом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our neighbor is very kind.",
+      "answer": "Наш сосед очень добрый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The neighbor baked a pie.",
+      "answer": "Соседка испекла пирог.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is my old acquaintance.",
+      "answer": "Это мой старый знакомый.",
+      "alt_answers": []
+    }
+  ]
+}

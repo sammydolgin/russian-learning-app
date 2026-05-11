@@ -1,0 +1,342 @@
+{
+  "phase": "A1 Part 6 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "горячий",
+      "answer": "hot",
+      "alt_answers": [
+        "warm"
+      ]
+    },
+    {
+      "prompt": "холодный",
+      "answer": "cold",
+      "alt_answers": []
+    },
+    {
+      "prompt": "тёплый",
+      "answer": "warm",
+      "alt_answers": []
+    },
+    {
+      "prompt": "свежий",
+      "answer": "fresh",
+      "alt_answers": []
+    },
+    {
+      "prompt": "вкусный",
+      "answer": "delicious",
+      "alt_answers": [
+        "tasty"
+      ]
+    },
+    {
+      "prompt": "дорогой",
+      "answer": "expensive",
+      "alt_answers": [
+        "dear"
+      ]
+    },
+    {
+      "prompt": "дешёвый",
+      "answer": "cheap",
+      "alt_answers": [
+        "inexpensive"
+      ]
+    },
+    {
+      "prompt": "правый",
+      "answer": "right",
+      "alt_answers": [
+        "correct"
+      ]
+    },
+    {
+      "prompt": "левый",
+      "answer": "left",
+      "alt_answers": []
+    },
+    {
+      "prompt": "следующий",
+      "answer": "next",
+      "alt_answers": [
+        "following"
+      ]
+    },
+    {
+      "prompt": "последний",
+      "answer": "last",
+      "alt_answers": [
+        "final"
+      ]
+    },
+    {
+      "prompt": "первый",
+      "answer": "first",
+      "alt_answers": []
+    },
+    {
+      "prompt": "второй",
+      "answer": "second",
+      "alt_answers": []
+    },
+    {
+      "prompt": "третий",
+      "answer": "third",
+      "alt_answers": []
+    },
+    {
+      "prompt": "разный",
+      "answer": "different",
+      "alt_answers": [
+        "various"
+      ]
+    },
+    {
+      "prompt": "такой",
+      "answer": "such",
+      "alt_answers": [
+        "so",
+        "like this"
+      ]
+    },
+    {
+      "prompt": "каждый",
+      "answer": "every",
+      "alt_answers": [
+        "each"
+      ]
+    },
+    {
+      "prompt": "другой",
+      "answer": "other",
+      "alt_answers": [
+        "another",
+        "different"
+      ]
+    },
+    {
+      "prompt": "весь",
+      "answer": "all",
+      "alt_answers": [
+        "whole",
+        "entire"
+      ]
+    },
+    {
+      "prompt": "сам",
+      "answer": "myself",
+      "alt_answers": [
+        "himself",
+        "yourself",
+        "oneself"
+      ]
+    },
+    {
+      "prompt": "любой",
+      "answer": "any",
+      "alt_answers": [
+        "whichever"
+      ]
+    },
+    {
+      "prompt": "бегать",
+      "answer": "to run",
+      "alt_answers": [
+        "run"
+      ]
+    },
+    {
+      "prompt": "прыгать",
+      "answer": "to jump",
+      "alt_answers": [
+        "jump"
+      ]
+    },
+    {
+      "prompt": "плавать",
+      "answer": "to swim",
+      "alt_answers": [
+        "swim"
+      ]
+    },
+    {
+      "prompt": "летать",
+      "answer": "to fly",
+      "alt_answers": [
+        "fly"
+      ]
+    },
+    {
+      "prompt": "петь",
+      "answer": "to sing",
+      "alt_answers": [
+        "sing"
+      ]
+    },
+    {
+      "prompt": "танцевать",
+      "answer": "to dance",
+      "alt_answers": [
+        "dance"
+      ]
+    },
+    {
+      "prompt": "рисовать",
+      "answer": "to draw",
+      "alt_answers": [
+        "draw",
+        "to paint"
+      ]
+    },
+    {
+      "prompt": "готовить",
+      "answer": "to cook",
+      "alt_answers": [
+        "cook",
+        "to prepare"
+      ]
+    },
+    {
+      "prompt": "убирать",
+      "answer": "to clean up",
+      "alt_answers": [
+        "to tidy",
+        "clean"
+      ]
+    },
+    {
+      "prompt": "стирать",
+      "answer": "to wash (clothes)",
+      "alt_answers": [
+        "to do laundry"
+      ]
+    },
+    {
+      "prompt": "гулять",
+      "answer": "to walk",
+      "alt_answers": [
+        "to stroll",
+        "to go for a walk"
+      ]
+    },
+    {
+      "prompt": "отдыхать",
+      "answer": "to rest",
+      "alt_answers": [
+        "to relax"
+      ]
+    },
+    {
+      "prompt": "путешествовать",
+      "answer": "to travel",
+      "alt_answers": [
+        "travel"
+      ]
+    },
+    {
+      "prompt": "приходить",
+      "answer": "to come",
+      "alt_answers": [
+        "to arrive",
+        "come"
+      ]
+    },
+    {
+      "prompt": "уходить",
+      "answer": "to leave",
+      "alt_answers": [
+        "to go away",
+        "leave"
+      ]
+    },
+    {
+      "prompt": "приезжать",
+      "answer": "to arrive (by vehicle)",
+      "alt_answers": [
+        "to come"
+      ]
+    },
+    {
+      "prompt": "уезжать",
+      "answer": "to depart (by vehicle)",
+      "alt_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "prompt": "возвращаться",
+      "answer": "to return",
+      "alt_answers": [
+        "to come back"
+      ]
+    },
+    {
+      "prompt": "входить",
+      "answer": "to enter",
+      "alt_answers": [
+        "to go in",
+        "enter"
+      ]
+    },
+    {
+      "prompt": "выходить",
+      "answer": "to exit",
+      "alt_answers": [
+        "to go out",
+        "leave"
+      ]
+    },
+    {
+      "prompt": "подниматься",
+      "answer": "to go up",
+      "alt_answers": [
+        "to climb",
+        "to rise"
+      ]
+    },
+    {
+      "prompt": "спускаться",
+      "answer": "to go down",
+      "alt_answers": [
+        "to descend"
+      ]
+    },
+    {
+      "prompt": "останавливаться",
+      "answer": "to stop",
+      "alt_answers": [
+        "stop"
+      ]
+    },
+    {
+      "prompt": "начинаться",
+      "answer": "to begin",
+      "alt_answers": [
+        "to start"
+      ]
+    },
+    {
+      "prompt": "заканчиваться",
+      "answer": "to end",
+      "alt_answers": [
+        "to finish"
+      ]
+    },
+    {
+      "prompt": "продолжать",
+      "answer": "to continue",
+      "alt_answers": [
+        "continue"
+      ]
+    },
+    {
+      "prompt": "повторять",
+      "answer": "to repeat",
+      "alt_answers": [
+        "repeat"
+      ]
+    }
+  ]
+}

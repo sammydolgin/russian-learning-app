@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 3 Audio (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I study at university.",
+      "answer": "Я учусь в университете.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She teaches children mathematics.",
+      "answer": "Она учит детей математике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Knowledge is power.",
+      "answer": "Знание — это сила.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today we have an important lesson.",
+      "answer": "Сегодня у нас важный урок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am doing homework.",
+      "answer": "Я делаю домашнее задание.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow there will be a test in Russian.",
+      "answer": "Завтра будет тест по русскому.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am preparing for the exam.",
+      "answer": "Я готовлюсь к экзамену.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your grade?",
+      "answer": "Какая у тебя оценка?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our class is very big.",
+      "answer": "Наш класс очень большой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She entered university.",
+      "answer": "Она поступила в университет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "School starts at eight.",
+      "answer": "Школа начинается в восемь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He studies at college.",
+      "answer": "Он учится в колледже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The books are in the library.",
+      "answer": "Книги находятся в библиотеке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a new textbook.",
+      "answer": "Мне нужен новый учебник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am writing in the notebook.",
+      "answer": "Я пишу в тетради.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give me the pen, please.",
+      "answer": "Дай мне ручку, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pencil is lying on the table.",
+      "answer": "Карандаш лежит на столе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need paper for the printer.",
+      "answer": "Мне нужна бумага для принтера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The teacher is writing on the board.",
+      "answer": "Учитель пишет на доске.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is the chalk?",
+      "answer": "Где мел?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My work is interesting.",
+      "answer": "Моя работа интересная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I work in an office.",
+      "answer": "Я работаю в офисе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our company is growing.",
+      "answer": "Наша компания растёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The boss called me.",
+      "answer": "Начальник вызвал меня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My colleague helps me.",
+      "answer": "Мой коллега помогает мне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The meeting starts at two o'clock.",
+      "answer": "Встреча начинается в два часа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are working on the project.",
+      "answer": "Мы работаем над проектом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sign this document.",
+      "answer": "Подпиши этот документ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am writing a work report.",
+      "answer": "Я пишу отчёт о работе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The contract needs to be signed.",
+      "answer": "Нужно подписать договор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When will you receive your salary?",
+      "answer": "Когда ты получишь зарплату?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer I am going on vacation.",
+      "answer": "Летом я иду в отпуск.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He went on a business trip.",
+      "answer": "Он уехал в командировку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What are you doing now?",
+      "answer": "Что ты делаешь сейчас?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Take my book.",
+      "answer": "Возьми мою книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give me advice.",
+      "answer": "Дай мне совет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Show me the way.",
+      "answer": "Покажи мне дорогу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to ask you.",
+      "answer": "Я хочу спросить тебя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Answer my question.",
+      "answer": "Ответь на мой вопрос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Explain this rule to me.",
+      "answer": "Объясни мне это правило.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I understand you.",
+      "answer": "Я понимаю тебя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do you remember me?",
+      "answer": "Ты помнишь меня?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I forgot your phone number.",
+      "answer": "Я забыл твой номер телефона.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lesson begins at nine.",
+      "answer": "Урок начинается в девять.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When does the film finish?",
+      "answer": "Когда заканчивается фильм?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We continue working.",
+      "answer": "Мы продолжаем работать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Stop the car here.",
+      "answer": "Останови машину здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to change jobs.",
+      "answer": "Я хочу поменять работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The results need to be improved.",
+      "answer": "Нужно улучшить результаты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I will solve this problem.",
+      "answer": "Я решу эту проблему.",
+      "alt_answers": []
+    }
+  ]
+}

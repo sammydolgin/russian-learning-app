@@ -1,0 +1,343 @@
+{
+  "phase": "A1 Part 7 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "объяснять",
+      "answer": "to explain",
+      "alt_answers": [
+        "explain"
+      ]
+    },
+    {
+      "prompt": "показывать",
+      "answer": "to show",
+      "alt_answers": [
+        "show"
+      ]
+    },
+    {
+      "prompt": "приносить",
+      "answer": "to bring",
+      "alt_answers": [
+        "bring"
+      ]
+    },
+    {
+      "prompt": "носить",
+      "answer": "to carry",
+      "alt_answers": [
+        "to wear",
+        "carry"
+      ]
+    },
+    {
+      "prompt": "нести",
+      "answer": "to carry (on foot)",
+      "alt_answers": [
+        "carry"
+      ]
+    },
+    {
+      "prompt": "посылать",
+      "answer": "to send",
+      "alt_answers": [
+        "send"
+      ]
+    },
+    {
+      "prompt": "получать",
+      "answer": "to receive",
+      "alt_answers": [
+        "to get",
+        "receive"
+      ]
+    },
+    {
+      "prompt": "платить",
+      "answer": "to pay",
+      "alt_answers": [
+        "pay"
+      ]
+    },
+    {
+      "prompt": "стоить",
+      "answer": "to cost",
+      "alt_answers": [
+        "cost"
+      ]
+    },
+    {
+      "prompt": "советовать",
+      "answer": "to advise",
+      "alt_answers": [
+        "advise",
+        "to recommend"
+      ]
+    },
+    {
+      "prompt": "решать",
+      "answer": "to decide",
+      "alt_answers": [
+        "to solve",
+        "decide"
+      ]
+    },
+    {
+      "prompt": "считать",
+      "answer": "to count",
+      "alt_answers": [
+        "to consider",
+        "count"
+      ]
+    },
+    {
+      "prompt": "проверять",
+      "answer": "to check",
+      "alt_answers": [
+        "check",
+        "to verify"
+      ]
+    },
+    {
+      "prompt": "выбирать",
+      "answer": "to choose",
+      "alt_answers": [
+        "choose",
+        "to select"
+      ]
+    },
+    {
+      "prompt": "менять",
+      "answer": "to change",
+      "alt_answers": [
+        "change"
+      ]
+    },
+    {
+      "prompt": "использовать",
+      "answer": "to use",
+      "alt_answers": [
+        "use"
+      ]
+    },
+    {
+      "prompt": "строить",
+      "answer": "to build",
+      "alt_answers": [
+        "build",
+        "to construct"
+      ]
+    },
+    {
+      "prompt": "ломать",
+      "answer": "to break",
+      "alt_answers": [
+        "break"
+      ]
+    },
+    {
+      "prompt": "чинить",
+      "answer": "to fix",
+      "alt_answers": [
+        "to repair",
+        "fix"
+      ]
+    },
+    {
+      "prompt": "мыть",
+      "answer": "to wash",
+      "alt_answers": [
+        "wash"
+      ]
+    },
+    {
+      "prompt": "чистить",
+      "answer": "to clean",
+      "alt_answers": [
+        "clean",
+        "to brush"
+      ]
+    },
+    {
+      "prompt": "кормить",
+      "answer": "to feed",
+      "alt_answers": [
+        "feed"
+      ]
+    },
+    {
+      "prompt": "дарить",
+      "answer": "to give (a gift)",
+      "alt_answers": [
+        "give as a gift"
+      ]
+    },
+    {
+      "prompt": "желать",
+      "answer": "to wish",
+      "alt_answers": [
+        "wish"
+      ]
+    },
+    {
+      "prompt": "соглашаться",
+      "answer": "to agree",
+      "alt_answers": [
+        "agree"
+      ]
+    },
+    {
+      "prompt": "спорить",
+      "answer": "to argue",
+      "alt_answers": [
+        "to disagree",
+        "argue"
+      ]
+    },
+    {
+      "prompt": "смеяться",
+      "answer": "to laugh",
+      "alt_answers": [
+        "laugh"
+      ]
+    },
+    {
+      "prompt": "плакать",
+      "answer": "to cry",
+      "alt_answers": [
+        "cry",
+        "to weep"
+      ]
+    },
+    {
+      "prompt": "улыбаться",
+      "answer": "to smile",
+      "alt_answers": [
+        "smile"
+      ]
+    },
+    {
+      "prompt": "бояться",
+      "answer": "to be afraid",
+      "alt_answers": [
+        "to fear",
+        "fear"
+      ]
+    },
+    {
+      "prompt": "радоваться",
+      "answer": "to be glad",
+      "alt_answers": [
+        "to rejoice"
+      ]
+    },
+    {
+      "prompt": "удивляться",
+      "answer": "to be surprised",
+      "alt_answers": [
+        "to wonder"
+      ]
+    },
+    {
+      "prompt": "беспокоиться",
+      "answer": "to worry",
+      "alt_answers": [
+        "worry"
+      ]
+    },
+    {
+      "prompt": "отдавать",
+      "answer": "to give back",
+      "alt_answers": [
+        "to hand over",
+        "return"
+      ]
+    },
+    {
+      "prompt": "разговаривать",
+      "answer": "to talk",
+      "alt_answers": [
+        "to converse",
+        "talk"
+      ]
+    },
+    {
+      "prompt": "знакомиться",
+      "answer": "to meet",
+      "alt_answers": [
+        "to get acquainted",
+        "to introduce oneself"
+      ]
+    },
+    {
+      "prompt": "пользоваться",
+      "answer": "to use",
+      "alt_answers": [
+        "to make use of"
+      ]
+    },
+    {
+      "prompt": "договариваться",
+      "answer": "to arrange",
+      "alt_answers": [
+        "to agree",
+        "to make a deal"
+      ]
+    },
+    {
+      "prompt": "природа",
+      "answer": "nature",
+      "alt_answers": []
+    },
+    {
+      "prompt": "лес",
+      "answer": "forest",
+      "alt_answers": [
+        "woods"
+      ]
+    },
+    {
+      "prompt": "река",
+      "answer": "river",
+      "alt_answers": []
+    },
+    {
+      "prompt": "море",
+      "answer": "sea",
+      "alt_answers": []
+    },
+    {
+      "prompt": "озеро",
+      "answer": "lake",
+      "alt_answers": []
+    },
+    {
+      "prompt": "гора",
+      "answer": "mountain",
+      "alt_answers": []
+    },
+    {
+      "prompt": "поле",
+      "answer": "field",
+      "alt_answers": []
+    },
+    {
+      "prompt": "парк",
+      "answer": "park",
+      "alt_answers": []
+    },
+    {
+      "prompt": "площадь",
+      "answer": "square",
+      "alt_answers": [
+        "plaza"
+      ]
+    },
+    {
+      "prompt": "мост",
+      "answer": "bridge",
+      "alt_answers": []
+    }
+  ]
+}

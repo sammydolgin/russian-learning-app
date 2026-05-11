@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 11 Words Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "music",
+      "answer": "музыка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "song",
+      "answer": "песня",
+      "alt_answers": []
+    },
+    {
+      "prompt": "melody",
+      "answer": "мелодия",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rhythm",
+      "answer": "ритм",
+      "alt_answers": []
+    },
+    {
+      "prompt": "concert",
+      "answer": "концерт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "orchestra",
+      "answer": "оркестр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "musician",
+      "answer": "музыкант",
+      "alt_answers": []
+    },
+    {
+      "prompt": "singer",
+      "answer": "певец",
+      "alt_answers": []
+    },
+    {
+      "prompt": "singer",
+      "answer": "певица",
+      "alt_answers": []
+    },
+    {
+      "prompt": "composer",
+      "answer": "композитор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "instrument",
+      "answer": "инструмент",
+      "alt_answers": []
+    },
+    {
+      "prompt": "guitar",
+      "answer": "гитара",
+      "alt_answers": []
+    },
+    {
+      "prompt": "piano",
+      "answer": "пианино",
+      "alt_answers": []
+    },
+    {
+      "prompt": "violin",
+      "answer": "скрипка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "drum",
+      "answer": "барабан",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cinema",
+      "answer": "кино",
+      "alt_answers": []
+    },
+    {
+      "prompt": "film",
+      "answer": "фильм",
+      "alt_answers": []
+    },
+    {
+      "prompt": "movie theater",
+      "answer": "кинотеатр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "screen",
+      "answer": "экран",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stage",
+      "answer": "сцена",
+      "alt_answers": []
+    },
+    {
+      "prompt": "actor",
+      "answer": "актёр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "actress",
+      "answer": "актриса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "director",
+      "answer": "режиссёр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "viewer",
+      "answer": "зритель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "audience",
+      "answer": "публика",
+      "alt_answers": []
+    },
+    {
+      "prompt": "applause",
+      "answer": "аплодисменты",
+      "alt_answers": []
+    },
+    {
+      "prompt": "theater",
+      "answer": "театр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "performance",
+      "answer": "спектакль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "play",
+      "answer": "пьеса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "role",
+      "answer": "роль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ticket",
+      "answer": "билет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "program",
+      "answer": "программа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "entertainment",
+      "answer": "развлечение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "game",
+      "answer": "игра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hobby",
+      "answer": "хобби",
+      "alt_answers": []
+    },
+    {
+      "prompt": "interest",
+      "answer": "интерес",
+      "alt_answers": []
+    },
+    {
+      "prompt": "collection",
+      "answer": "коллекция",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stamp",
+      "answer": "марка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "coin",
+      "answer": "монета",
+      "alt_answers": []
+    },
+    {
+      "prompt": "chess",
+      "answer": "шахматы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cards",
+      "answer": "карты",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sport",
+      "answer": "спорт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "team",
+      "answer": "команда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "match",
+      "answer": "матч",
+      "alt_answers": []
+    },
+    {
+      "prompt": "competition",
+      "answer": "соревнование",
+      "alt_answers": []
+    },
+    {
+      "prompt": "victory",
+      "answer": "победа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "defeat",
+      "answer": "поражение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "champion",
+      "answer": "чемпион",
+      "alt_answers": []
+    },
+    {
+      "prompt": "coach",
+      "answer": "тренер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stadium",
+      "answer": "стадион",
+      "alt_answers": []
+    }
+  ]
+}

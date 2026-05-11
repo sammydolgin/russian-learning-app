@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 18 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "What is your profession?",
+      "answer": "Какая у вас профессия?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His career started early.",
+      "answer": "Его карьера началась рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My specialty is economics.",
+      "answer": "Моя специальность — экономика.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This position is very important.",
+      "answer": "Эта должность очень важная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has long work experience at school.",
+      "answer": "У неё большой стаж в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a good specialist.",
+      "answer": "Он хороший специалист.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The new employee works well.",
+      "answer": "Новый сотрудник работает хорошо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My employer is very kind.",
+      "answer": "Мой работодатель очень добрый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The director of the firm came early.",
+      "answer": "Директор фирмы пришёл рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The manager will answer you tomorrow.",
+      "answer": "Менеджер ответит вам завтра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The secretary is talking on the phone.",
+      "answer": "Секретарь говорит по телефону.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The economist studies the market.",
+      "answer": "Экономист изучает рынок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The accountant works with numbers.",
+      "answer": "Бухгалтер работает с цифрами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The programmer is writing a program.",
+      "answer": "Программист пишет программу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The designer made a beautiful website.",
+      "answer": "Дизайнер сделал красивый сайт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The translator speaks English and French.",
+      "answer": "Переводчик говорит по-английски и по-французски.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The architect showed us the plan of the house.",
+      "answer": "Архитектор показал нам план дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The notary put on the stamp.",
+      "answer": "Нотариус поставил печать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lawyer helped my friend.",
+      "answer": "Адвокат помог моему другу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The judge made a fair decision.",
+      "answer": "Судья принял справедливое решение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The physicist works in the laboratory.",
+      "answer": "Физик работает в лаборатории.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The chemist conducts an experiment.",
+      "answer": "Химик проводит эксперимент.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The biologist loves his work.",
+      "answer": "Биолог любит свою работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The psychologist gives good advice.",
+      "answer": "Психолог даёт хорошие советы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This scientist wrote a book.",
+      "answer": "Эта учёная написала книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The nurse helps the doctor.",
+      "answer": "Медсестра помогает врачу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The dentist said that the teeth are healthy.",
+      "answer": "Стоматолог сказал, что зубы здоровые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The veterinarian saved our dog.",
+      "answer": "Ветеринар спас нашу собаку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The farmer gets up very early.",
+      "answer": "Фермер встаёт очень рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pilot studied for five years.",
+      "answer": "Пилот учился пять лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The flight attendant smiled at me.",
+      "answer": "Стюардесса улыбнулась мне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The electrician made the light work in the room.",
+      "answer": "Электрик сделал свет в комнате.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The plumber fixed the tap in the kitchen.",
+      "answer": "Сантехник починил кран в кухне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The mechanic quickly fixed the car.",
+      "answer": "Механик быстро починил машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The carpenter is making a good table.",
+      "answer": "Плотник делает хороший стол.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The hairdresser works in the city center.",
+      "answer": "Парикмахер работает в центре города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The waiter brought us coffee.",
+      "answer": "Официант принёс нам кофе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The waitress cleared the plates.",
+      "answer": "Официантка убрала тарелки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cashier gave me change.",
+      "answer": "Кассир дал мне сдачу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The guard checked my bag.",
+      "answer": "Охранник проверил мою сумку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Firefighter is a brave profession.",
+      "answer": "Пожарный — храбрая профессия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A soldier must be strong.",
+      "answer": "Военный должен быть сильным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The photographer took beautiful photos.",
+      "answer": "Фотограф сделал красивые фотографии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This writer is very famous.",
+      "answer": "Этот писатель очень известный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The gardener planted new flowers.",
+      "answer": "Садовник посадил новые цветы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The massage therapist helped my back.",
+      "answer": "Массажист помог моей спине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The training lasts one hour.",
+      "answer": "Тренировка длится один час.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The dismissal was a difficult decision.",
+      "answer": "Увольнение было трудным решением.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandmother receives a pension.",
+      "answer": "Бабушка получает пенсию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This child has a great talent.",
+      "answer": "У этого ребёнка большой талант.",
+      "alt_answers": []
+    }
+  ]
+}

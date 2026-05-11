@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 21 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Public transport works until midnight.",
+      "answer": "Общественный транспорт работает до полуночи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A big truck is driving along the road.",
+      "answer": "По дороге едет большой грузовик.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The trolleybus stopped near the store.",
+      "answer": "Троллейбус остановился у магазина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The minibus goes faster than the bus.",
+      "answer": "Маршрутка едет быстрее автобуса.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There were many people in the train car.",
+      "answer": "В вагоне было много людей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do not walk on the rails, it is dangerous.",
+      "answer": "Не ходите по рельсам, это опасно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The train is standing on the third platform.",
+      "answer": "Поезд стоит на третьей платформе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am waiting for you at the stop.",
+      "answer": "Я жду тебя на остановке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go through the turnstile.",
+      "answer": "Пройдите через турникет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The escalator does not work today.",
+      "answer": "Эскалатор не работает сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We will meet at the train station.",
+      "answer": "Мы встретимся на вокзале.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In the morning there are always big traffic jams in the city.",
+      "answer": "Утром в городе всегда большие пробки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn right at the intersection.",
+      "answer": "Поверни направо на перекрёстке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The red light is on at the traffic light.",
+      "answer": "На светофоре горит красный свет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This sign forbids parking.",
+      "answer": "Этот знак запрещает парковку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A pedestrian must walk on the sidewalk.",
+      "answer": "Пешеход должен идти по тротуару.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every passenger must show a ticket.",
+      "answer": "Каждый пассажир должен показать билет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "How much does the fare cost in the metro?",
+      "answer": "Сколько стоит проезд в метро?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not know this route.",
+      "answer": "Я не знаю этот маршрут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At the next station we have a transfer.",
+      "answer": "На следующей станции у нас пересадка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My friend lives in a quiet alley.",
+      "answer": "Мой друг живёт в тихом переулке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Nevsky Avenue is the main street of Petersburg.",
+      "answer": "Невский проспект — главная улица Петербурга.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is fastest to drive on the highway.",
+      "answer": "По шоссе ехать быстрее всего.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The children are walking to school on the sidewalk.",
+      "answer": "Дети идут по тротуару в школу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are many cars on the highway today.",
+      "answer": "На трассе сегодня много машин.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This lane is only for buses.",
+      "answer": "Эта полоса только для автобусов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Gasoline has become more expensive again.",
+      "answer": "Бензин снова стал дороже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The wheel of my bicycle broke.",
+      "answer": "У моего велосипеда сломалось колесо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Hold the steering wheel tighter.",
+      "answer": "Держи руль крепче.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In winter you need to change the tires.",
+      "answer": "Зимой нужно менять шины.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The headlight on this car does not work.",
+      "answer": "У этой машины не работает фара.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You cannot park here.",
+      "answer": "Здесь нельзя парковаться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is dangerous to overtake on a turn.",
+      "answer": "Опасно обгонять на повороте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The driver started to brake before the traffic light.",
+      "answer": "Водитель начал тормозить перед светофором.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My father is teaching me to drive a car.",
+      "answer": "Мой отец учит меня водить машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This train transports passengers to the south.",
+      "answer": "Этот поезд везёт пассажиров на юг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow I am flying to Moscow.",
+      "answer": "Завтра я лечу в Москву.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be careful at the turn.",
+      "answer": "На повороте будь внимательным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "An accident happened on the highway.",
+      "answer": "На шоссе случилась авария.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The policeman wrote me a fine.",
+      "answer": "Полицейский выписал мне штраф.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I recently got my driver's license.",
+      "answer": "Я недавно получил права.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do not forget to fasten the seatbelt.",
+      "answer": "Не забудь пристегнуть ремень.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Call the ambulance urgently!",
+      "answer": "Срочно вызови скорую!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The train driver announced the next station.",
+      "answer": "Машинист объявил следующую станцию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The conductor is checking our tickets.",
+      "answer": "Кондуктор проверяет наши билеты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is an underground crossing in Moscow.",
+      "answer": "В Москве есть подземный переход.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our flight is delayed by an hour.",
+      "answer": "Наш рейс задерживается на час.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Boarding the plane has already begun.",
+      "answer": "Посадка на самолёт уже началась.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The departure of the train is at seven o'clock.",
+      "answer": "Отправление поезда в семь часов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The train's arrival in Petersburg is at noon.",
+      "answer": "Прибытие поезда в Петербург в полдень.",
+      "alt_answers": []
+    }
+  ]
+}

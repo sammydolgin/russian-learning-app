@@ -1,0 +1,261 @@
+{
+  "phase": "A0 Part 2 Words (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "food",
+      "answer": "еда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bread",
+      "answer": "хлеб",
+      "alt_answers": []
+    },
+    {
+      "prompt": "milk",
+      "answer": "молоко",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tea",
+      "answer": "чай",
+      "alt_answers": []
+    },
+    {
+      "prompt": "coffee",
+      "answer": "кофе",
+      "alt_answers": []
+    },
+    {
+      "prompt": "person",
+      "answer": "человек",
+      "alt_answers": []
+    },
+    {
+      "prompt": "family",
+      "answer": "семья",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mother",
+      "answer": "мать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "father",
+      "answer": "отец",
+      "alt_answers": []
+    },
+    {
+      "prompt": "son",
+      "answer": "сын",
+      "alt_answers": []
+    },
+    {
+      "prompt": "daughter",
+      "answer": "дочь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "brother",
+      "answer": "брат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sister",
+      "answer": "сестра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "work",
+      "answer": "работа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "school",
+      "answer": "школа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "book",
+      "answer": "книга",
+      "alt_answers": []
+    },
+    {
+      "prompt": "table",
+      "answer": "стол",
+      "alt_answers": []
+    },
+    {
+      "prompt": "chair",
+      "answer": "стул",
+      "alt_answers": []
+    },
+    {
+      "prompt": "window",
+      "answer": "окно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "door",
+      "answer": "дверь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "city",
+      "answer": "город",
+      "alt_answers": []
+    },
+    {
+      "prompt": "country",
+      "answer": "страна",
+      "alt_answers": []
+    },
+    {
+      "prompt": "day",
+      "answer": "день",
+      "alt_answers": []
+    },
+    {
+      "prompt": "night",
+      "answer": "ночь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "morning",
+      "answer": "утро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "evening",
+      "answer": "вечер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "name",
+      "answer": "имя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "good",
+      "answer": "хороший",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bad",
+      "answer": "плохой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "beautiful",
+      "answer": "красивый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "white",
+      "answer": "белый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "black",
+      "answer": "чёрный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "red",
+      "answer": "красный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "blue",
+      "answer": "синий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "green",
+      "answer": "зелёный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "four",
+      "answer": "четыре",
+      "alt_answers": []
+    },
+    {
+      "prompt": "five",
+      "answer": "пять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to live",
+      "answer": "жить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to work",
+      "answer": "работать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to read",
+      "answer": "читать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to write",
+      "answer": "писать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to eat",
+      "answer": "есть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to drink",
+      "answer": "пить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to sleep",
+      "answer": "спать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to love",
+      "answer": "любить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to understand",
+      "answer": "понимать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to learn",
+      "answer": "учить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to hear",
+      "answer": "слышать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to go (by vehicle)",
+      "answer": "ехать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "at home",
+      "answer": "дома",
+      "alt_answers": []
+    },
+    {
+      "prompt": "now",
+      "answer": "сейчас",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 1 Audio (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Yesterday I was at home.",
+      "answer": "Вчера я был дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today the weather is good.",
+      "answer": "Сегодня хорошая погода.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow I am going to the doctor.",
+      "answer": "Завтра я иду к врачу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The day before yesterday it rained.",
+      "answer": "Позавчера шёл дождь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The day after tomorrow there will be a holiday.",
+      "answer": "Послезавтра будет праздник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This week I am very busy.",
+      "answer": "На этой неделе я очень занят.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Next month I am going on vacation.",
+      "answer": "Следующий месяц я еду в отпуск.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This year I will turn thirty.",
+      "answer": "В этом году мне исполнится тридцать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The twentieth century was difficult.",
+      "answer": "Двадцатый век был сложным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In an hour I will be free.",
+      "answer": "Через час я буду свободен.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wait a minute, please.",
+      "answer": "Подожди минуту, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every second is important.",
+      "answer": "Каждая секунда важна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "One moment, I will come now.",
+      "answer": "Один момент, я сейчас приду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is only the beginning.",
+      "answer": "Это только начало.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The film is approaching the end.",
+      "answer": "Фильм подходит к концу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The table stands in the middle of the room.",
+      "answer": "Стол стоит в середине комнаты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My head hurts.",
+      "answer": "У меня болит голова.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has a beautiful face.",
+      "answer": "У неё красивое лицо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My eyes are blue.",
+      "answer": "Мои глаза голубые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I cannot hear you with my ear.",
+      "answer": "Я не слышу тебя ухом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has a big nose.",
+      "answer": "У него большой нос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Open your mouth, please.",
+      "answer": "Открой рот, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My tooth hurts.",
+      "answer": "У меня болит зуб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Show your tongue to the doctor.",
+      "answer": "Покажи язык врачу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The neck is very important.",
+      "answer": "Шея очень важна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Put your hand on the shoulder.",
+      "answer": "Положи руку на плечо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My right arm is stronger.",
+      "answer": "Моя правая рука сильнее.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are five fingers on the hand.",
+      "answer": "На руке пять пальцев.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My leg is tired.",
+      "answer": "Моя нога устала.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My knee hurts.",
+      "answer": "У меня болит колено.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am lying on my back.",
+      "answer": "Я лежу на спине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His stomach hurts.",
+      "answer": "У него болит живот.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The heart is the main organ.",
+      "answer": "Сердце — это главный орган.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Blood is red in color.",
+      "answer": "Кровь красного цвета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have sensitive skin.",
+      "answer": "У меня чувствительная кожа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has long hair.",
+      "answer": "У неё длинные волосы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My grandfather wears a beard.",
+      "answer": "Мой дедушка носит бороду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Health is the most important.",
+      "answer": "Здоровье важнее всего.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This illness is dangerous.",
+      "answer": "Эта болезнь опасная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have strong pain in my back.",
+      "answer": "У меня сильная боль в спине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You need medicine.",
+      "answer": "Тебе нужно лекарство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is lying in the hospital.",
+      "answer": "Он лежит в больнице.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pharmacy closes at eight.",
+      "answer": "Аптека закрывается в восемь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The child has a high temperature.",
+      "answer": "У ребёнка высокая температура.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a strong cough.",
+      "answer": "У меня сильный кашель.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A cold passes in a week.",
+      "answer": "Простуда проходит через неделю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Flu is a serious illness.",
+      "answer": "Грипп — серьёзная болезнь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I feel hunger.",
+      "answer": "Я чувствую голод.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have strong thirst.",
+      "answer": "У меня сильная жажда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a good sleep.",
+      "answer": "Мне нужен хороший сон.",
+      "alt_answers": []
+    }
+  ]
+}

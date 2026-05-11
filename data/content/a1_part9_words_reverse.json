@@ -1,0 +1,246 @@
+{
+  "phase": "A1 Part 9 Words (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "floor",
+      "answer": "этаж",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lift",
+      "answer": "лифт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stairs",
+      "answer": "лестница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "balcony",
+      "answer": "балкон",
+      "alt_answers": []
+    },
+    {
+      "prompt": "garden",
+      "answer": "сад",
+      "alt_answers": []
+    },
+    {
+      "prompt": "yard",
+      "answer": "двор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fence",
+      "answer": "забор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "roof",
+      "answer": "крыша",
+      "alt_answers": []
+    },
+    {
+      "prompt": "floor",
+      "answer": "пол",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ceiling",
+      "answer": "потолок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "wall",
+      "answer": "стена",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pen",
+      "answer": "ручка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pencil",
+      "answer": "карандаш",
+      "alt_answers": []
+    },
+    {
+      "prompt": "notebook",
+      "answer": "тетрадь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "paper",
+      "answer": "бумага",
+      "alt_answers": []
+    },
+    {
+      "prompt": "eraser",
+      "answer": "ластик",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ruler",
+      "answer": "линейка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dictionary",
+      "answer": "словарь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "plate",
+      "answer": "тарелка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cup",
+      "answer": "чашка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "glass",
+      "answer": "стакан",
+      "alt_answers": []
+    },
+    {
+      "prompt": "spoon",
+      "answer": "ложка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fork",
+      "answer": "вилка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "knife",
+      "answer": "нож",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pot",
+      "answer": "кастрюля",
+      "alt_answers": []
+    },
+    {
+      "prompt": "frying pan",
+      "answer": "сковорода",
+      "alt_answers": []
+    },
+    {
+      "prompt": "towel",
+      "answer": "полотенце",
+      "alt_answers": []
+    },
+    {
+      "prompt": "soap",
+      "answer": "мыло",
+      "alt_answers": []
+    },
+    {
+      "prompt": "toothbrush",
+      "answer": "зубная щётка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "shampoo",
+      "answer": "шампунь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "perfume",
+      "answer": "духи",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tablets",
+      "answer": "таблетки",
+      "alt_answers": []
+    },
+    {
+      "prompt": "temperature",
+      "answer": "температура",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pain",
+      "answer": "боль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "illness",
+      "answer": "болезнь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "health",
+      "answer": "здоровье",
+      "alt_answers": []
+    },
+    {
+      "prompt": "strength",
+      "answer": "сила",
+      "alt_answers": []
+    },
+    {
+      "prompt": "problem",
+      "answer": "проблема",
+      "alt_answers": []
+    },
+    {
+      "prompt": "plan",
+      "answer": "план",
+      "alt_answers": []
+    },
+    {
+      "prompt": "idea",
+      "answer": "идея",
+      "alt_answers": []
+    },
+    {
+      "prompt": "history",
+      "answer": "история",
+      "alt_answers": []
+    },
+    {
+      "prompt": "news",
+      "answer": "новость",
+      "alt_answers": []
+    },
+    {
+      "prompt": "story",
+      "answer": "рассказ",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dream",
+      "answer": "сон",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dream",
+      "answer": "мечта",
+      "alt_answers": []
+    },
+    {
+      "prompt": "goal",
+      "answer": "цель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "result",
+      "answer": "результат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "end",
+      "answer": "конец",
+      "alt_answers": []
+    }
+  ]
+}

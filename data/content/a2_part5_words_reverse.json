@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 5 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "internet",
+      "answer": "интернет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "website",
+      "answer": "сайт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "email",
+      "answer": "электронная почта",
+      "alt_answers": []
+    },
+    {
+      "prompt": "letter",
+      "answer": "письмо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "message",
+      "answer": "сообщение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "call",
+      "answer": "звонок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "conversation",
+      "answer": "разговор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "question",
+      "answer": "вопрос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "answer",
+      "answer": "ответ",
+      "alt_answers": []
+    },
+    {
+      "prompt": "problem",
+      "answer": "проблема",
+      "alt_answers": []
+    },
+    {
+      "prompt": "solution",
+      "answer": "решение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "advice",
+      "answer": "совет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "help",
+      "answer": "помощь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "information",
+      "answer": "информация",
+      "alt_answers": []
+    },
+    {
+      "prompt": "news",
+      "answer": "новость",
+      "alt_answers": []
+    },
+    {
+      "prompt": "story",
+      "answer": "история",
+      "alt_answers": []
+    },
+    {
+      "prompt": "truth",
+      "answer": "правда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lie",
+      "answer": "ложь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "opinion",
+      "answer": "мнение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "idea",
+      "answer": "идея",
+      "alt_answers": []
+    },
+    {
+      "prompt": "plan",
+      "answer": "план",
+      "alt_answers": []
+    },
+    {
+      "prompt": "goal",
+      "answer": "цель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "result",
+      "answer": "результат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "success",
+      "answer": "успех",
+      "alt_answers": []
+    },
+    {
+      "prompt": "failure",
+      "answer": "неудача",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mistake",
+      "answer": "ошибка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rule",
+      "answer": "правило",
+      "alt_answers": []
+    },
+    {
+      "prompt": "law",
+      "answer": "закон",
+      "alt_answers": []
+    },
+    {
+      "prompt": "right",
+      "answer": "право",
+      "alt_answers": []
+    },
+    {
+      "prompt": "duty",
+      "answer": "обязанность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "possibility",
+      "answer": "возможность",
+      "alt_answers": []
+    },
+    {
+      "prompt": "necessity",
+      "answer": "необходимость",
+      "alt_answers": []
+    },
+    {
+      "prompt": "important",
+      "answer": "важный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "interesting",
+      "answer": "интересный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "boring",
+      "answer": "скучный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "easy",
+      "answer": "лёгкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "difficult",
+      "answer": "трудный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "simple",
+      "answer": "простой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "complex",
+      "answer": "сложный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fast",
+      "answer": "быстрый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "slow",
+      "answer": "медленный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to call",
+      "answer": "звонить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to write",
+      "answer": "писать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to read",
+      "answer": "читать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to send",
+      "answer": "отправлять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to receive",
+      "answer": "получать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to pass",
+      "answer": "передавать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to agree",
+      "answer": "соглашаться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to refuse",
+      "answer": "отказываться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to allow",
+      "answer": "разрешать",
+      "alt_answers": []
+    }
+  ]
+}

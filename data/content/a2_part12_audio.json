@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 12 Audio",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Изучать науку.",
+      "answer": "To study science.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Известный учёный.",
+      "answer": "Famous scientist.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Научное исследование.",
+      "answer": "Scientific research.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Проводить эксперимент.",
+      "answer": "To conduct an experiment.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Химическая лаборатория.",
+      "answer": "Chemical laboratory.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Важное открытие.",
+      "answer": "Important discovery.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Новое изобретение.",
+      "answer": "New invention.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Научная теория.",
+      "answer": "Scientific theory.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Теория и практика.",
+      "answer": "Theory and practice.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Эффективный метод.",
+      "answer": "Effective method.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Получить результат.",
+      "answer": "To get a result.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Требовать доказательства.",
+      "answer": "To require proof.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Современная технология.",
+      "answer": "Modern technology.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Работать за компьютером.",
+      "answer": "To work at the computer.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Установить программу.",
+      "answer": "To install a program.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Искать в интернете.",
+      "answer": "To search on the internet.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Открыть сайт.",
+      "answer": "To open a website.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Электронная почта.",
+      "answer": "Electronic mail.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Цифровой формат.",
+      "answer": "Digital format.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Собирать данные.",
+      "answer": "To collect data.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Важная информация.",
+      "answer": "Important information.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Телефонная связь.",
+      "answer": "Telephone communication.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Компьютерная сеть.",
+      "answer": "Computer network.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Операционная система.",
+      "answer": "Operating system.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Сложный процесс.",
+      "answer": "Complex process.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Геометрическая форма.",
+      "answer": "Geometric shape.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Нарисовать круг.",
+      "answer": "To draw a circle.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Красный квадрат.",
+      "answer": "Red square.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Равносторонний треугольник.",
+      "answer": "Equilateral triangle.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Прямая линия.",
+      "answer": "Straight line.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Отметить точку.",
+      "answer": "To mark a point.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Прямой угол.",
+      "answer": "Right angle.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "В центре круга.",
+      "answer": "In the center of the circle.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "На краю стола.",
+      "answer": "At the edge of the table.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Большой размер.",
+      "answer": "Large size.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Измерить длину.",
+      "answer": "To measure the length.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Какая ширина?",
+      "answer": "What is the width?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Высота здания.",
+      "answer": "Height of the building.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Глубина океана.",
+      "answer": "Depth of the ocean.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Проверить вес.",
+      "answer": "To check the weight.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Атомная масса.",
+      "answer": "Atomic mass.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Увеличить объём.",
+      "answer": "To increase the volume.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Вычислить площадь.",
+      "answer": "To calculate the area.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Три метра.",
+      "answer": "Three meters.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Пятьдесят сантиметров.",
+      "answer": "Fifty centimeters.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Два килограмма.",
+      "answer": "Two kilograms.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Один литр.",
+      "answer": "One liter.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Двадцать градусов.",
+      "answer": "Twenty degrees.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Большое число.",
+      "answer": "Large number.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Малое количество.",
+      "answer": "Small quantity.",
+      "alt_answers": []
+    }
+  ]
+}

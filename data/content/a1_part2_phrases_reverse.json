@@ -1,0 +1,256 @@
+{
+  "phase": "A1 Part 2 Phrases (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "For breakfast I eat porridge.",
+      "answer": "На завтрак я ем кашу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love rice with vegetables.",
+      "answer": "Я люблю рис с овощами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fruit is very healthy.",
+      "answer": "Фрукты очень полезные.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give me an apple, please.",
+      "answer": "Дай мне яблоко, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Banana is my favorite fruit.",
+      "answer": "Банан — мой любимый фрукт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I drink orange juice.",
+      "answer": "Я пью апельсиновый сок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The tomato is red and tasty.",
+      "answer": "Помидор красный и вкусный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need potatoes for soup.",
+      "answer": "Мне нужна картошка для супа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Carrot is good for health.",
+      "answer": "Морковь хорошая для здоровья.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Soup without onion is not tasty.",
+      "answer": "Суп без лука не вкусный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The butter is in the refrigerator.",
+      "answer": "Масло в холодильнике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tea without sugar is bitter.",
+      "answer": "Чай без сахара горький.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Add salt to the soup.",
+      "answer": "Добавь соль в суп.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "For breakfast egg and bread.",
+      "answer": "На завтрак яйцо и хлеб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love cheese with bread.",
+      "answer": "Я люблю сыр с хлебом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This pie is very tasty.",
+      "answer": "Этот пирог очень вкусный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer I eat a lot of ice cream.",
+      "answer": "Летом я ем много мороженого.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do you want juice or water?",
+      "answer": "Хочешь сок или воду?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My father drinks beer.",
+      "answer": "Мой отец пьёт пиво.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The wine is from France.",
+      "answer": "Вино из Франции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I live in a big apartment.",
+      "answer": "Я живу в большой квартире.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My room is small.",
+      "answer": "Моя комната маленькая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The kitchen is the most important room.",
+      "answer": "Кухня — самая важная комната.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The bathroom is upstairs.",
+      "answer": "Ванная наверху.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The bedroom is next to the living room.",
+      "answer": "Спальня рядом с гостиной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a sofa in the living room.",
+      "answer": "В гостиной стоит диван.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I sleep on the bed.",
+      "answer": "Я сплю на кровати.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The new sofa is very comfortable.",
+      "answer": "Новый диван очень удобный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My clothes are in the wardrobe.",
+      "answer": "Моя одежда в шкафу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The milk is in the refrigerator.",
+      "answer": "Молоко в холодильнике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I cook on the stove.",
+      "answer": "Я готовлю на плите.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In the evening we watch television.",
+      "answer": "Вечером мы смотрим телевизор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My computer is on the table.",
+      "answer": "Мой компьютер на столе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is my telephone?",
+      "answer": "Где мой телефон?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn on the lamp, please.",
+      "answer": "Включи лампу, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The mirror is in the bathroom.",
+      "answer": "Зеркало в ванной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This carpet is from Turkey.",
+      "answer": "Этот ковёр из Турции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The books are on the shelf.",
+      "answer": "Книги на полке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother is a doctor.",
+      "answer": "Мой брат — врач.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is a good teacher.",
+      "answer": "Она хороший учитель.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am a university student.",
+      "answer": "Я студент университета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My father is an engineer.",
+      "answer": "Мой отец инженер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He works as a driver.",
+      "answer": "Он работает водителем.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cook prepares food.",
+      "answer": "Повар готовит еду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The seller works in the store.",
+      "answer": "Продавец работает в магазине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The police officer helps people.",
+      "answer": "Полицейский помогает людям.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The builder builds houses.",
+      "answer": "Строитель строит дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to be a doctor.",
+      "answer": "Я хочу быть врачом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The teacher teaches students.",
+      "answer": "Учитель учит студентов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a new apartment.",
+      "answer": "У нас новая квартира.",
+      "alt_answers": []
+    }
+  ]
+}

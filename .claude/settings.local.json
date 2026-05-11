@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import sys; print\\(sys.stdin.buffer.read\\(\\).decode\\('utf-8', errors='replace'\\)\\)\")",
+      "Bash(python3 *)",
+      "Bash(pip install *)",
+      "Bash(python db.py)",
+      "Bash(python -c ' *)",
+      "Bash(streamlit run *)",
+      "Bash(Remove-Item *)",
+      "Bash(del \"C:\\\\Users\\\\sammy\\\\OneDrive\\\\Desktop\\\\DS\\\\Sammys-Agent\\\\Russian\\\\data\\\\russian_learning.db\")",
+      "Bash(python -c \"import db; db.init_db\\(\\); import sqlite3; conn = sqlite3.connect\\('data/russian_learning.db'\\); rows = conn.execute\\('SELECT prompt, example FROM items WHERE example IS NOT NULL LIMIT 5'\\).fetchall\\(\\); print\\(rows\\)\")",
+      "Bash(python -c \"import sqlite3; conn = sqlite3.connect\\('data/russian_learning.db'\\); print\\([r[1] for r in conn.execute\\('PRAGMA table_info\\(items\\)'\\).fetchall\\(\\)]\\)\")",
+      "Bash(python -c \"import json; data = json.load\\(open\\('data/content/a0_words.json', encoding='utf-8'\\)\\); print\\(data['items'][0]\\)\")",
+      "Bash(python -c \"import json; data = json.load\\(open\\('data/content/a0_words.json', encoding='utf-8'\\)\\); print\\(data['items'][0].get\\('example'\\)\\)\")",
+      "Bash(python -c \"import json; data = json.load\\(open\\('data/content/a0_words.json', encoding='utf-8'\\)\\); ex = data['items'][0].get\\('example'\\); print\\(ex is not None, len\\(data['items']\\)\\)\")",
+      "Bash(python -c \"import sqlite3; conn = sqlite3.connect\\('data/russian_learning.db'\\); conn.row_factory = sqlite3.Row; rows = conn.execute\\('SELECT prompt, example FROM items WHERE phase_id=7 LIMIT 3'\\).fetchall\\(\\); [print\\(dict\\(r\\)\\) for r in rows]\")",
+      "Bash(python -c \"import sqlite3; conn = sqlite3.connect\\('data/russian_learning.db'\\); r = conn.execute\\('SELECT COUNT\\(*\\) FROM items WHERE example IS NOT NULL'\\).fetchone\\(\\); print\\('items with example:', r[0]\\)\")",
+      "Bash(taskkill /F /IM streamlit.exe)",
+      "Bash(taskkill /F /IM python.exe /FI \"WINDOWTITLE eq streamlit*\")",
+      "Bash(del \"C:\\\\Users\\\\sammy\\\\OneDrive\\\\Desktop\\\\DS\\\\Sammys-Agent\\\\Russian\\\\test_insert.db\")",
+      "Bash(wc:*)",
+      "Bash(python -c:*)",
+      "Bash(ren:*)",
+      "Bash(python test_phases.py:*)",
+      "Bash(python:*)",
+      "Bash(sqlite3:*)",
+      "Bash(cmd.exe /c start http://localhost:8501)",
+      "Bash(del:*)",
+      "Bash(timeout 6 powershell -Command \"Start-Sleep -Seconds 5\")",
+      "Bash(powershell -Command \"Get-ChildItem -Name 'a2_*.json' | Sort-Object\")",
+      "Bash(Get-ChildItem *)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\sammy\\\\onedrive\\\\desktop\\\\ds\\\\sammys-agent\\\\russian\\\\data\\\\content\\\\\" -File | ForEach-Object { $_.Name })",
+      "Bash(powershell -Command \"\\(Get-Content a0_part1_words.json | ConvertFrom-Json\\).items.answer | Select-String -Pattern 'one|two|three|four|five|six|seven|eight|nine|ten|zero'\")",
+      "Bash(dir:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

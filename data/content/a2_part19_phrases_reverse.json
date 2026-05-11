@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 19 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "The meeting will start at three o'clock.",
+      "answer": "Совещание начнётся в три часа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The negotiations were long and difficult.",
+      "answer": "Переговоры были долгими и сложными.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a very tight schedule.",
+      "answer": "У меня очень плотный график.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The deadline is already tomorrow morning.",
+      "answer": "Дедлайн уже завтра утром.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The deadline for the work ends on Friday.",
+      "answer": "Срок работы заканчивается в пятницу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He received a big bonus.",
+      "answer": "Он получил большую премию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This bonus was unexpected.",
+      "answer": "Этот бонус был неожиданным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My salary is more than before.",
+      "answer": "Мой оклад больше, чем раньше.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She got a promotion at the office.",
+      "answer": "Она получила повышение в офисе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a good team.",
+      "answer": "У нас хороший коллектив.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cooperation with this firm is useful.",
+      "answer": "Сотрудничество с этой фирмой полезное.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have many new duties.",
+      "answer": "У меня много новых обязанностей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This task is very difficult.",
+      "answer": "Эта задача очень сложная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The firm has new goals for this year.",
+      "answer": "У фирмы новые цели на этот год.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The presentation went well.",
+      "answer": "Презентация прошла хорошо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He gave an interesting report.",
+      "answer": "Он сделал интересный доклад.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The folder is on the table.",
+      "answer": "Папка лежит на столе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Please fill out this form.",
+      "answer": "Пожалуйста, заполните этот бланк.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Your signature is needed here.",
+      "answer": "Здесь нужна ваша подпись.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a stamp on the contract.",
+      "answer": "На договоре стоит печать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I make a copy of the document?",
+      "answer": "Можно сделать копию документа?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The printer is not working today.",
+      "answer": "Принтер не работает сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My keyboard is very comfortable.",
+      "answer": "Моя клавиатура очень удобная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The laptop is on the desk.",
+      "answer": "Ноутбук стоит на столе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The scanner works quickly.",
+      "answer": "Сканер быстро работает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This file needs to be saved.",
+      "answer": "Этот файл нужно сохранить.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I write all meetings in my daily planner.",
+      "answer": "Я пишу все встречи в ежедневник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our correspondence has lasted a month.",
+      "answer": "Наша переписка длится месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to inform you about the results.",
+      "answer": "Я хочу сообщать вам о результатах.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We need to coordinate the plan with the director.",
+      "answer": "Нужно согласовать план с директором.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Let's discuss the new goals.",
+      "answer": "Давайте обсудить новые цели.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We discuss this task every week.",
+      "answer": "Мы обсуждаем эту задачу каждую неделю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to introduce a new employee to you.",
+      "answer": "Я хочу представить вам нового сотрудника.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need to prepare the presentation.",
+      "answer": "Мне нужно подготовить презентацию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A good manager knows how to carry out tasks.",
+      "answer": "Хороший менеджер умеет выполнять задачи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We must fulfill the plan by the end of the month.",
+      "answer": "Мы должны выполнить план до конца месяца.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Check the file, please.",
+      "answer": "Проверь файл, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need to send the document.",
+      "answer": "Мне нужно отправить документ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I hope to receive an answer soon.",
+      "answer": "Я надеюсь получить ответ скоро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have to write a message to a colleague.",
+      "answer": "Я должен написать сообщение коллеге.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Lateness to work is bad.",
+      "answer": "Опоздание на работу — это плохо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to manage to finish today.",
+      "answer": "Я хочу успеть закончить сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The boss is very busy today.",
+      "answer": "Шеф сегодня очень занятый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have little free time.",
+      "answer": "У меня мало свободного времени.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a fifteen-minute break.",
+      "answer": "У нас перерыв пятнадцать минут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lunch break is from one to two.",
+      "answer": "Обеденный перерыв с часа до двух.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I often work remotely.",
+      "answer": "Я часто работаю удалённо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This firm has been working for twenty years.",
+      "answer": "Эта фирма работает уже двадцать лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The client called in the morning.",
+      "answer": "Клиент позвонил утром.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This service is very popular.",
+      "answer": "Эта услуга очень популярная.",
+      "alt_answers": []
+    }
+  ]
+}

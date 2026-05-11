@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Alphabet",
+      "letters": [
+        {"letter": "А", "phonetic": "a", "accepted": ["a", "ah"]},
+        {"letter": "Б", "phonetic": "b", "accepted": ["b", "be"]},
+        {"letter": "В", "phonetic": "v", "accepted": ["v", "ve"]},
+        {"letter": "Г", "phonetic": "g", "accepted": ["g", "ge"]},
+        {"letter": "Д", "phonetic": "d", "accepted": ["d", "de"]},
+        {"letter": "Е", "phonetic": "ye", "accepted": ["ye", "yeh", "ie", "e"]},
+        {"letter": "Ё", "phonetic": "yo", "accepted": ["yo", "yо"]},
+        {"letter": "Ж", "phonetic": "zh", "accepted": ["zh", "zhe"]},
+        {"letter": "З", "phonetic": "z", "accepted": ["z", "ze"]},
+        {"letter": "И", "phonetic": "i", "accepted": ["i", "ee"]},
+        {"letter": "Й", "phonetic": "y", "accepted": ["y", "short i", "j"]},
+        {"letter": "К", "phonetic": "k", "accepted": ["k", "ka"]},
+        {"letter": "Л", "phonetic": "l", "accepted": ["l", "el"]},
+        {"letter": "М", "phonetic": "m", "accepted": ["m", "em"]},
+        {"letter": "Н", "phonetic": "n", "accepted": ["n", "en"]},
+        {"letter": "О", "phonetic": "o", "accepted": ["o", "oh"]},
+        {"letter": "П", "phonetic": "p", "accepted": ["p", "pe"]},
+        {"letter": "Р", "phonetic": "r", "accepted": ["r", "er"]},
+        {"letter": "С", "phonetic": "s", "accepted": ["s", "es"]},
+        {"letter": "Т", "phonetic": "t", "accepted": ["t", "te"]},
+        {"letter": "У", "phonetic": "u", "accepted": ["u", "oo"]},
+        {"letter": "Ф", "phonetic": "f", "accepted": ["f", "ef"]},
+        {"letter": "Х", "phonetic": "kh", "accepted": ["kh", "h", "ha"]},
+        {"letter": "Ц", "phonetic": "ts", "accepted": ["ts", "tse"]},
+        {"letter": "Ч", "phonetic": "ch", "accepted": ["ch", "che"]},
+        {"letter": "Ш", "phonetic": "sh", "accepted": ["sh", "sha"]},
+        {"letter": "Щ", "phonetic": "shch", "accepted": ["shch", "sch"]},
+        {"letter": "Ъ", "phonetic": "hard sign", "accepted": ["hard sign", "hard"]},
+        {"letter": "Ы", "phonetic": "y", "accepted": ["y", "ih", "yeru"]},
+        {"letter": "Ь", "phonetic": "soft sign", "accepted": ["soft sign", "soft"]},
+        {"letter": "Э", "phonetic": "e", "accepted": ["e", "eh"]},
+        {"letter": "Ю", "phonetic": "yu", "accepted": ["yu", "yoo", "ju"]},
+        {"letter": "Я", "phonetic": "ya", "accepted": ["ya", "yah", "ja"]}
+      ]
+    }
+  ]
+}

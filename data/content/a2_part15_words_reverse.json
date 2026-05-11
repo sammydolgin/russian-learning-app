@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 15 Words Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "thin",
+      "answer": "тонкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "thick",
+      "answer": "густой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rare",
+      "answer": "редкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "frequent",
+      "answer": "частый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "clean",
+      "answer": "чистый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dirty",
+      "answer": "грязный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fresh",
+      "answer": "свежий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "old",
+      "answer": "старый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ancient",
+      "answer": "древний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "modern",
+      "answer": "современный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "future",
+      "answer": "будущий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "past",
+      "answer": "прошлый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "present",
+      "answer": "настоящий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "constant",
+      "answer": "постоянный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "temporary",
+      "answer": "временный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "eternal",
+      "answer": "вечный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "short",
+      "answer": "короткий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "long",
+      "answer": "длинный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tall",
+      "answer": "высокий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "low",
+      "answer": "низкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "upper",
+      "answer": "верхний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lower",
+      "answer": "нижний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "front",
+      "answer": "передний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "back",
+      "answer": "задний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "middle",
+      "answer": "средний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "extreme",
+      "answer": "крайний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "internal",
+      "answer": "внутренний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "external",
+      "answer": "внешний",
+      "alt_answers": []
+    },
+    {
+      "prompt": "main",
+      "answer": "главный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "basic",
+      "answer": "основной",
+      "alt_answers": []
+    },
+    {
+      "prompt": "secondary",
+      "answer": "второстепенный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "important",
+      "answer": "важный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "necessary",
+      "answer": "необходимый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "needed",
+      "answer": "нужный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "useful",
+      "answer": "полезный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "harmful",
+      "answer": "вредный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "possible",
+      "answer": "возможный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "impossible",
+      "answer": "невозможный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "probable",
+      "answer": "вероятный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "exact",
+      "answer": "точный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "approximate",
+      "answer": "приблизительный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "correct",
+      "answer": "верный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "incorrect",
+      "answer": "неверный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "false",
+      "answer": "ложный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "true",
+      "answer": "истинный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "valid",
+      "answer": "действительный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "real",
+      "answer": "реальный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "genuine",
+      "answer": "настоящий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "artificial",
+      "answer": "искусственный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "natural",
+      "answer": "естественный",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "phase": "A1 Part 11 Words (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "among",
+      "answer": "среди",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandfather",
+      "answer": "дед",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandmother",
+      "answer": "бабушка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandfather",
+      "answer": "дедушка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandson",
+      "answer": "внук",
+      "alt_answers": []
+    },
+    {
+      "prompt": "granddaughter",
+      "answer": "внучка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "uncle",
+      "answer": "дядя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "aunt",
+      "answer": "тётя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nephew",
+      "answer": "племянник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "niece",
+      "answer": "племянница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "husband",
+      "answer": "муж",
+      "alt_answers": []
+    },
+    {
+      "prompt": "wife",
+      "answer": "жена",
+      "alt_answers": []
+    },
+    {
+      "prompt": "friend (female)",
+      "answer": "подруга",
+      "alt_answers": []
+    },
+    {
+      "prompt": "acquaintance",
+      "answer": "знакомый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "neighbour",
+      "answer": "сосед",
+      "alt_answers": []
+    },
+    {
+      "prompt": "colleague",
+      "answer": "коллега",
+      "alt_answers": []
+    },
+    {
+      "prompt": "guest",
+      "answer": "гость",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mister",
+      "answer": "господин",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mrs",
+      "answer": "госпожа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "November (adj.)",
+      "answer": "ноябрь (adj.)",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tomorrow",
+      "answer": "завтра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "yesterday",
+      "answer": "вчера",
+      "alt_answers": []
+    },
+    {
+      "prompt": "today",
+      "answer": "сегодня",
+      "alt_answers": []
+    },
+    {
+      "prompt": "the day before yesterday",
+      "answer": "позавчера",
+      "alt_answers": []
+    },
+    {
+      "prompt": "the day after tomorrow",
+      "answer": "послезавтра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "recently",
+      "answer": "недавно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "a long time ago",
+      "answer": "давно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "in the morning",
+      "answer": "утром",
+      "alt_answers": []
+    },
+    {
+      "prompt": "in the evening",
+      "answer": "вечером",
+      "alt_answers": []
+    },
+    {
+      "prompt": "at night",
+      "answer": "ночью",
+      "alt_answers": []
+    },
+    {
+      "prompt": "during the day",
+      "answer": "днём",
+      "alt_answers": []
+    },
+    {
+      "prompt": "last week",
+      "answer": "на прошлой неделе",
+      "alt_answers": []
+    },
+    {
+      "prompt": "next week",
+      "answer": "на следующей неделе",
+      "alt_answers": []
+    },
+    {
+      "prompt": "last year",
+      "answer": "в прошлом году",
+      "alt_answers": []
+    },
+    {
+      "prompt": "next year",
+      "answer": "в следующем году",
+      "alt_answers": []
+    },
+    {
+      "prompt": "half an hour",
+      "answer": "полчаса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "a quarter of an hour",
+      "answer": "четверть часа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "almost never",
+      "answer": "почти никогда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "several",
+      "answer": "несколько",
+      "alt_answers": []
+    },
+    {
+      "prompt": "at first",
+      "answer": "сначала",
+      "alt_answers": []
+    },
+    {
+      "prompt": "afterwards",
+      "answer": "потом (затем)",
+      "alt_answers": []
+    },
+    {
+      "prompt": "in general",
+      "answer": "вообще",
+      "alt_answers": []
+    },
+    {
+      "prompt": "still",
+      "answer": "всё-таки",
+      "alt_answers": []
+    },
+    {
+      "prompt": "really",
+      "answer": "действительно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "especially",
+      "answer": "особенно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "usually",
+      "answer": "обычно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "as a rule",
+      "answer": "как правило",
+      "alt_answers": []
+    }
+  ]
+}

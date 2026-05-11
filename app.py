@@ -1,0 +1,591 @@
+import streamlit as st
+import streamlit.components.v1 as components
+from rapidfuzz import fuzz
+import json
+import db
+
+VISIBLE_PHASE_TYPES = ("alphabet", "words", "phrases", "phrases_reverse")
+AUDIO_TYPES = ("words", "phrases")  # phase types that play audio when audio mode is on
+
+# Short theme labels per (level, part_num). Surfaced in the sidebar group header.
+PART_THEMES = {
+    ("A0", 1): "Essentials",
+    ("A0", 2): "Daily Words",
+    ("A0", 3): "People & Verbs",
+    ("A0", 4): "Prepositions",
+    ("A1", 1): "Foundations",
+    ("A1", 2): "Food & Home",
+    ("A1", 3): "Foundations",
+    ("A1", 4): "Calendar",
+    ("A1", 5): "Adverbs",
+    ("A1", 6): "Motion Verbs",
+    ("A1", 7): "Action Verbs",
+    ("A1", 8): "Foundations",
+    ("A1", 9): "Household",
+    ("A1", 10): "Conjunctions",
+    ("A1", 11): "Family & Time",
+    ("A1", 12): "Foundations",
+    ("A2", 1): "Body & Health",
+    ("A2", 2): "Nature & Family",
+    ("A2", 3): "Study & Work",
+    ("A2", 4): "Shopping",
+    ("A2", 5): "Communication",
+    ("A2", 6): "Time",
+    ("A2", 7): "Character",
+    ("A2", 8): "Daily Verbs",
+    ("A2", 9): "Places",
+    ("A2", 10): "Travel & Art",
+    ("A2", 11): "Arts & Sport",
+    ("A2", 12): "Science",
+    ("A2", 13): "Society",
+    ("A2", 14): "Adjectives I",
+    ("A2", 15): "Adjectives II",
+    ("A2", 16): "School",
+    ("A2", 17): "University",
+    ("A2", 18): "Professions",
+    ("A2", 19): "Workplace",
+    ("A2", 20): "Finance",
+    ("A2", 21): "Transport",
+    ("A2", 22): "Travel",
+    ("A2", 23): "Emotions",
+    ("A2", 24): "Personality",
+    ("A2", 25): "Civic Life",
+    ("A2", 26): "Media",
+}
+
+
+def autofocus(key: int = 0):
+    components.html(
+        f"<script>setTimeout(()=>window.parent.document.querySelectorAll('input[type=text]')[0]?.focus(),80);//{key}</script>",
+        height=0,
+    )
+
+
+# ── Answer checking ──────────────────────────────────────────────────────────
+
+def check_answer(user_input: str, correct: str, alts: list[str]) -> bool:
+    user = user_input.strip().lower()
+    if not user:
+        return False
+    all_accepted = [correct.lower()] + [a.lower() for a in alts]
+    return any(fuzz.WRatio(user, a) >= 80 for a in all_accepted)
+
+
+# ── Views ────────────────────────────────────────────────────────────────────
+
+def show_home():
+    phase = db.get_current_phase()
+
+    if not phase:
+        st.title("All Phases Complete!")
+        st.balloons()
+        st.success("You have graduated from every phase. Impressive.")
+        return
+
+    # Display title with part indicator for A0 phases
+    title = phase["name"]
+    if phase["level"] == "A0" and "Part" in phase["name"]:
+        # Extract part number and add total
+        import re
+        match = re.search(r'Part (\d+)', phase["name"])
+        if match:
+            part_num = match.group(1)
+            title = phase["name"].replace(f"Part {part_num}", f"Part {part_num} of 4")
+
+    st.title(title)
+
+    stats = db.get_phase_stats(phase["id"])
+    grad = db.get_graduation_status(phase["id"])
+
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Mastered ✓", stats["mastered"])
+    col2.metric("In Review ↻", stats["review"])
+    col3.metric("Unseen ○", stats["unseen"])
+
+    st.divider()
+    st.subheader("Graduation Progress")
+
+    col1, col2 = st.columns(2)
+    with col1:
+        acc_pct = grad["accuracy"]
+        st.metric("Accuracy (last 100)", f"{acc_pct:.2%}", help="Need 85% over last 100 answers")
+        st.progress(min(acc_pct, 1.0), text="85% needed")
+    with col2:
+        cov_pct = grad["coverage"]
+        st.metric("Coverage", f"{cov_pct:.2%}", help="Need 50% answered correctly at least once")
+        st.progress(min(cov_pct, 1.0), text="50% needed")
+
+    if grad["total_seen"] > 0:
+        st.caption(
+            f"{grad['total_correct']} correct in last {grad['total_seen']} answers — "
+            f"{grad['covered']}/{grad['total_items']} items covered"
+        )
+
+    st.divider()
+
+    if grad["can_graduate"]:
+        st.success("You've met the graduation requirements!")
+        if st.button("Advance to Next Phase →", type="primary", use_container_width=True):
+            db.advance_phase()
+            st.rerun()
+        st.write("")
+
+    available = stats["review"] + stats["unseen"]
+    if available == 0 and stats["mastered"] == phase["total_items"] and not grad["can_graduate"]:
+        st.info("All items mastered but accuracy threshold not met. Keep quizzing to build your score.")
+
+    if st.button("Start Quiz", type="primary" if not grad["can_graduate"] else "secondary", use_container_width=True):
+        items = db.get_quiz_items(phase["id"])
+        if not items:
+            st.warning("No items available.")
+            return
+        st.session_state.update({
+            "view": "quiz",
+            "quiz_phase_id": phase["id"],
+            "quiz_phase_type": phase["type"],
+            "quiz_items": items,
+            "quiz_index": 0,
+            "quiz_results": [],
+        })
+        st.rerun()
+
+
+def show_quiz():
+    items = st.session_state.get("quiz_items", [])
+    index = st.session_state.get("quiz_index", 0)
+    phase_type = st.session_state.get("quiz_phase_type", "")
+
+    if index >= len(items):
+        db.save_quiz_result(st.session_state["quiz_phase_id"], st.session_state["quiz_results"])
+        st.session_state["view"] = "results"
+        st.rerun()
+        return
+
+    item = items[index]
+    total = len(items)
+
+    # Reset revealed state when question changes
+    if st.session_state.get("quiz_revealed_for") != index:
+        st.session_state["quiz_revealed"] = False
+        st.session_state["quiz_revealed_for"] = index
+
+    revealed = st.session_state.get("quiz_revealed", False)
+    audio_mode = st.session_state.get("audio_mode", True)
+    is_reverse = (phase_type == "phrases_reverse")
+    is_audio_quiz = audio_mode and (phase_type in AUDIO_TYPES)
+    audio_lang = 'ru-RU'
+
+    st.title("Quiz" + (" - Listening" if is_audio_quiz else ""))
+    st.progress(index / total)
+    st.caption(f"Question {index + 1} of {total}")
+
+    if is_audio_quiz:
+        # Audio quiz: show play button instead of text
+        if not revealed:
+            st.markdown("### 🔊 Listen to the audio")
+            components.html(f"""
+                <div style="margin: 20px 0;">
+                    <button id="replayBtn" style="
+                        background-color: #262730;
+                        color: white;
+                        border: 1px solid #464646;
+                        padding: 10px 20px;
+                        border-radius: 5px;
+                        cursor: pointer;
+                        font-size: 16px;
+                        width: 100%;
+                    ">
+                        🔁 Replay Audio
+                    </button>
+                </div>
+                <script>
+                const text = {json.dumps(item['prompt'])};
+                const speak = () => {{
+                    window.speechSynthesis.cancel();
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = {json.dumps(audio_lang)};
+                    utterance.rate = 0.85;
+                    window.speechSynthesis.speak(utterance);
+                }};
+
+                // Auto-play on load
+                setTimeout(speak, 300);
+
+                // Replay button
+                document.getElementById('replayBtn').addEventListener('click', speak);
+
+                // Hover effect
+                const btn = document.getElementById('replayBtn');
+                btn.addEventListener('mouseover', () => {{
+                    btn.style.backgroundColor = '#3d3d4a';
+                }});
+                btn.addEventListener('mouseout', () => {{
+                    btn.style.backgroundColor = '#262730';
+                }});
+                </script>
+            """, height=80)
+        else:
+            # Show the prompt text when revealed
+            st.markdown(f"## {item['prompt']}")
+    else:
+        # Regular quiz: show Russian text
+        st.markdown(f"## {item['prompt']}")
+        if item.get("example"):
+            st.markdown(f"<p style='font-size:1.1rem;color:#444'>{item['example']}</p>", unsafe_allow_html=True)
+
+    if revealed:
+        st.markdown(f"**{item['answer']}**")
+        if item.get("example_translation"):
+            st.caption(f"*{item['example_translation']}*")
+        st.text_input("English translation", value="", disabled=True, label_visibility="collapsed")
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("Skip →", type="primary", use_container_width=True):
+                st.session_state["quiz_results"].append({
+                    "item_id": item["id"],
+                    "prompt": item["prompt"],
+                    "correct_answer": item["answer"],
+                    "user_answer": "",
+                    "is_correct": False,
+                })
+                st.session_state["quiz_index"] += 1
+                st.rerun()
+        with col2:
+            if st.button("Quit Quiz", use_container_width=True):
+                st.session_state["view"] = "home"
+                st.rerun()
+    else:
+        with st.form(key=f"q_{index}"):
+            user_input = st.text_input(
+                "English translation",
+                placeholder="Type here and press Enter or click Submit",
+                label_visibility="collapsed",
+            )
+            submitted = st.form_submit_button("Submit", type="primary", use_container_width=True)
+
+        if submitted:
+            is_correct = check_answer(user_input, item["answer"], item.get("alt_answers", []))
+            st.session_state["quiz_results"].append({
+                "item_id": item["id"],
+                "prompt": item["prompt"],
+                "correct_answer": item["answer"],
+                "user_answer": user_input,
+                "is_correct": is_correct,
+            })
+            st.session_state["quiz_index"] += 1
+            st.rerun()
+
+        autofocus(index)
+
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("Reveal", use_container_width=True):
+                st.session_state["quiz_revealed"] = True
+                st.rerun()
+        with col2:
+            if st.button("Quit Quiz", use_container_width=True):
+                st.session_state["view"] = "home"
+                st.rerun()
+
+
+def show_results():
+    results = st.session_state.get("quiz_results", [])
+    if not results:
+        st.session_state["view"] = "home"
+        st.rerun()
+        return
+
+    correct = sum(1 for r in results if r["is_correct"])
+    total = len(results)
+    accuracy = correct / total
+
+    st.title("Results")
+    st.metric("Score", f"{correct} / {total}", delta=f"{accuracy:.2%}")
+    st.divider()
+
+    item_progress = db.get_items_progress([r["item_id"] for r in results])
+    for r in results:
+        user_ans = r["user_answer"] or "(blank)"
+        prog = item_progress.get(r["item_id"], {})
+        acc = prog.get("accuracy")
+        seen = prog.get("times_seen", 0)
+        flag = " *" if (acc is not None and acc < 0.5 and seen >= 1) else ""
+        if r["is_correct"]:
+            st.success(f"✓  **{r['prompt']}**{flag} = {r['correct_answer']}   *(you: {user_ans})*")
+        else:
+            st.error(f"✗  **{r['prompt']}**{flag} = {r['correct_answer']}   *(you: {user_ans})*")
+
+    phase_id = st.session_state.get("quiz_phase_id")
+    if phase_id:
+        grad = db.get_graduation_status(phase_id)
+        st.divider()
+        st.subheader("Graduation Progress")
+        col1, col2 = st.columns(2)
+        col1.metric("Accuracy (last 100)", f"{grad['accuracy']:.2%}", help="Need 85% over last 100 answers")
+        col2.metric("Coverage", f"{grad['coverage']:.2%}", help="Need 50%")
+        if grad["can_graduate"]:
+            st.success("Ready to graduate! Go to Home to advance.")
+
+    components.html("""<script>
+        if (window._qaHandler) window.parent.document.removeEventListener('keydown', window._qaHandler);
+        window._qaHandler = function(e) {
+            if (e.key === 'Enter') {
+                const btns = window.parent.document.querySelectorAll('button');
+                for (const btn of btns) { if (btn.innerText.trim() === 'Quiz Again') { btn.click(); break; } }
+            }
+        };
+        window.parent.document.addEventListener('keydown', window._qaHandler);
+    </script>""", height=0)
+
+    st.divider()
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("Back to Home", use_container_width=True):
+            st.session_state["view"] = "home"
+            st.rerun()
+    with col2:
+        if st.button("Quiz Again", type="primary", use_container_width=True):
+            phase = db.get_current_phase()
+            if phase:
+                items = db.get_quiz_items(phase["id"])
+                st.session_state.update({
+                    "view": "quiz",
+                    "quiz_phase_id": phase["id"],
+                    "quiz_phase_type": phase["type"],
+                    "quiz_items": items,
+                    "quiz_index": 0,
+                    "quiz_results": [],
+                })
+                st.rerun()
+
+
+def _show_items_table(phase_id: int):
+    items = db.get_phase_items_progress(phase_id)
+    if not items:
+        return
+    st.divider()
+    rows = []
+    for it in items:
+        acc = it["accuracy"]
+        flag = " *" if (acc is not None and acc < 0.5 and it["times_seen"] >= 1) else ""
+        rows.append({
+            "Prompt": it["prompt"] + flag,
+            "Answer": it["answer"],
+            "Seen": it["times_seen"],
+            "Correct": it["times_correct"],
+            "Accuracy": round(acc * 100, 2) if acc is not None else None,
+            "Status": it["status"],
+        })
+    st.dataframe(
+        rows,
+        column_config={"Accuracy": st.column_config.NumberColumn(format="%.2f%%")},
+        use_container_width=True,
+        hide_index=True,
+    )
+
+
+def show_progress():
+    st.title("All Phases")
+
+    phases = [p for p in db.get_all_phases() if p["type"] in VISIBLE_PHASE_TYPES]
+    current = db.get_current_phase()
+    current_id = current["id"] if current else None
+
+    for phase in phases:
+        if phase["completed"]:
+            label = f"✓ {phase['name']}"
+        elif phase["id"] == current_id:
+            label = f"→ {phase['name']} (current)"
+        else:
+            label = f"○ {phase['name']}"
+
+        with st.expander(label, expanded=(phase["id"] == current_id)):
+            if phase["completed"]:
+                st.success("Completed")
+                _show_items_table(phase["id"])
+            elif phase["id"] == current_id:
+                stats = db.get_phase_stats(phase["id"])
+                grad = db.get_graduation_status(phase["id"])
+                col1, col2, col3 = st.columns(3)
+                col1.metric("Mastered", stats["mastered"])
+                col2.metric("In Review", stats["review"])
+                col3.metric("Unseen", stats["unseen"])
+                st.write(f"Accuracy (last 100): **{grad['accuracy']:.2%}** / 85% needed")
+                st.write(f"Coverage: **{grad['coverage']:.2%}** / 50% needed")
+                _show_items_table(phase["id"])
+            else:
+                st.caption("Locked — complete current phase to unlock")
+
+    st.divider()
+    st.subheader("Recent Quizzes")
+    history = db.get_quiz_history(limit=20)
+    if history:
+        for s in history:
+            st.write(
+                f"`{s['date']}` &nbsp; {s['phase_name']} &nbsp; "
+                f"**{s['correct']}/{s['items_quizzed']}** ({s['accuracy']:.2%})"
+            )
+    else:
+        st.caption("No quizzes yet.")
+
+
+def show_unlock():
+    phase_id = st.session_state.get("unlocking_phase_id")
+    if not phase_id:
+        st.session_state["view"] = "home"
+        st.rerun()
+        return
+
+    phase_name = st.session_state.get("unlocking_phase_name", "")
+    type_label = st.session_state.get("unlocking_phase_type_label", "")
+    title = f"{phase_name} — {type_label}" if type_label else phase_name
+
+    st.title("🔒 Locked Phase")
+    st.write(f"**{title}**")
+    st.caption("Enter the password to unlock this phase early.")
+
+    with st.form(key="unlock_form"):
+        password = st.text_input("Password", type="password")
+        col1, col2 = st.columns(2)
+        with col1:
+            submitted = st.form_submit_button("Unlock", type="primary", use_container_width=True)
+        with col2:
+            cancel = st.form_submit_button("Cancel", use_container_width=True)
+
+    if cancel:
+        st.session_state["view"] = "home"
+        st.rerun()
+    elif submitted:
+        if db.unlock_phase(phase_id, password):
+            db.set_current_phase(phase_id)
+            st.session_state["view"] = "home"
+            st.session_state.pop("unlocking_phase_id", None)
+            st.session_state.pop("unlocking_phase_name", None)
+            st.session_state.pop("unlocking_phase_type_label", None)
+            st.rerun()
+        else:
+            st.error("Incorrect password")
+
+
+# ── Sidebar + routing ────────────────────────────────────────────────────────
+
+def main():
+    st.set_page_config(page_title="Russian Learning", layout="centered")
+
+    db.init_db()
+
+    if "view" not in st.session_state:
+        st.session_state["view"] = "home"
+
+    with st.sidebar:
+        st.markdown("## Russian Learning")
+        if st.button("Home", use_container_width=True):
+            st.session_state["view"] = "home"
+            st.rerun()
+        if st.button("Progress", use_container_width=True):
+            st.session_state["view"] = "progress"
+            st.rerun()
+
+        st.divider()
+
+        if "audio_mode" not in st.session_state:
+            st.session_state["audio_mode"] = True
+        st.toggle(
+            "Audio mode",
+            key="audio_mode",
+            help="When on, Words and Phrases prompts play audio instead of showing Russian text.",
+        )
+
+        st.divider()
+        st.markdown("### Phases")
+
+        current = db.get_current_phase()
+        current_id = current["id"] if current else None
+        all_phases = [p for p in db.get_all_phases() if p["type"] in VISIBLE_PHASE_TYPES]
+
+        # Group phases by level and part
+        phase_groups = {}
+
+        for phase in all_phases:
+            if phase["level"] == "alphabet":
+                key = "Alphabet"
+            elif phase["level"] in ["A0", "A1", "A2"]:
+                # Extract part number from name
+                import re
+                match = re.search(r'Part (\d+)', phase["name"])
+                if match:
+                    part_num = int(match.group(1))
+                    theme = PART_THEMES.get((phase['level'], part_num))
+                    key = f"{phase['level']} Part {part_num}"
+                    if theme:
+                        key = f"{key} — {theme}"
+                else:
+                    key = phase["level"]
+            else:
+                key = phase["level"]
+
+            if key not in phase_groups:
+                phase_groups[key] = []
+            phase_groups[key].append(phase)
+
+        for group_name, phases in phase_groups.items():
+            if not phases:
+                continue
+
+            with st.expander(group_name, expanded=(any(p["id"] == current_id for p in phases))):
+                for phase in phases:
+                    grad = db.get_graduation_status(phase["id"])
+                    is_locked = db.is_phase_locked(phase["id"])
+
+                    # Determine icon and button type
+                    if is_locked:
+                        icon = "🔒"
+                        btn_type = "secondary"
+                    elif phase["completed"]:
+                        icon = "✅"
+                        btn_type = "secondary"
+                    elif grad["can_graduate"]:
+                        icon = "✓"
+                        btn_type = "secondary"
+                    elif phase["id"] == current_id:
+                        icon = "→"
+                        btn_type = "primary"
+                    else:
+                        icon = "○"
+                        btn_type = "secondary"
+
+                    type_map = {
+                        "words": "Words",
+                        "phrases": "Phrases",
+                        "phrases_reverse": "Phrases (En→Ru)",
+                        "alphabet": "",
+                    }
+                    type_label = type_map.get(phase["type"], phase["type"])
+                    label = f"{icon} {type_label}" if type_label else f"{icon} {phase['name']}"
+
+                    if st.button(label, key=f"nav_{phase['id']}", use_container_width=True, type=btn_type):
+                        if is_locked:
+                            st.session_state["unlocking_phase_id"] = phase["id"]
+                            st.session_state["unlocking_phase_name"] = phase["name"]
+                            st.session_state["unlocking_phase_type_label"] = type_label
+                            st.session_state["view"] = "unlock"
+                        else:
+                            db.set_current_phase(phase["id"])
+                            st.session_state["view"] = "home"
+                        st.rerun()
+
+    view = st.session_state["view"]
+    if view == "home":
+        show_home()
+    elif view == "quiz":
+        show_quiz()
+    elif view == "results":
+        show_results()
+    elif view == "progress":
+        show_progress()
+    elif view == "unlock":
+        show_unlock()
+
+
+if __name__ == "__main__":
+    main()

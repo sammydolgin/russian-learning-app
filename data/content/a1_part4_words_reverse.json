@@ -1,0 +1,246 @@
+{
+  "phase": "A1 Part 4 Words (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "sixty",
+      "answer": "шестьдесят",
+      "alt_answers": []
+    },
+    {
+      "prompt": "seventy",
+      "answer": "семьдесят",
+      "alt_answers": []
+    },
+    {
+      "prompt": "eighty",
+      "answer": "восемьдесят",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ninety",
+      "answer": "девяносто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "one hundred",
+      "answer": "сто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Monday",
+      "answer": "понедельник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tuesday",
+      "answer": "вторник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wednesday",
+      "answer": "среда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Thursday",
+      "answer": "четверг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Friday",
+      "answer": "пятница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Saturday",
+      "answer": "суббота",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sunday",
+      "answer": "воскресенье",
+      "alt_answers": []
+    },
+    {
+      "prompt": "January",
+      "answer": "январь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "February",
+      "answer": "февраль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "March",
+      "answer": "март",
+      "alt_answers": []
+    },
+    {
+      "prompt": "April",
+      "answer": "апрель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "May",
+      "answer": "май",
+      "alt_answers": []
+    },
+    {
+      "prompt": "June",
+      "answer": "июнь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "July",
+      "answer": "июль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "August",
+      "answer": "август",
+      "alt_answers": []
+    },
+    {
+      "prompt": "September",
+      "answer": "сентябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "October",
+      "answer": "октябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "November",
+      "answer": "ноябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "December",
+      "answer": "декабрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "spring",
+      "answer": "весна",
+      "alt_answers": []
+    },
+    {
+      "prompt": "summer",
+      "answer": "лето",
+      "alt_answers": []
+    },
+    {
+      "prompt": "autumn",
+      "answer": "осень",
+      "alt_answers": []
+    },
+    {
+      "prompt": "winter",
+      "answer": "зима",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nose",
+      "answer": "нос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mouth",
+      "answer": "рот",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tooth",
+      "answer": "зуб",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ear",
+      "answer": "ухо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "neck",
+      "answer": "шея",
+      "alt_answers": []
+    },
+    {
+      "prompt": "shoulder",
+      "answer": "плечо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "back",
+      "answer": "спина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stomach",
+      "answer": "живот",
+      "alt_answers": []
+    },
+    {
+      "prompt": "heart",
+      "answer": "сердце",
+      "alt_answers": []
+    },
+    {
+      "prompt": "finger",
+      "answer": "палец",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hair",
+      "answer": "волосы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "skin",
+      "answer": "кожа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "chest",
+      "answer": "грудь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "knee",
+      "answer": "колено",
+      "alt_answers": []
+    },
+    {
+      "prompt": "foot",
+      "answer": "нога (стопа)",
+      "alt_answers": []
+    },
+    {
+      "prompt": "next to",
+      "answer": "рядом",
+      "alt_answers": []
+    },
+    {
+      "prompt": "opposite",
+      "answer": "напротив",
+      "alt_answers": []
+    },
+    {
+      "prompt": "along",
+      "answer": "вдоль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "around",
+      "answer": "вокруг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "inside",
+      "answer": "внутри",
+      "alt_answers": []
+    }
+  ]
+}

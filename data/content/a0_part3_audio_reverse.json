@@ -1,0 +1,231 @@
+{
+  "phase": "A0 Part 3 Audio (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "We are together.",
+      "answer": "Мы вместе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My name is Anna.",
+      "answer": "Меня зовут Анна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to eat.",
+      "answer": "Я хочу есть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to drink.",
+      "answer": "Я хочу пить.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are going to the city.",
+      "answer": "Мы едем в город.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is true.",
+      "answer": "Это правда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Excuse me, where is the school?",
+      "answer": "Извините, где здесь школа?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love you very much.",
+      "answer": "Я очень люблю тебя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love you.",
+      "answer": "Я тебя люблю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He loves her.",
+      "answer": "Он её любит.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We love our family.",
+      "answer": "Мы любим семью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a beautiful city.",
+      "answer": "Это красивый город.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The book is on the table.",
+      "answer": "Книга на столе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Open the door!",
+      "answer": "Открой дверь!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Close the window!",
+      "answer": "Закрой окно!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Come here!",
+      "answer": "Иди сюда!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go there!",
+      "answer": "Иди туда!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Listen!",
+      "answer": "Слушай!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Look!",
+      "answer": "Смотри!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Help me!",
+      "answer": "Помоги мне!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I don't know where that is.",
+      "answer": "Не знаю, где это.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not remember.",
+      "answer": "Я не помню.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I forgot.",
+      "answer": "Я забыл.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He forgot the word.",
+      "answer": "Он забыл слово.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good, and you?",
+      "answer": "Хорошо, а ты?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am thinking about you.",
+      "answer": "Я думаю о тебе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are going together.",
+      "answer": "Мы едем вместе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give me water.",
+      "answer": "Дай мне воду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Take the chair.",
+      "answer": "Возьми стул.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I found the book.",
+      "answer": "Я нашёл книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tell me a word.",
+      "answer": "Скажи мне слово.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He asked me.",
+      "answer": "Он спросил меня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am learning a language.",
+      "answer": "Я учу язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a new word.",
+      "answer": "Это новое слово.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The child is sleeping.",
+      "answer": "Ребёнок спит.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The boy is playing.",
+      "answer": "Мальчик играет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The girl is reading a book.",
+      "answer": "Девочка читает книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The car is big.",
+      "answer": "Машина большая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am waiting for a friend.",
+      "answer": "Я жду друга.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is buying bread.",
+      "answer": "Она покупает хлеб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is selling the car.",
+      "answer": "Он продаёт машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A friend is helping me.",
+      "answer": "Друг помогает мне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are meeting a friend.",
+      "answer": "Мы встречаем друга.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This man is my father.",
+      "answer": "Этот мужчина мой отец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This woman is my mother.",
+      "answer": "Эта женщина моя мать.",
+      "alt_answers": []
+    }
+  ]
+}

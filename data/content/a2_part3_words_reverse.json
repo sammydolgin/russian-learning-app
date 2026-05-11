@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 3 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "to study",
+      "answer": "учиться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to teach",
+      "answer": "учить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "knowledge",
+      "answer": "знание",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lesson",
+      "answer": "урок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "assignment",
+      "answer": "задание",
+      "alt_answers": []
+    },
+    {
+      "prompt": "test",
+      "answer": "тест",
+      "alt_answers": []
+    },
+    {
+      "prompt": "exam",
+      "answer": "экзамен",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grade",
+      "answer": "оценка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "class",
+      "answer": "класс",
+      "alt_answers": []
+    },
+    {
+      "prompt": "university",
+      "answer": "университет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "school",
+      "answer": "школа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "college",
+      "answer": "колледж",
+      "alt_answers": []
+    },
+    {
+      "prompt": "library",
+      "answer": "библиотека",
+      "alt_answers": []
+    },
+    {
+      "prompt": "textbook",
+      "answer": "учебник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "notebook",
+      "answer": "тетрадь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pen",
+      "answer": "ручка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pencil",
+      "answer": "карандаш",
+      "alt_answers": []
+    },
+    {
+      "prompt": "paper",
+      "answer": "бумага",
+      "alt_answers": []
+    },
+    {
+      "prompt": "board",
+      "answer": "доска",
+      "alt_answers": []
+    },
+    {
+      "prompt": "chalk",
+      "answer": "мел",
+      "alt_answers": []
+    },
+    {
+      "prompt": "work",
+      "answer": "работа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "office",
+      "answer": "офис",
+      "alt_answers": []
+    },
+    {
+      "prompt": "company",
+      "answer": "компания",
+      "alt_answers": []
+    },
+    {
+      "prompt": "boss",
+      "answer": "начальник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "colleague",
+      "answer": "коллега",
+      "alt_answers": []
+    },
+    {
+      "prompt": "meeting",
+      "answer": "встреча",
+      "alt_answers": []
+    },
+    {
+      "prompt": "project",
+      "answer": "проект",
+      "alt_answers": []
+    },
+    {
+      "prompt": "document",
+      "answer": "документ",
+      "alt_answers": []
+    },
+    {
+      "prompt": "report",
+      "answer": "отчёт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "contract",
+      "answer": "договор",
+      "alt_answers": []
+    },
+    {
+      "prompt": "salary",
+      "answer": "зарплата",
+      "alt_answers": []
+    },
+    {
+      "prompt": "vacation",
+      "answer": "отпуск",
+      "alt_answers": []
+    },
+    {
+      "prompt": "business trip",
+      "answer": "командировка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to do",
+      "answer": "делать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to take",
+      "answer": "брать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to give",
+      "answer": "давать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to show",
+      "answer": "показывать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to ask",
+      "answer": "спрашивать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to answer",
+      "answer": "отвечать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to explain",
+      "answer": "объяснять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to understand",
+      "answer": "понимать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to remember",
+      "answer": "помнить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to forget",
+      "answer": "забывать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to begin",
+      "answer": "начинать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to finish",
+      "answer": "заканчивать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to continue",
+      "answer": "продолжать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to stop",
+      "answer": "останавливать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to change",
+      "answer": "менять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to improve",
+      "answer": "улучшать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to solve",
+      "answer": "решать",
+      "alt_answers": []
+    }
+  ]
+}

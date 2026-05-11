@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 15 Phrases Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Thin ice.",
+      "answer": "Тонкий лёд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dense forest.",
+      "answer": "Густой лес.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Rare case.",
+      "answer": "Редкий случай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Frequent visits.",
+      "answer": "Частые визиты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Clean water.",
+      "answer": "Чистая вода.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dirty clothes.",
+      "answer": "Грязная одежда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fresh bread.",
+      "answer": "Свежий хлеб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Old car.",
+      "answer": "Старая машина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Ancient city.",
+      "answer": "Древний город.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Modern technology.",
+      "answer": "Современная технология.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Future generation.",
+      "answer": "Будущее поколение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Past year.",
+      "answer": "Прошлый год.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Real friendship.",
+      "answer": "Настоящая дружба.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Permanent address.",
+      "answer": "Постоянный адрес.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Temporary work.",
+      "answer": "Временная работа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Eternal love.",
+      "answer": "Вечная любовь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Short way.",
+      "answer": "Короткий путь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Long road.",
+      "answer": "Длинная дорога.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tall tree.",
+      "answer": "Высокое дерево.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Low ceiling.",
+      "answer": "Низкий потолок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Upper floor.",
+      "answer": "Верхний этаж.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Lower shelf.",
+      "answer": "Нижняя полка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Front door.",
+      "answer": "Передняя дверь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Back yard.",
+      "answer": "Задний двор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Middle finger.",
+      "answer": "Средний палец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Deadline.",
+      "answer": "Крайний срок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Inner world.",
+      "answer": "Внутренний мир.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Appearance.",
+      "answer": "Внешний вид.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Main street.",
+      "answer": "Главная улица.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Basic idea.",
+      "answer": "Основная идея.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Secondary role.",
+      "answer": "Второстепенная роль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Important information.",
+      "answer": "Важная информация.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Necessary conditions.",
+      "answer": "Необходимые условия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Needed documents.",
+      "answer": "Нужные документы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Useful advice.",
+      "answer": "Полезный совет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Harmful habit.",
+      "answer": "Вредная привычка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is possible.",
+      "answer": "Это возможно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Completely impossible.",
+      "answer": "Совершенно невозможно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Probable result.",
+      "answer": "Вероятный результат.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Exact time.",
+      "answer": "Точное время.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Approximate calculation.",
+      "answer": "Приблизительный расчёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Correct answer.",
+      "answer": "Верный ответ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Incorrect decision.",
+      "answer": "Неверное решение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "False alarm.",
+      "answer": "Ложная тревога.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "True reason.",
+      "answer": "Истинная причина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Valid fact.",
+      "answer": "Действительный факт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Real life.",
+      "answer": "Реальная жизнь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Genuine gold.",
+      "answer": "Настоящее золото.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Artificial intelligence.",
+      "answer": "Искусственный интеллект.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Natural selection.",
+      "answer": "Естественный отбор.",
+      "alt_answers": []
+    }
+  ]
+}

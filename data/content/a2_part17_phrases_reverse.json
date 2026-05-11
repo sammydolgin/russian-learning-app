@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 17 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I study at the history faculty.",
+      "answer": "Я учусь на историческом факультете.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The physics department is on the third floor.",
+      "answer": "Кафедра физики находится на третьем этаже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The dean signed an important document.",
+      "answer": "Декан подписал важный документ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The rector spoke before the students.",
+      "answer": "Ректор выступал перед студентами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The professor gives the lecture very loudly.",
+      "answer": "Профессор читает лекцию очень громко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The associate professor leads our literature seminar.",
+      "answer": "Доцент ведёт наш семинар по литературе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother is a PhD student in the chemistry department.",
+      "answer": "Мой брат — аспирант на кафедре химии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My classmate lives in the dormitory.",
+      "answer": "Мой однокурсник живёт в общежитии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lecture was interesting but long.",
+      "answer": "Лекция была интересной, но длинной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At the seminar we discuss texts.",
+      "answer": "На семинаре мы обсуждаем тексты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I write notes at every lecture.",
+      "answer": "Я пишу конспект на каждой лекции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The new academic year begins in September.",
+      "answer": "Новый учебный год начинается в сентябре.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This semester ends in January.",
+      "answer": "Этот семестр заканчивается в январе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am in the second year of study.",
+      "answer": "Я учусь на втором курсе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My major is economics.",
+      "answer": "Моя специальность — экономика.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In a year I will get my diploma.",
+      "answer": "Через год я получу диплом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The diploma defense will be in June.",
+      "answer": "Защита диплома будет в июне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am writing a term paper in literature.",
+      "answer": "Я пишу курсовую по литературе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The PhD student is writing a long dissertation.",
+      "answer": "Аспирант пишет большую диссертацию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow I have a credit test in physics.",
+      "answer": "Завтра у меня зачёт по физике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He will have a retake in August.",
+      "answer": "У него будет пересдача в августе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The winter exam session will begin soon.",
+      "answer": "Зимняя сессия скоро начнётся.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The entrance exam was very difficult.",
+      "answer": "Вступительный экзамен был очень трудным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I passed the final exam in mathematics.",
+      "answer": "Выпускной экзамен по математике я сдал.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a graduate of our university.",
+      "answer": "Он выпускник нашего университета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The first-year student looked for the lecture hall for a long time.",
+      "answer": "Первокурсник долго искал аудиторию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lecture hall was full of students.",
+      "answer": "Аудитория была полна студентов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I live in a student dormitory.",
+      "answer": "Я живу в студенческом общежитии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have lunch in the cafeteria every day.",
+      "answer": "Мы обедаем в столовой каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This month I received a scholarship.",
+      "answer": "В этом месяце я получил стипендию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Higher education is very important.",
+      "answer": "Высшее образование очень важно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Studies take a lot of time.",
+      "answer": "Учёба отнимает много времени.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to enroll in university.",
+      "answer": "Я хочу поступать в университет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She was admitted to the medical faculty.",
+      "answer": "Она поступила на медицинский факультет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow I am taking the physics exam.",
+      "answer": "Завтра я сдаю экзамен по физике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He passed all the exams with top marks.",
+      "answer": "Он сдал все экзамены на пятёрки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not want to fail this exam.",
+      "answer": "Я не хочу провалить этот экзамен.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow he will defend his diploma.",
+      "answer": "Завтра он будет защищать диплом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are researching a new material in the laboratory.",
+      "answer": "Мы исследуем новый материал в лаборатории.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Students analyze texts at the seminar.",
+      "answer": "Студенты анализируют тексты на семинаре.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At the lecture we discuss difficult questions.",
+      "answer": "На лекции мы обсуждаем сложные вопросы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The professor is proving his theory.",
+      "answer": "Профессор доказывает свою теорию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am comparing two different methods.",
+      "answer": "Я сравниваю два разных метода.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I will give a presentation tomorrow.",
+      "answer": "Я буду выступать с докладом завтра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His presentation was very interesting.",
+      "answer": "Его доклад был очень интересным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I read a scientific article about space.",
+      "answer": "Я прочитал научную статью о космосе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a serious scientific work.",
+      "answer": "Это серьёзный научный труд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Higher education is expensive.",
+      "answer": "Высшее образование стоит дорого.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The academic year lasts nine months.",
+      "answer": "Академический год длится девять месяцев.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I study at Moscow University.",
+      "answer": "Я учусь в Московском университете.",
+      "alt_answers": []
+    }
+  ]
+}

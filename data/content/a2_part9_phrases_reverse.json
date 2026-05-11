@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 9 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "The main square of the city.",
+      "answer": "Главная площадь города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We walk in the park.",
+      "answer": "Мы гуляем в парке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Beautiful garden with flowers.",
+      "answer": "Красивый сад с цветами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The museum is open until six.",
+      "answer": "Музей открыт до шести.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Art gallery.",
+      "answer": "Художественная галерея.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Monument to Pushkin.",
+      "answer": "Памятник Пушкину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fountain in the center of the square.",
+      "answer": "Фонтан в центре площади.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Old bridge over the river.",
+      "answer": "Старый мост через реку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tall building.",
+      "answer": "Высокое здание.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Eiffel Tower in Paris.",
+      "answer": "Эйфелева башня в Париже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Medieval castle.",
+      "answer": "Средневековый замок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Royal palace.",
+      "answer": "Королевский дворец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Old church.",
+      "answer": "Старая церковь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cathedral.",
+      "answer": "Кафедральный собор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Beautiful mosque.",
+      "answer": "Красивая мечеть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Ancient synagogue.",
+      "answer": "Древняя синагога.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Buddhist temple.",
+      "answer": "Буддийский храм.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Italian restaurant.",
+      "answer": "Итальянский ресторан.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cozy cafe.",
+      "answer": "Уютное кафе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Popular bar.",
+      "answer": "Популярный бар.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Night club.",
+      "answer": "Ночной клуб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Expensive hotel.",
+      "answer": "Дорогая гостиница.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Five-star hotel.",
+      "answer": "Пятизвёздочный отель.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cheap hostel.",
+      "answer": "Дешёвый хостел.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Parking is paid.",
+      "answer": "Парковка платная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Gas station is closed.",
+      "answer": "Заправка закрыта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fresh bread from the bakery.",
+      "answer": "Свежий хлеб из пекарни.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The confectionery sells cakes.",
+      "answer": "Кондитерская продаёт торты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The post office works until five.",
+      "answer": "Почта работает до пяти.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Police investigate the case.",
+      "answer": "Полиция расследует дело.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fire service.",
+      "answer": "Пожарная служба.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "American embassy.",
+      "answer": "Американское посольство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Russian consulate.",
+      "answer": "Российское консульство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Textile factory.",
+      "answer": "Текстильная фабрика.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Automobile plant.",
+      "answer": "Автомобильный завод.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Farm in the village.",
+      "answer": "Ферма в деревне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Small village.",
+      "answer": "Маленькая деревня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Life in the village.",
+      "answer": "Жизнь в селе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Moscow is the capital of Russia.",
+      "answer": "Москва — столица России.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your country?",
+      "answer": "Какая твоя страна?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Independent state.",
+      "answer": "Независимое государство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Russian people.",
+      "answer": "Русский народ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Multinational country.",
+      "answer": "Многонациональная страна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Border between countries.",
+      "answer": "Граница между странами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Customs control.",
+      "answer": "Таможенный контроль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a visa.",
+      "answer": "Мне нужна виза.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Show your passport.",
+      "answer": "Покажите паспорт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Buy a plane ticket.",
+      "answer": "Купить билет на самолёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is my luggage?",
+      "answer": "Где мой багаж?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Heavy suitcase.",
+      "answer": "Тяжёлый чемодан.",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "phase": "A0 Part 4 Words (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "it is necessary",
+      "answer": "нужно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "it is allowed",
+      "answer": "можно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "it is not allowed",
+      "answer": "нельзя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "always",
+      "answer": "всегда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "never",
+      "answer": "никогда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "often",
+      "answer": "часто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rarely",
+      "answer": "редко",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sometimes",
+      "answer": "иногда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "then",
+      "answer": "потом",
+      "alt_answers": []
+    },
+    {
+      "prompt": "already",
+      "answer": "уже",
+      "alt_answers": []
+    },
+    {
+      "prompt": "still",
+      "answer": "ещё",
+      "alt_answers": []
+    },
+    {
+      "prompt": "many",
+      "answer": "много",
+      "alt_answers": []
+    },
+    {
+      "prompt": "few",
+      "answer": "мало",
+      "alt_answers": []
+    },
+    {
+      "prompt": "a little",
+      "answer": "немного",
+      "alt_answers": []
+    },
+    {
+      "prompt": "everywhere",
+      "answer": "везде",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nowhere",
+      "answer": "нигде",
+      "alt_answers": []
+    },
+    {
+      "prompt": "alone",
+      "answer": "один",
+      "alt_answers": []
+    },
+    {
+      "prompt": "also",
+      "answer": "тоже",
+      "alt_answers": []
+    },
+    {
+      "prompt": "only",
+      "answer": "только",
+      "alt_answers": []
+    },
+    {
+      "prompt": "if",
+      "answer": "если",
+      "alt_answers": []
+    },
+    {
+      "prompt": "because",
+      "answer": "потому что",
+      "alt_answers": []
+    },
+    {
+      "prompt": "or",
+      "answer": "или",
+      "alt_answers": []
+    },
+    {
+      "prompt": "in",
+      "answer": "в",
+      "alt_answers": []
+    },
+    {
+      "prompt": "on",
+      "answer": "на",
+      "alt_answers": []
+    },
+    {
+      "prompt": "with",
+      "answer": "с",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to",
+      "answer": "к",
+      "alt_answers": []
+    },
+    {
+      "prompt": "from",
+      "answer": "от",
+      "alt_answers": []
+    },
+    {
+      "prompt": "until",
+      "answer": "до",
+      "alt_answers": []
+    },
+    {
+      "prompt": "after",
+      "answer": "после",
+      "alt_answers": []
+    },
+    {
+      "prompt": "without",
+      "answer": "без",
+      "alt_answers": []
+    },
+    {
+      "prompt": "for",
+      "answer": "для",
+      "alt_answers": []
+    },
+    {
+      "prompt": "about",
+      "answer": "про",
+      "alt_answers": []
+    },
+    {
+      "prompt": "at",
+      "answer": "у",
+      "alt_answers": []
+    },
+    {
+      "prompt": "above",
+      "answer": "над",
+      "alt_answers": []
+    },
+    {
+      "prompt": "under",
+      "answer": "под",
+      "alt_answers": []
+    },
+    {
+      "prompt": "between",
+      "answer": "между",
+      "alt_answers": []
+    },
+    {
+      "prompt": "behind",
+      "answer": "за",
+      "alt_answers": []
+    },
+    {
+      "prompt": "in front of",
+      "answer": "перед",
+      "alt_answers": []
+    },
+    {
+      "prompt": "through",
+      "answer": "через",
+      "alt_answers": []
+    },
+    {
+      "prompt": "near",
+      "answer": "около",
+      "alt_answers": []
+    },
+    {
+      "prompt": "money",
+      "answer": "деньги",
+      "alt_answers": []
+    },
+    {
+      "prompt": "question",
+      "answer": "вопрос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "answer",
+      "answer": "ответ",
+      "alt_answers": []
+    },
+    {
+      "prompt": "truth",
+      "answer": "правда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lie",
+      "answer": "ложь",
+      "alt_answers": []
+    }
+  ]
+}

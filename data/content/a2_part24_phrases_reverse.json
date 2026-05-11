@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 24 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "My sister is very sociable.",
+      "answer": "Моя сестра очень общительная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a responsible worker.",
+      "answer": "Он ответственный работник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a very reliable friend.",
+      "answer": "Это очень надёжный друг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The devoted dog waited for its owner.",
+      "answer": "Преданный пёс ждал хозяина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A teacher should be fair.",
+      "answer": "Учитель должен быть справедливым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A tactful person thinks about others.",
+      "answer": "Тактичный человек думает о других.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Her child is very well-mannered.",
+      "answer": "Её ребёнок очень воспитанный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A determined student works a lot.",
+      "answer": "Целеустремлённый студент много работает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My boss is a very organized person.",
+      "answer": "Мой начальник — очень организованный человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A punctual employee is never late.",
+      "answer": "Пунктуальный сотрудник никогда не опаздывает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has neat handwriting.",
+      "answer": "У неё аккуратный почерк.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This boy is very capable.",
+      "answer": "Этот мальчик очень способный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has a creative approach to work.",
+      "answer": "У него творческий подход к работе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother is a romantic young man.",
+      "answer": "Мой брат — романтичный молодой человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandfather is very witty.",
+      "answer": "Дедушка очень остроумный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has a playful character.",
+      "answer": "У него шутливый характер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is an enthusiastic artist.",
+      "answer": "Она увлечённый художник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be so selfish.",
+      "answer": "Не будь таким эгоистичным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This impudent guy is not afraid of anything.",
+      "answer": "Этот наглый парень ничего не боится.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My son is very stubborn.",
+      "answer": "Мой сын очень упрямый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The capricious child does not want to eat.",
+      "answer": "Капризный ребёнок не хочет есть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "An ill-mannered person rarely has friends.",
+      "answer": "Невоспитанный человек редко имеет друзей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His room is always messy.",
+      "answer": "Его комната всегда неряшливая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "An irresponsible driver is dangerous on the road.",
+      "answer": "Безответственный водитель опасен на дороге.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The overconfident player lost the match.",
+      "answer": "Самоуверенный игрок проиграл матч.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is indifferent to other people's problems.",
+      "answer": "Он равнодушный к чужим проблемам.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The boss has a sharp tone.",
+      "answer": "У начальника резкий тон.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The reserved boy sat alone.",
+      "answer": "Замкнутый мальчик сидел один.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The silent neighbor rarely speaks.",
+      "answer": "Молчаливый сосед редко говорит.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A talkative friend speaks without stopping.",
+      "answer": "Болтливый друг говорит без остановки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The curious cat looked into the bag.",
+      "answer": "Любопытный кот заглянул в сумку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The persistent salesperson called again.",
+      "answer": "Настойчивый продавец позвонил снова.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a strict math teacher.",
+      "answer": "У нас строгий учитель математики.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandmother is tender and kind.",
+      "answer": "Бабушка нежная и добрая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Children's behavior depends on the parents.",
+      "answer": "Поведение детей зависит от родителей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It was a brave deed.",
+      "answer": "Это был смелый поступок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good upbringing is very important.",
+      "answer": "Хорошее воспитание очень важно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Kindness makes the world better.",
+      "answer": "Доброта делает мир лучше.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Honesty is the main quality of a friend.",
+      "answer": "Честность — главное качество друга.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Trust must be earned.",
+      "answer": "Доверие нужно заработать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not like deception.",
+      "answer": "Я не люблю обман.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Greed is a bad quality.",
+      "answer": "Жадность — плохое качество.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His diligence surprises everyone.",
+      "answer": "Его трудолюбие удивляет всех.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Laziness gets in the way of studying.",
+      "answer": "Лень мешает учиться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Courage is needed by every person.",
+      "answer": "Смелость нужна каждому человеку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Her generosity has no limits.",
+      "answer": "Её щедрость не имеет границ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mom takes care of the children every day.",
+      "answer": "Мама заботится о детях каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I fully trust my friend.",
+      "answer": "Я полностью доверяю моему другу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You should not deceive your parents.",
+      "answer": "Нельзя обманывать родителей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Behave well at school.",
+      "answer": "Веди себя хорошо в школе.",
+      "alt_answers": []
+    }
+  ]
+}

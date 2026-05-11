@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 7 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "What feeling do you have?",
+      "answer": "Какое у тебя чувство?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I control my emotions.",
+      "answer": "Я контролирую свои эмоции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a good mood.",
+      "answer": "У меня хорошее настроение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has a strong character.",
+      "answer": "У него сильный характер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is a kind woman.",
+      "answer": "Она добрая женщина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be angry.",
+      "answer": "Не будь злым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You are very smart.",
+      "answer": "Ты очень умный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a stupid idea.",
+      "answer": "Это глупая идея.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is always cheerful.",
+      "answer": "Он всегда весёлый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Why are you sad?",
+      "answer": "Почему ты грустный?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be calm.",
+      "answer": "Будь спокойным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am very nervous.",
+      "answer": "Я очень нервный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is physically strong.",
+      "answer": "Он физически сильный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I feel weak.",
+      "answer": "Я чувствую себя слабым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You are a brave person.",
+      "answer": "Ты храбрый человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be cowardly.",
+      "answer": "Не будь трусливым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Honesty is important.",
+      "answer": "Честность важна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is too lazy.",
+      "answer": "Он слишком ленивый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is a hardworking student.",
+      "answer": "Она трудолюбивая студентка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be polite.",
+      "answer": "Будь вежливым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is rude behavior.",
+      "answer": "Это грубое поведение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My uncle is generous.",
+      "answer": "Мой дядя щедрый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be greedy.",
+      "answer": "Не будь жадным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am proud of you.",
+      "answer": "Я горжусь тобой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a modest person.",
+      "answer": "Он скромный человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am confident in myself.",
+      "answer": "Я уверен в себе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is very shy.",
+      "answer": "Она очень застенчивая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be patient.",
+      "answer": "Будь терпеливым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be impatient.",
+      "answer": "Не будь нетерпеливым.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a serious problem.",
+      "answer": "Это серьёзная проблема.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You are so funny!",
+      "answer": "Ты такой смешной!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has a kind heart.",
+      "answer": "У неё доброе сердце.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cruelty is unacceptable.",
+      "answer": "Жестокость недопустима.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a talented musician.",
+      "answer": "Он талантливый музыкант.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am not a jealous person.",
+      "answer": "Я не ревнивый человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I feel lonely.",
+      "answer": "Я чувствую себя одиноким.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They are friendly people.",
+      "answer": "Они дружелюбные люди.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Hostile attitude.",
+      "answer": "Враждебное отношение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wise advice.",
+      "answer": "Мудрый совет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't act like a fool.",
+      "answer": "Не веди себя как глупец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a real hero.",
+      "answer": "Он настоящий герой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Only a coward runs away.",
+      "answer": "Только трус убегает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is a born leader.",
+      "answer": "Она прирождённый лидер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am not a follower.",
+      "answer": "Я не последователь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be an optimist.",
+      "answer": "Будь оптимистом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a pessimist by nature.",
+      "answer": "Он пессимист по натуре.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My dream came true.",
+      "answer": "Моя мечта сбылась.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a wish.",
+      "answer": "У меня есть желание.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Willpower is important.",
+      "answer": "Сила воли важна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Conscience torments me.",
+      "answer": "Совесть меня мучает.",
+      "alt_answers": []
+    }
+  ]
+}

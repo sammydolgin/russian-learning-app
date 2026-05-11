@@ -1,0 +1,256 @@
+{
+  "phase": "A0 Part 3 Words (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "year",
+      "answer": "год",
+      "alt_answers": []
+    },
+    {
+      "prompt": "month",
+      "answer": "месяц",
+      "alt_answers": []
+    },
+    {
+      "prompt": "week",
+      "answer": "неделя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hour",
+      "answer": "час",
+      "alt_answers": []
+    },
+    {
+      "prompt": "minute",
+      "answer": "минута",
+      "alt_answers": []
+    },
+    {
+      "prompt": "time",
+      "answer": "время",
+      "alt_answers": []
+    },
+    {
+      "prompt": "life",
+      "answer": "жизнь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "world",
+      "answer": "мир",
+      "alt_answers": []
+    },
+    {
+      "prompt": "language",
+      "answer": "язык",
+      "alt_answers": []
+    },
+    {
+      "prompt": "word",
+      "answer": "слово",
+      "alt_answers": []
+    },
+    {
+      "prompt": "number",
+      "answer": "число",
+      "alt_answers": []
+    },
+    {
+      "prompt": "place",
+      "answer": "место",
+      "alt_answers": []
+    },
+    {
+      "prompt": "face",
+      "answer": "лицо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "eye",
+      "answer": "глаз",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hand",
+      "answer": "рука",
+      "alt_answers": []
+    },
+    {
+      "prompt": "leg",
+      "answer": "нога",
+      "alt_answers": []
+    },
+    {
+      "prompt": "head",
+      "answer": "голова",
+      "alt_answers": []
+    },
+    {
+      "prompt": "man",
+      "answer": "мужчина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "woman",
+      "answer": "женщина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "child",
+      "answer": "ребёнок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "boy",
+      "answer": "мальчик",
+      "alt_answers": []
+    },
+    {
+      "prompt": "girl",
+      "answer": "девочка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "car",
+      "answer": "машина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to remember",
+      "answer": "помнить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to forget",
+      "answer": "забыть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to give",
+      "answer": "дать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to take",
+      "answer": "взять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to find",
+      "answer": "найти",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to say",
+      "answer": "сказать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to ask",
+      "answer": "спросить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to answer",
+      "answer": "ответить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to open",
+      "answer": "открыть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to close",
+      "answer": "закрыть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to start",
+      "answer": "начать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to finish",
+      "answer": "кончить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to stand",
+      "answer": "стоять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to sit",
+      "answer": "сидеть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to lie",
+      "answer": "лежать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to play",
+      "answer": "играть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to watch",
+      "answer": "смотреть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to listen",
+      "answer": "слушать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to call",
+      "answer": "звать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to wait",
+      "answer": "ждать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to buy",
+      "answer": "покупать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to sell",
+      "answer": "продавать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to help",
+      "answer": "помогать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to meet",
+      "answer": "встречать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "there (direction)",
+      "answer": "туда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "here (direction)",
+      "answer": "сюда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "together",
+      "answer": "вместе",
+      "alt_answers": []
+    }
+  ]
+}

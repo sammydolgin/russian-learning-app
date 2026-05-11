@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 4 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Where is the store here?",
+      "answer": "Где здесь магазин?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am going to the supermarket.",
+      "answer": "Я иду в супермаркет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The market works until six.",
+      "answer": "Рынок работает до шести.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a good purchase.",
+      "answer": "Это хорошая покупка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today there is a big sale.",
+      "answer": "Сегодня большая продажа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is the price of this book?",
+      "answer": "Какая цена этой книги?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a discount on clothing.",
+      "answer": "Есть скидка на одежду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This phone is very expensive.",
+      "answer": "Этот телефон очень дорогой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am looking for a cheap hotel.",
+      "answer": "Я ищу дешёвый отель.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Entrance is free.",
+      "answer": "Вход бесплатный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have no money.",
+      "answer": "У меня нет денег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This costs one hundred rubles.",
+      "answer": "Это стоит сто рублей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The dollar is more expensive than the ruble.",
+      "answer": "Доллар дороже рубля.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The euro is the European currency.",
+      "answer": "Евро — европейская валюта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The bank is closed on Sunday.",
+      "answer": "Банк закрыт в воскресенье.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I pay by card?",
+      "answer": "Можно платить картой?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I only have cash.",
+      "answer": "У меня только наличные.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Bring the bill, please.",
+      "answer": "Принесите счёт, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Here is your change.",
+      "answer": "Вот ваша сдача.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is the checkout?",
+      "answer": "Где касса?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your size?",
+      "answer": "Какой ваш размер?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My favorite color is blue.",
+      "answer": "Мой любимый цвет синий.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Red wine is more expensive than white.",
+      "answer": "Красное вино дороже белого.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sky is blue in color.",
+      "answer": "Небо синего цвета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The grass is green.",
+      "answer": "Трава зелёная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The black suit is elegant.",
+      "answer": "Чёрный костюм элегантный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The white shirt is clean.",
+      "answer": "Белая рубашка чистая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The quality is very good.",
+      "answer": "Качество очень хорошее.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What quantity do you need?",
+      "answer": "Какое количество вам нужно?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "One hundred people came.",
+      "answer": "Сто человек пришло.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A thousand people live in the city.",
+      "answer": "В городе живёт тысяча человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A million rubles is a lot of money.",
+      "answer": "Миллион рублей — много денег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to buy a new car.",
+      "answer": "Я хочу купить новую машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is selling his apartment.",
+      "answer": "Он продаёт свою квартиру.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I will pay for everything.",
+      "answer": "Я заплачу за всё.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "How much does this cost?",
+      "answer": "Сколько это стоит?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am choosing a gift for mom.",
+      "answer": "Я выбираю подарок для мамы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am looking for my keys.",
+      "answer": "Я ищу свои ключи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I found a good job.",
+      "answer": "Я нашёл хорошую работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I lost my phone.",
+      "answer": "Я потерял свой телефон.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I return this item?",
+      "answer": "Можно возвратить этот товар?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to exchange dollars for rubles.",
+      "answer": "Я хочу обменять доллары на рубли.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Try this soup.",
+      "answer": "Попробуй этот суп.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I try on this dress?",
+      "answer": "Можно примерить это платье?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "These trousers fit me.",
+      "answer": "Эти брюки мне подходят.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I like this city.",
+      "answer": "Мне нравится этот город.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is enough money for living.",
+      "answer": "Денег хватает на жизнь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need your help.",
+      "answer": "Мне нужна твоя помощь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have many friends.",
+      "answer": "У меня много друзей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has little time.",
+      "answer": "У него мало времени.",
+      "alt_answers": []
+    }
+  ]
+}

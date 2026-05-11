@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 6 Audio (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Spring is my favorite season.",
+      "answer": "Весна — моё любимое время года.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer it is always hot.",
+      "answer": "Летом всегда жарко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In autumn the leaves fall.",
+      "answer": "Осенью листья падают.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In winter it snows.",
+      "answer": "Зимой идёт снег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "January is the first month of the year.",
+      "answer": "Январь — первый месяц года.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My birthday is in February.",
+      "answer": "Мой день рождения в феврале.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "March is the beginning of spring.",
+      "answer": "Март — начало весны.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In April it often rains.",
+      "answer": "В апреле часто идёт дождь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "May is a beautiful month.",
+      "answer": "Май — красивый месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "June is the beginning of summer.",
+      "answer": "Июнь — начало лета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "July is the hottest month.",
+      "answer": "Июль — самый жаркий месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In August I was at the sea.",
+      "answer": "В августе я был на море.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "September is the beginning of autumn.",
+      "answer": "Сентябрь — начало осени.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In October the weather changes.",
+      "answer": "В октябре погода меняется.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "November is a cold month.",
+      "answer": "Ноябрь — холодный месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "December is the last month of the year.",
+      "answer": "Декабрь — последний месяц года.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Monday is the first day of the week.",
+      "answer": "Понедельник — первый день недели.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "On Tuesday I have a meeting.",
+      "answer": "Во вторник у меня встреча.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wednesday is the middle of the week.",
+      "answer": "Среда — середина недели.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "On Thursday I work late.",
+      "answer": "В четверг я работаю допоздна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Friday is my favorite day.",
+      "answer": "Пятница — мой любимый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "On Saturday I rest.",
+      "answer": "В субботу я отдыхаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sunday is a day off.",
+      "answer": "Воскресенье — выходной день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good morning!",
+      "answer": "Доброе утро!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In the afternoon I work.",
+      "answer": "Днём я работаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In the evening we walk.",
+      "answer": "Вечером мы гуляем.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At night everyone sleeps.",
+      "answer": "Ночью все спят.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At noon we have lunch.",
+      "answer": "В полдень мы обедаем.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At midnight a new day begins.",
+      "answer": "В полночь начинается новый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dawn is very beautiful.",
+      "answer": "Рассвет очень красивый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We met at sunset.",
+      "answer": "Мы встретились на закате.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Time flies fast.",
+      "answer": "Время летит быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The clock shows three o'clock.",
+      "answer": "Часы показывают три часа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The alarm clock rings at seven.",
+      "answer": "Будильник звонит в семь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Look at the calendar.",
+      "answer": "Смотри в календарь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today is a holiday.",
+      "answer": "Сегодня праздник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When is your birthday?",
+      "answer": "Когда твой день рождения?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I always get up early.",
+      "answer": "Я всегда встаю рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We often go to the cinema.",
+      "answer": "Мы часто ходим в кино.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sometimes I read in the evenings.",
+      "answer": "Иногда я читаю по вечерам.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He rarely calls me.",
+      "answer": "Он редко звонит мне.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I never am late.",
+      "answer": "Я никогда не опаздываю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I usually work at home.",
+      "answer": "Я обычно работаю дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He already left.",
+      "answer": "Он уже ушёл.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am still here.",
+      "answer": "Я ещё здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They will come soon.",
+      "answer": "Они скоро придут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is already late.",
+      "answer": "Уже поздно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is still early.",
+      "answer": "Ещё рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Come on time.",
+      "answer": "Приходи вовремя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sorry, I am late.",
+      "answer": "Извини, я опоздал.",
+      "alt_answers": []
+    }
+  ]
+}

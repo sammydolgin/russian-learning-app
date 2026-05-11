@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 12 Words Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "science",
+      "answer": "наука",
+      "alt_answers": []
+    },
+    {
+      "prompt": "scientist",
+      "answer": "учёный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "research",
+      "answer": "исследование",
+      "alt_answers": []
+    },
+    {
+      "prompt": "experiment",
+      "answer": "эксперимент",
+      "alt_answers": []
+    },
+    {
+      "prompt": "laboratory",
+      "answer": "лаборатория",
+      "alt_answers": []
+    },
+    {
+      "prompt": "discovery",
+      "answer": "открытие",
+      "alt_answers": []
+    },
+    {
+      "prompt": "invention",
+      "answer": "изобретение",
+      "alt_answers": []
+    },
+    {
+      "prompt": "theory",
+      "answer": "теория",
+      "alt_answers": []
+    },
+    {
+      "prompt": "practice",
+      "answer": "практика",
+      "alt_answers": []
+    },
+    {
+      "prompt": "method",
+      "answer": "метод",
+      "alt_answers": []
+    },
+    {
+      "prompt": "result",
+      "answer": "результат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "proof",
+      "answer": "доказательство",
+      "alt_answers": []
+    },
+    {
+      "prompt": "technology",
+      "answer": "технология",
+      "alt_answers": []
+    },
+    {
+      "prompt": "computer",
+      "answer": "компьютер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "program",
+      "answer": "программа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "internet",
+      "answer": "интернет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "website",
+      "answer": "сайт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "electronic",
+      "answer": "электронный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "digital",
+      "answer": "цифровой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "data",
+      "answer": "данные",
+      "alt_answers": []
+    },
+    {
+      "prompt": "information",
+      "answer": "информация",
+      "alt_answers": []
+    },
+    {
+      "prompt": "connection",
+      "answer": "связь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "network",
+      "answer": "сеть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "system",
+      "answer": "система",
+      "alt_answers": []
+    },
+    {
+      "prompt": "process",
+      "answer": "процесс",
+      "alt_answers": []
+    },
+    {
+      "prompt": "form",
+      "answer": "форма",
+      "alt_answers": []
+    },
+    {
+      "prompt": "circle",
+      "answer": "круг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "square",
+      "answer": "квадрат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "triangle",
+      "answer": "треугольник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "line",
+      "answer": "линия",
+      "alt_answers": []
+    },
+    {
+      "prompt": "point",
+      "answer": "точка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "angle",
+      "answer": "угол",
+      "alt_answers": []
+    },
+    {
+      "prompt": "center",
+      "answer": "центр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "edge",
+      "answer": "край",
+      "alt_answers": []
+    },
+    {
+      "prompt": "size",
+      "answer": "размер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "length",
+      "answer": "длина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "width",
+      "answer": "ширина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "height",
+      "answer": "высота",
+      "alt_answers": []
+    },
+    {
+      "prompt": "depth",
+      "answer": "глубина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "weight",
+      "answer": "вес",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mass",
+      "answer": "масса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "volume",
+      "answer": "объём",
+      "alt_answers": []
+    },
+    {
+      "prompt": "area",
+      "answer": "площадь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "meter",
+      "answer": "метр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "centimeter",
+      "answer": "сантиметр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "kilogram",
+      "answer": "килограмм",
+      "alt_answers": []
+    },
+    {
+      "prompt": "liter",
+      "answer": "литр",
+      "alt_answers": []
+    },
+    {
+      "prompt": "degree",
+      "answer": "градус",
+      "alt_answers": []
+    },
+    {
+      "prompt": "number",
+      "answer": "число",
+      "alt_answers": []
+    },
+    {
+      "prompt": "quantity",
+      "answer": "количество",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 16 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "This pupil studies well.",
+      "answer": "Этот ученик хорошо учится.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The female pupil sits at the first desk.",
+      "answer": "Ученица сидит за первой партой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The female teacher explains a new rule.",
+      "answer": "Учительница объясняет новое правило.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The school principal is a serious person.",
+      "answer": "Директор школы — серьёзный человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your favorite subject?",
+      "answer": "Какой твой любимый предмет?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love mathematics most of all.",
+      "answer": "Я люблю математику больше всего.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In biology we study animals.",
+      "answer": "На биологии мы изучаем животных.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Geography is an interesting subject.",
+      "answer": "География — интересный предмет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In literature class we read poems.",
+      "answer": "На уроке литературы мы читаем стихи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Chemistry is very difficult for me.",
+      "answer": "Химия для меня очень сложная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Physics is my favorite subject.",
+      "answer": "Физика — мой любимый предмет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In geometry we draw triangles.",
+      "answer": "На геометрии мы рисуем треугольники.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Algebra is part of mathematics.",
+      "answer": "Алгебра — часть математики.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The Russian language lesson is very useful.",
+      "answer": "Урок русского языка очень полезный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I study a foreign language at school.",
+      "answer": "Я изучаю иностранный язык в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In PE we run and jump.",
+      "answer": "На физкультуре мы бегаем и прыгаем.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Drawing class helps to be attentive.",
+      "answer": "Рисование помогает быть внимательным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This schoolboy is always first.",
+      "answer": "Этот школьник всегда первый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The schoolgirl is writing in the notebook.",
+      "answer": "Школьница пишет в тетради.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are twenty pupils in our classroom.",
+      "answer": "В нашем классе двадцать учеников.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I sit at the desk by the window.",
+      "answer": "Я сижу за партой у окна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "During the break the children play in the yard.",
+      "answer": "На перемене дети играют во дворе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The school bell rang, the lesson began.",
+      "answer": "Звонок прозвенел, урок начался.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tomorrow we have a test in chemistry.",
+      "answer": "Завтра у нас контрольная по химии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The teacher slowly reads the dictation.",
+      "answer": "Учитель медленно читает диктант.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I wrote a long essay.",
+      "answer": "Я написал длинное сочинение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every rule must be memorized.",
+      "answer": "Каждое правило надо запоминать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This math example is very simple.",
+      "answer": "Этот пример очень простой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The problem was difficult, but I solved it.",
+      "answer": "Задача была трудной, но я её решил.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Your answer is correct.",
+      "answer": "Твой ответ правильный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a question for the teacher.",
+      "answer": "У меня есть вопрос к учителю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today I got an A grade.",
+      "answer": "Сегодня я получил пятёрку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "An F is a bad grade.",
+      "answer": "Двойка — это плохая оценка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mom looked at my diary.",
+      "answer": "Мама посмотрела мой дневник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are books and notebooks in the schoolbag.",
+      "answer": "В портфеле лежат книги и тетради.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pencil case is on the desk.",
+      "answer": "Пенал лежит на парте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a big globe on the table.",
+      "answer": "На столе стоит большой глобус.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I look in the atlas in geography class.",
+      "answer": "Я смотрю в атлас на уроке географии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have been studying Russian for three years.",
+      "answer": "Я изучаю русский язык три года.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "One must memorize new words every day.",
+      "answer": "Надо запоминать новые слова каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I often forget the rules.",
+      "answer": "Я часто забываю правила.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "All pupils sometimes make mistakes.",
+      "answer": "Все ученики иногда ошибаются.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The female teacher corrects our mistakes.",
+      "answer": "Учительница исправляет наши ошибки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I solve math problems every evening.",
+      "answer": "Я решаю задачи по математике каждый вечер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The teacher checks the notebooks at home.",
+      "answer": "Учитель проверяет тетради дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is forbidden to prompt during the test.",
+      "answer": "Нельзя подсказывать на контрольной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The pupil raises his hand to answer.",
+      "answer": "Ученик поднимает руку, чтобы ответить.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not like to answer at the board.",
+      "answer": "Я не люблю отвечать у доски.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The homework was very big.",
+      "answer": "Домашняя работа была очень большой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Summer holidays are the best time.",
+      "answer": "Летние каникулы — самое лучшее время.",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 2 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "nature",
+      "answer": "природа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tree",
+      "answer": "дерево",
+      "alt_answers": []
+    },
+    {
+      "prompt": "flower",
+      "answer": "цветок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grass",
+      "answer": "трава",
+      "alt_answers": []
+    },
+    {
+      "prompt": "forest",
+      "answer": "лес",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mountain",
+      "answer": "гора",
+      "alt_answers": []
+    },
+    {
+      "prompt": "river",
+      "answer": "река",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lake",
+      "answer": "озеро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sea",
+      "answer": "море",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ocean",
+      "answer": "океан",
+      "alt_answers": []
+    },
+    {
+      "prompt": "island",
+      "answer": "остров",
+      "alt_answers": []
+    },
+    {
+      "prompt": "beach",
+      "answer": "пляж",
+      "alt_answers": []
+    },
+    {
+      "prompt": "earth",
+      "answer": "земля",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sky",
+      "answer": "небо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "star",
+      "answer": "звезда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "moon",
+      "answer": "луна",
+      "alt_answers": []
+    },
+    {
+      "prompt": "planet",
+      "answer": "планета",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dog",
+      "answer": "собака",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cat",
+      "answer": "кошка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bird",
+      "answer": "птица",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fish",
+      "answer": "рыба",
+      "alt_answers": []
+    },
+    {
+      "prompt": "horse",
+      "answer": "лошадь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cow",
+      "answer": "корова",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pig",
+      "answer": "свинья",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sheep",
+      "answer": "овца",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bear",
+      "answer": "медведь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "wolf",
+      "answer": "волк",
+      "alt_answers": []
+    },
+    {
+      "prompt": "fox",
+      "answer": "лиса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hare",
+      "answer": "заяц",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mouse",
+      "answer": "мышь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "snake",
+      "answer": "змея",
+      "alt_answers": []
+    },
+    {
+      "prompt": "husband",
+      "answer": "муж",
+      "alt_answers": []
+    },
+    {
+      "prompt": "wife",
+      "answer": "жена",
+      "alt_answers": []
+    },
+    {
+      "prompt": "parents",
+      "answer": "родители",
+      "alt_answers": []
+    },
+    {
+      "prompt": "children",
+      "answer": "дети",
+      "alt_answers": []
+    },
+    {
+      "prompt": "son",
+      "answer": "сын",
+      "alt_answers": []
+    },
+    {
+      "prompt": "daughter",
+      "answer": "дочь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandfather",
+      "answer": "дедушка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandmother",
+      "answer": "бабушка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "grandson",
+      "answer": "внук",
+      "alt_answers": []
+    },
+    {
+      "prompt": "granddaughter",
+      "answer": "внучка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "uncle",
+      "answer": "дядя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "aunt",
+      "answer": "тётя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nephew",
+      "answer": "племянник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "niece",
+      "answer": "племянница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cousin",
+      "answer": "двоюродный брат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cousin",
+      "answer": "двоюродная сестра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "neighbor",
+      "answer": "сосед",
+      "alt_answers": []
+    },
+    {
+      "prompt": "neighbor",
+      "answer": "соседка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "acquaintance",
+      "answer": "знакомый",
+      "alt_answers": []
+    }
+  ]
+}

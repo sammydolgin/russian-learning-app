@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 11 Audio Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I love music.",
+      "answer": "Я люблю музыку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Beautiful song.",
+      "answer": "Красивая песня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Pleasant melody.",
+      "answer": "Приятная мелодия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fast rhythm.",
+      "answer": "Быстрый ритм.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The concert starts at eight.",
+      "answer": "Концерт начинается в восемь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Symphony orchestra.",
+      "answer": "Симфонический оркестр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Talented musician.",
+      "answer": "Талантливый музыкант.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Famous singer.",
+      "answer": "Известный певец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Young singer.",
+      "answer": "Молодая певица.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Great composer.",
+      "answer": "Великий композитор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Musical instrument.",
+      "answer": "Музыкальный инструмент.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To play the guitar.",
+      "answer": "Играть на гитаре.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To learn to play the piano.",
+      "answer": "Учиться играть на пианино.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The violin sounds beautiful.",
+      "answer": "Скрипка звучит красиво.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The drum is loud.",
+      "answer": "Барабан громкий.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Let's go to the cinema.",
+      "answer": "Идём в кино.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Interesting film.",
+      "answer": "Интересный фильм.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Modern movie theater.",
+      "answer": "Современный кинотеатр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Big screen.",
+      "answer": "Большой экран.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Actor on stage.",
+      "answer": "Актёр на сцене.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Famous actor.",
+      "answer": "Известный актёр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Young actress.",
+      "answer": "Молодая актриса.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Talented director.",
+      "answer": "Талантливый режиссёр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The viewer applauds.",
+      "answer": "Зритель аплодирует.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The audience is satisfied.",
+      "answer": "Публика довольна.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Loud applause.",
+      "answer": "Громкие аплодисменты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Drama theater.",
+      "answer": "Драматический театр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Evening performance.",
+      "answer": "Вечерний спектакль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Famous play.",
+      "answer": "Известная пьеса.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Main role.",
+      "answer": "Главная роль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Buy a theater ticket.",
+      "answer": "Купить билет в театр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Concert program.",
+      "answer": "Концертная программа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Evening entertainment.",
+      "answer": "Вечернее развлечение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Interesting game.",
+      "answer": "Интересная игра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a hobby.",
+      "answer": "У меня есть хобби.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To show interest.",
+      "answer": "Проявлять интерес.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To collect a collection.",
+      "answer": "Собирать коллекцию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Stamp collection.",
+      "answer": "Коллекция марок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Old coin.",
+      "answer": "Старая монета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To play chess.",
+      "answer": "Играть в шахматы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To play cards.",
+      "answer": "Играть в карты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To do sports.",
+      "answer": "Заниматься спортом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Football team.",
+      "answer": "Футбольная команда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Important match.",
+      "answer": "Важный матч.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sports competition.",
+      "answer": "Спортивное соревнование.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To win victory.",
+      "answer": "Одержать победу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To suffer defeat.",
+      "answer": "Потерпеть поражение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Olympic champion.",
+      "answer": "Олимпийский чемпион.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Experienced coach.",
+      "answer": "Опытный тренер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "New stadium.",
+      "answer": "Новый стадион.",
+      "alt_answers": []
+    }
+  ]
+}

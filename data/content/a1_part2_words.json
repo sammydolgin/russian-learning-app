@@ -1,0 +1,290 @@
+{
+  "phase": "A1 Part 2 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "каша",
+      "answer": "porridge",
+      "alt_answers": [
+        "kasha",
+        "gruel"
+      ]
+    },
+    {
+      "prompt": "рис",
+      "answer": "rice",
+      "alt_answers": []
+    },
+    {
+      "prompt": "овощи",
+      "answer": "vegetables",
+      "alt_answers": []
+    },
+    {
+      "prompt": "фрукты",
+      "answer": "fruit",
+      "alt_answers": [
+        "fruits"
+      ]
+    },
+    {
+      "prompt": "яблоко",
+      "answer": "apple",
+      "alt_answers": []
+    },
+    {
+      "prompt": "банан",
+      "answer": "banana",
+      "alt_answers": []
+    },
+    {
+      "prompt": "апельсин",
+      "answer": "orange",
+      "alt_answers": []
+    },
+    {
+      "prompt": "помидор",
+      "answer": "tomato",
+      "alt_answers": []
+    },
+    {
+      "prompt": "картошка",
+      "answer": "potato",
+      "alt_answers": [
+        "potatoes"
+      ]
+    },
+    {
+      "prompt": "морковь",
+      "answer": "carrot",
+      "alt_answers": []
+    },
+    {
+      "prompt": "лук",
+      "answer": "onion",
+      "alt_answers": []
+    },
+    {
+      "prompt": "масло",
+      "answer": "butter",
+      "alt_answers": [
+        "oil"
+      ]
+    },
+    {
+      "prompt": "сахар",
+      "answer": "sugar",
+      "alt_answers": []
+    },
+    {
+      "prompt": "соль",
+      "answer": "salt",
+      "alt_answers": []
+    },
+    {
+      "prompt": "яйцо",
+      "answer": "egg",
+      "alt_answers": []
+    },
+    {
+      "prompt": "сыр",
+      "answer": "cheese",
+      "alt_answers": []
+    },
+    {
+      "prompt": "пирог",
+      "answer": "pie",
+      "alt_answers": [
+        "cake",
+        "pastry"
+      ]
+    },
+    {
+      "prompt": "мороженое",
+      "answer": "ice cream",
+      "alt_answers": []
+    },
+    {
+      "prompt": "сок",
+      "answer": "juice",
+      "alt_answers": []
+    },
+    {
+      "prompt": "пиво",
+      "answer": "beer",
+      "alt_answers": []
+    },
+    {
+      "prompt": "вино",
+      "answer": "wine",
+      "alt_answers": []
+    },
+    {
+      "prompt": "квартира",
+      "answer": "apartment",
+      "alt_answers": [
+        "flat"
+      ]
+    },
+    {
+      "prompt": "комната",
+      "answer": "room",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кухня",
+      "answer": "kitchen",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ванная",
+      "answer": "bathroom",
+      "alt_answers": []
+    },
+    {
+      "prompt": "спальня",
+      "answer": "bedroom",
+      "alt_answers": []
+    },
+    {
+      "prompt": "гостиная",
+      "answer": "living room",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кровать",
+      "answer": "bed",
+      "alt_answers": []
+    },
+    {
+      "prompt": "диван",
+      "answer": "sofa",
+      "alt_answers": [
+        "couch"
+      ]
+    },
+    {
+      "prompt": "шкаф",
+      "answer": "wardrobe",
+      "alt_answers": [
+        "cupboard",
+        "closet"
+      ]
+    },
+    {
+      "prompt": "холодильник",
+      "answer": "refrigerator",
+      "alt_answers": [
+        "fridge"
+      ]
+    },
+    {
+      "prompt": "плита",
+      "answer": "stove",
+      "alt_answers": [
+        "cooker"
+      ]
+    },
+    {
+      "prompt": "телевизор",
+      "answer": "television",
+      "alt_answers": [
+        "TV",
+        "telly"
+      ]
+    },
+    {
+      "prompt": "компьютер",
+      "answer": "computer",
+      "alt_answers": []
+    },
+    {
+      "prompt": "телефон",
+      "answer": "telephone",
+      "alt_answers": [
+        "phone"
+      ]
+    },
+    {
+      "prompt": "лампа",
+      "answer": "lamp",
+      "alt_answers": [
+        "light"
+      ]
+    },
+    {
+      "prompt": "зеркало",
+      "answer": "mirror",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ковёр",
+      "answer": "carpet",
+      "alt_answers": [
+        "rug"
+      ]
+    },
+    {
+      "prompt": "полка",
+      "answer": "shelf",
+      "alt_answers": []
+    },
+    {
+      "prompt": "врач",
+      "answer": "doctor",
+      "alt_answers": [
+        "physician"
+      ]
+    },
+    {
+      "prompt": "учитель",
+      "answer": "teacher",
+      "alt_answers": []
+    },
+    {
+      "prompt": "студент",
+      "answer": "student",
+      "alt_answers": []
+    },
+    {
+      "prompt": "инженер",
+      "answer": "engineer",
+      "alt_answers": []
+    },
+    {
+      "prompt": "водитель",
+      "answer": "driver",
+      "alt_answers": []
+    },
+    {
+      "prompt": "повар",
+      "answer": "cook",
+      "alt_answers": [
+        "chef"
+      ]
+    },
+    {
+      "prompt": "продавец",
+      "answer": "seller",
+      "alt_answers": [
+        "salesperson",
+        "shopkeeper"
+      ]
+    },
+    {
+      "prompt": "полицейский",
+      "answer": "police officer",
+      "alt_answers": [
+        "policeman",
+        "cop"
+      ]
+    },
+    {
+      "prompt": "строитель",
+      "answer": "builder",
+      "alt_answers": [
+        "construction worker"
+      ]
+    }
+  ]
+}

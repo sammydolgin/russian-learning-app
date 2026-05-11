@@ -1,0 +1,298 @@
+{
+  "phase": "A1 Part 10 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "начало",
+      "answer": "beginning",
+      "alt_answers": [
+        "start"
+      ]
+    },
+    {
+      "prompt": "пример",
+      "answer": "example",
+      "alt_answers": []
+    },
+    {
+      "prompt": "правило",
+      "answer": "rule",
+      "alt_answers": []
+    },
+    {
+      "prompt": "закон",
+      "answer": "law",
+      "alt_answers": []
+    },
+    {
+      "prompt": "право",
+      "answer": "right",
+      "alt_answers": [
+        "law"
+      ]
+    },
+    {
+      "prompt": "цвет",
+      "answer": "colour",
+      "alt_answers": [
+        "color"
+      ]
+    },
+    {
+      "prompt": "форма",
+      "answer": "shape",
+      "alt_answers": [
+        "form"
+      ]
+    },
+    {
+      "prompt": "размер",
+      "answer": "size",
+      "alt_answers": []
+    },
+    {
+      "prompt": "вес",
+      "answer": "weight",
+      "alt_answers": []
+    },
+    {
+      "prompt": "цена",
+      "answer": "price",
+      "alt_answers": []
+    },
+    {
+      "prompt": "скорость",
+      "answer": "speed",
+      "alt_answers": []
+    },
+    {
+      "prompt": "расстояние",
+      "answer": "distance",
+      "alt_answers": []
+    },
+    {
+      "prompt": "направление",
+      "answer": "direction",
+      "alt_answers": []
+    },
+    {
+      "prompt": "возраст",
+      "answer": "age",
+      "alt_answers": []
+    },
+    {
+      "prompt": "опыт",
+      "answer": "experience",
+      "alt_answers": []
+    },
+    {
+      "prompt": "память",
+      "answer": "memory",
+      "alt_answers": []
+    },
+    {
+      "prompt": "голос",
+      "answer": "voice",
+      "alt_answers": []
+    },
+    {
+      "prompt": "звук",
+      "answer": "sound",
+      "alt_answers": [
+        "noise"
+      ]
+    },
+    {
+      "prompt": "свет",
+      "answer": "light",
+      "alt_answers": []
+    },
+    {
+      "prompt": "тень",
+      "answer": "shadow",
+      "alt_answers": [
+        "shade"
+      ]
+    },
+    {
+      "prompt": "земля",
+      "answer": "earth",
+      "alt_answers": [
+        "ground",
+        "land"
+      ]
+    },
+    {
+      "prompt": "небо",
+      "answer": "sky",
+      "alt_answers": [
+        "heaven"
+      ]
+    },
+    {
+      "prompt": "солнечный",
+      "answer": "sunny",
+      "alt_answers": []
+    },
+    {
+      "prompt": "дождливый",
+      "answer": "rainy",
+      "alt_answers": [
+        "wet"
+      ]
+    },
+    {
+      "prompt": "снежный",
+      "answer": "snowy",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ветреный",
+      "answer": "windy",
+      "alt_answers": []
+    },
+    {
+      "prompt": "пасмурный",
+      "answer": "cloudy",
+      "alt_answers": [
+        "overcast"
+      ]
+    },
+    {
+      "prompt": "тихий",
+      "answer": "quiet",
+      "alt_answers": [
+        "calm",
+        "silent"
+      ]
+    },
+    {
+      "prompt": "шумный",
+      "answer": "noisy",
+      "alt_answers": [
+        "loud"
+      ]
+    },
+    {
+      "prompt": "занятой",
+      "answer": "busy",
+      "alt_answers": []
+    },
+    {
+      "prompt": "свободный",
+      "answer": "free",
+      "alt_answers": [
+        "available"
+      ]
+    },
+    {
+      "prompt": "готовый",
+      "answer": "ready",
+      "alt_answers": []
+    },
+    {
+      "prompt": "открытый",
+      "answer": "open",
+      "alt_answers": []
+    },
+    {
+      "prompt": "закрытый",
+      "answer": "closed",
+      "alt_answers": [
+        "shut"
+      ]
+    },
+    {
+      "prompt": "вместе с",
+      "answer": "together with",
+      "alt_answers": [
+        "along with"
+      ]
+    },
+    {
+      "prompt": "вместо",
+      "answer": "instead of",
+      "alt_answers": []
+    },
+    {
+      "prompt": "несмотря на",
+      "answer": "despite",
+      "alt_answers": [
+        "in spite of"
+      ]
+    },
+    {
+      "prompt": "во время",
+      "answer": "during",
+      "alt_answers": []
+    },
+    {
+      "prompt": "согласно",
+      "answer": "according to",
+      "alt_answers": []
+    },
+    {
+      "prompt": "хотя",
+      "answer": "although",
+      "alt_answers": [
+        "though",
+        "even though"
+      ]
+    },
+    {
+      "prompt": "пока",
+      "answer": "while",
+      "alt_answers": [
+        "as long as",
+        "bye"
+      ]
+    },
+    {
+      "prompt": "чтобы",
+      "answer": "in order to",
+      "alt_answers": [
+        "so that",
+        "to"
+      ]
+    },
+    {
+      "prompt": "тогда",
+      "answer": "then",
+      "alt_answers": [
+        "at that time"
+      ]
+    },
+    {
+      "prompt": "поэтому",
+      "answer": "therefore",
+      "alt_answers": [
+        "so",
+        "that's why"
+      ]
+    },
+    {
+      "prompt": "однако",
+      "answer": "however",
+      "alt_answers": [
+        "but",
+        "yet"
+      ]
+    },
+    {
+      "prompt": "зато",
+      "answer": "but on the other hand",
+      "alt_answers": [
+        "but",
+        "however"
+      ]
+    },
+    {
+      "prompt": "кроме",
+      "answer": "except",
+      "alt_answers": [
+        "besides",
+        "apart from"
+      ]
+    }
+  ]
+}

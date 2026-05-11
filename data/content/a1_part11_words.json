@@ -1,0 +1,275 @@
+{
+  "phase": "A1 Part 11 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "среди",
+      "answer": "among",
+      "alt_answers": []
+    },
+    {
+      "prompt": "дед",
+      "answer": "grandfather",
+      "alt_answers": [
+        "grandpa"
+      ]
+    },
+    {
+      "prompt": "бабушка",
+      "answer": "grandmother",
+      "alt_answers": [
+        "grandma"
+      ]
+    },
+    {
+      "prompt": "дедушка",
+      "answer": "grandfather",
+      "alt_answers": [
+        "grandpa",
+        "grandad"
+      ]
+    },
+    {
+      "prompt": "внук",
+      "answer": "grandson",
+      "alt_answers": []
+    },
+    {
+      "prompt": "внучка",
+      "answer": "granddaughter",
+      "alt_answers": []
+    },
+    {
+      "prompt": "дядя",
+      "answer": "uncle",
+      "alt_answers": []
+    },
+    {
+      "prompt": "тётя",
+      "answer": "aunt",
+      "alt_answers": []
+    },
+    {
+      "prompt": "племянник",
+      "answer": "nephew",
+      "alt_answers": []
+    },
+    {
+      "prompt": "племянница",
+      "answer": "niece",
+      "alt_answers": []
+    },
+    {
+      "prompt": "муж",
+      "answer": "husband",
+      "alt_answers": []
+    },
+    {
+      "prompt": "жена",
+      "answer": "wife",
+      "alt_answers": []
+    },
+    {
+      "prompt": "подруга",
+      "answer": "friend (female)",
+      "alt_answers": [
+        "girlfriend"
+      ]
+    },
+    {
+      "prompt": "знакомый",
+      "answer": "acquaintance",
+      "alt_answers": [
+        "familiar person"
+      ]
+    },
+    {
+      "prompt": "сосед",
+      "answer": "neighbour",
+      "alt_answers": [
+        "neighbor"
+      ]
+    },
+    {
+      "prompt": "коллега",
+      "answer": "colleague",
+      "alt_answers": [
+        "coworker"
+      ]
+    },
+    {
+      "prompt": "гость",
+      "answer": "guest",
+      "alt_answers": [
+        "visitor"
+      ]
+    },
+    {
+      "prompt": "господин",
+      "answer": "mister",
+      "alt_answers": [
+        "sir",
+        "Mr."
+      ]
+    },
+    {
+      "prompt": "госпожа",
+      "answer": "Mrs",
+      "alt_answers": [
+        "Miss",
+        "Ms",
+        "madam"
+      ]
+    },
+    {
+      "prompt": "ноябрь (adj.)",
+      "answer": "November (adj.)",
+      "alt_answers": []
+    },
+    {
+      "prompt": "завтра",
+      "answer": "tomorrow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "вчера",
+      "answer": "yesterday",
+      "alt_answers": []
+    },
+    {
+      "prompt": "сегодня",
+      "answer": "today",
+      "alt_answers": []
+    },
+    {
+      "prompt": "позавчера",
+      "answer": "the day before yesterday",
+      "alt_answers": []
+    },
+    {
+      "prompt": "послезавтра",
+      "answer": "the day after tomorrow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "недавно",
+      "answer": "recently",
+      "alt_answers": [
+        "not long ago"
+      ]
+    },
+    {
+      "prompt": "давно",
+      "answer": "a long time ago",
+      "alt_answers": [
+        "long ago"
+      ]
+    },
+    {
+      "prompt": "утром",
+      "answer": "in the morning",
+      "alt_answers": [
+        "this morning"
+      ]
+    },
+    {
+      "prompt": "вечером",
+      "answer": "in the evening",
+      "alt_answers": [
+        "this evening"
+      ]
+    },
+    {
+      "prompt": "ночью",
+      "answer": "at night",
+      "alt_answers": []
+    },
+    {
+      "prompt": "днём",
+      "answer": "during the day",
+      "alt_answers": [
+        "in the afternoon"
+      ]
+    },
+    {
+      "prompt": "на прошлой неделе",
+      "answer": "last week",
+      "alt_answers": []
+    },
+    {
+      "prompt": "на следующей неделе",
+      "answer": "next week",
+      "alt_answers": []
+    },
+    {
+      "prompt": "в прошлом году",
+      "answer": "last year",
+      "alt_answers": []
+    },
+    {
+      "prompt": "в следующем году",
+      "answer": "next year",
+      "alt_answers": []
+    },
+    {
+      "prompt": "полчаса",
+      "answer": "half an hour",
+      "alt_answers": [
+        "thirty minutes"
+      ]
+    },
+    {
+      "prompt": "четверть часа",
+      "answer": "a quarter of an hour",
+      "alt_answers": [
+        "fifteen minutes"
+      ]
+    },
+    {
+      "prompt": "почти никогда",
+      "answer": "almost never",
+      "alt_answers": [
+        "hardly ever"
+      ]
+    },
+    {
+      "prompt": "несколько",
+      "answer": "several",
+      "alt_answers": [
+        "a few",
+        "some"
+      ]
+    },
+    {
+      "prompt": "сначала",
+      "answer": "at first",
+      "alt_answers": [
+        "first of all",
+        "firstly"
+      ]
+    },
+    {
+      "prompt": "потом (затем)",
+      "answer": "afterwards",
+      "alt_answers": [
+        "then",
+        "next"
+      ]
+    },
+    {
+      "prompt": "особенно",
+      "answer": "especially",
+      "alt_answers": [
+        "particularly"
+      ]
+    },
+    {
+      "prompt": "обычно",
+      "answer": "usually",
+      "alt_answers": [
+        "normally",
+        "typically"
+      ]
+    }
+  ]
+}

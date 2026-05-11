@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 22 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Summer holidays will start soon.",
+      "answer": "Летние каникулы скоро начнутся.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our trip to the mountains was wonderful.",
+      "answer": "Наша поездка в горы была чудесной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "After work I need rest.",
+      "answer": "После работы мне нужен отдых.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to book a room in the hotel.",
+      "answer": "Я хочу забронировать номер в гостинице.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a reservation for tomorrow.",
+      "answer": "У меня есть бронь на завтра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Leave the keys at the reception.",
+      "answer": "Оставьте ключи на ресепшене.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The hotel receptionist is very polite.",
+      "answer": "Администратор отеля очень вежливый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The maid cleans the room every day.",
+      "answer": "Горничная убирает номер каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a single room.",
+      "answer": "Мне нужен одноместный номер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They booked a double room.",
+      "answer": "Они забронировали двухместный номер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We lived there for three days.",
+      "answer": "Мы жили там трое суток.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "How much does accommodation in this hotel cost?",
+      "answer": "Сколько стоит проживание в этом отеле?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Check-in starts at three o'clock.",
+      "answer": "Заселение начинается в три часа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Check-out is tomorrow at eleven.",
+      "answer": "Выселение завтра в одиннадцать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Buy a guidebook to Moscow.",
+      "answer": "Купи путеводитель по Москве.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This brochure will tell about the city.",
+      "answer": "Эта брошюра расскажет о городе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I bought a souvenir for my mother.",
+      "answer": "Я купил сувенир для мамы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I sent a postcard from Paris.",
+      "answer": "Из Парижа я прислал открытку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You cannot take photos here.",
+      "answer": "Здесь нельзя фотографировать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Show your ID, please.",
+      "answer": "Покажите ваше удостоверение, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My homeland is Russia.",
+      "answer": "Моя родина — Россия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I met a compatriot in Italy.",
+      "answer": "Я встретил соотечественника в Италии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother studies at a foreign university.",
+      "answer": "Мой брат учится в зарубежном университете.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This resort is located by the sea.",
+      "answer": "Этот курорт находится у моря.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sea air is good for health.",
+      "answer": "Морской воздух полезен для здоровья.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mountain air is very clean.",
+      "answer": "Горный воздух очень чистый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A beach holiday is my dream.",
+      "answer": "Пляжный отдых — это моя мечта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We set up a tent by the river.",
+      "answer": "Мы поставили палатку у реки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer we will go camping.",
+      "answer": "Летом мы поедем в кемпинг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The hike in the mountains was long.",
+      "answer": "Поход в горы был долгим.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They sailed on a cruise on the sea.",
+      "answer": "Они поплыли в круиз по морю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We bought a travel package to Turkey.",
+      "answer": "Мы купили путёвку в Турцию.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where can one process a visa?",
+      "answer": "Где можно оформить визу?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Help me pack the suitcase.",
+      "answer": "Помоги мне упаковать чемодан.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "After the trip I unpacked my things for a long time.",
+      "answer": "После поездки я долго распаковывал вещи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The return home was pleasant.",
+      "answer": "Возвращение домой было приятным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Before departure we said goodbye to friends.",
+      "answer": "Перед отъездом мы попрощались с друзьями.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Their arrival was unexpected.",
+      "answer": "Их приезд был неожиданным.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This foreigner speaks a little Russian.",
+      "answer": "Этот иностранец немного говорит по-русски.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The local residents are very friendly.",
+      "answer": "Местные жители очень дружелюбные.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The tour guide knows the city's history well.",
+      "answer": "Экскурсовод хорошо знает историю города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We walked along the embankment all evening.",
+      "answer": "Мы гуляли по набережной весь вечер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a beautiful landscape outside the window.",
+      "answer": "За окном красивый пейзаж.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "From the mountain a beautiful view opens.",
+      "answer": "С горы открывается прекрасный вид.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What currency is in this country?",
+      "answer": "Какая валюта в этой стране?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to exchange money at the exchange office.",
+      "answer": "Я хочу обменять деньги в обменнике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At the restaurant we left a tip.",
+      "answer": "В ресторане мы оставили чаевые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Without a navigator I would have gotten lost.",
+      "answer": "Без навигатора я бы заблудился.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "An old lighthouse stands on the seashore.",
+      "answer": "Старый маяк стоит на берегу моря.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The ship moored at the pier.",
+      "answer": "Корабль причалил к пристани.",
+      "alt_answers": []
+    }
+  ]
+}

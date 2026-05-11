@@ -1,0 +1,301 @@
+{
+  "phase": "A0 Part 4 Audio (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "I have a brother.",
+      "answer": "У меня есть брат.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a sister.",
+      "answer": "У меня есть сестра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has a friend.",
+      "answer": "У него есть друг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has a family.",
+      "answer": "У неё есть семья.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not have a book.",
+      "answer": "У меня нет книги.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good night!",
+      "answer": "Спокойной ночи!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "How much does this cost?",
+      "answer": "Сколько это стоит?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have money.",
+      "answer": "У меня есть деньги.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not have money.",
+      "answer": "У меня нет денег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need water.",
+      "answer": "Мне нужна вода.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need help.",
+      "answer": "Мне нужна помощь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I have some water?",
+      "answer": "Можно мне воды?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "May I come in?",
+      "answer": "Можно войти?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is not allowed here.",
+      "answer": "Здесь нельзя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am often here.",
+      "answer": "Я часто здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is never here.",
+      "answer": "Он никогда не здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is sometimes at home.",
+      "answer": "Она иногда дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cat is under the table.",
+      "answer": "Кошка под столом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The door is closed.",
+      "answer": "Дверь закрыта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wait!",
+      "answer": "Подожди!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When are you going home?",
+      "answer": "Когда ты идёшь домой?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Because I want to.",
+      "answer": "Потому что я хочу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am already going.",
+      "answer": "Я уже иду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wait a little.",
+      "answer": "Подожди немного.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I will be home soon.",
+      "answer": "Я скоро буду дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Only I know this.",
+      "answer": "Только я знаю это.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to as well.",
+      "answer": "Я тоже хочу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is also here.",
+      "answer": "Он тоже здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Is this mine or yours?",
+      "answer": "Это мой или твой?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I don't know, but okay.",
+      "answer": "Не знаю, но хорошо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "If you want, go.",
+      "answer": "Если ты хочешь, иди.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am going because I want to.",
+      "answer": "Я иду, потому что хочу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is big and beautiful.",
+      "answer": "Он большой и красивый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is small but good.",
+      "answer": "Она маленькая, но хорошая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You cannot stand here.",
+      "answer": "Нельзя здесь стоять.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I always drink tea.",
+      "answer": "Я всегда пью чай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I never forget.",
+      "answer": "Я никогда не забываю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We often go together.",
+      "answer": "Мы часто идём вместе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He rarely drinks coffee.",
+      "answer": "Он редко пьёт кофе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sometimes I work at home.",
+      "answer": "Иногда я работаю дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Then I am going home.",
+      "answer": "Потом я иду домой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am already home.",
+      "answer": "Я уже дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am still reading.",
+      "answer": "Я ещё читаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have many books.",
+      "answer": "У меня много книг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have little time.",
+      "answer": "У меня мало времени.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I understand a little.",
+      "answer": "Я немного понимаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are people everywhere.",
+      "answer": "Везде люди.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is water nowhere.",
+      "answer": "Нигде нет воды.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I live alone.",
+      "answer": "Я живу один.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I also want tea.",
+      "answer": "Я тоже хочу чай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Only one chair.",
+      "answer": "Только один стул.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tea or coffee?",
+      "answer": "Чай или кофе?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am in the house.",
+      "answer": "Я в доме.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am going with a friend.",
+      "answer": "Я иду с другом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I work until evening.",
+      "answer": "Я работаю до вечера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "After work I am home.",
+      "answer": "После работы я дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tea without milk.",
+      "answer": "Чай без молока.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is for you.",
+      "answer": "Это для тебя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a book about life.",
+      "answer": "Это книга про жизнь.",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 8 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I get up at seven in the morning.",
+      "answer": "Я встаю в семь утра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sit down here.",
+      "answer": "Садись сюда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to lie down to sleep.",
+      "answer": "Я хочу лечь спать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I wake up early.",
+      "answer": "Я просыпаюсь рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He falls asleep quickly.",
+      "answer": "Он быстро засыпает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I get dressed in five minutes.",
+      "answer": "Я одеваюсь за пять минут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Undress and go to bed.",
+      "answer": "Раздевайся и ложись спать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Need to wash up.",
+      "answer": "Нужно умыться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is combing her hair.",
+      "answer": "Она причёсывается.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He shaves every morning.",
+      "answer": "Он бреется каждое утро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am preparing for the exam.",
+      "answer": "Я готовлюсь к экзамену.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are getting ready for the theater.",
+      "answer": "Мы собираемся в театр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't hurry!",
+      "answer": "Не торопись!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I managed to catch the train.",
+      "answer": "Я успел на поезд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Let's meet tomorrow.",
+      "answer": "Давай встретимся завтра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Time to say goodbye.",
+      "answer": "Пора прощаться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Nice to meet you.",
+      "answer": "Приятно познакомиться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Allow me to introduce myself.",
+      "answer": "Разрешите представиться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I invite you to dinner.",
+      "answer": "Я приглашаю тебя на ужин.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I often visit museums.",
+      "answer": "Я часто посещаю музеи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We visit grandmother.",
+      "answer": "Мы навещаем бабушку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The guests will come at eight.",
+      "answer": "Гости придут в восемь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Time to leave.",
+      "answer": "Пора уходить.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "May I enter?",
+      "answer": "Можно войти?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He exited the room.",
+      "answer": "Он вышел из комнаты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are climbing the mountain.",
+      "answer": "Мы поднимаемся на гору.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Descend carefully.",
+      "answer": "Спускайтесь осторожно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cross the road here.",
+      "answer": "Переходите дорогу здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn right.",
+      "answer": "Поверните направо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The bus stops here.",
+      "answer": "Автобус останавливается тут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The film continues for two hours.",
+      "answer": "Фильм продолжается два часа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lesson ends at three.",
+      "answer": "Урок кончается в три.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What happened?",
+      "answer": "Что случилось?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This occurs every day.",
+      "answer": "Это происходит каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sun appears in the sky.",
+      "answer": "Солнце появляется на небе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He disappeared without a trace.",
+      "answer": "Он исчез без следа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Prices are increasing.",
+      "answer": "Цены увеличиваются.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The temperature is decreasing.",
+      "answer": "Температура уменьшается.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Children grow quickly.",
+      "answer": "Дети быстро растут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Snow falls from the sky.",
+      "answer": "Снег падает с неба.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The car broke down.",
+      "answer": "Машина сломалась.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Need to repair the computer.",
+      "answer": "Нужно починить компьютер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "They are building a new house.",
+      "answer": "Они строят новый дом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "War destroys cities.",
+      "answer": "Война разрушает города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He created a masterpiece.",
+      "answer": "Он создал шедевр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Who invented the telephone?",
+      "answer": "Кто изобрёл телефон?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Open the book.",
+      "answer": "Откройте книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Close the door.",
+      "answer": "Закройте дверь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn on the light.",
+      "answer": "Включи свет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn off the television.",
+      "answer": "Выключи телевизор.",
+      "alt_answers": []
+    }
+  ]
+}

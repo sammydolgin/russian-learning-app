@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 20 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I opened a bank account.",
+      "answer": "Я открыл счёт в банке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The ATM stands around the corner.",
+      "answer": "Банкомат стоит за углом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a bank employee.",
+      "answer": "Это банковский служащий.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I pay with a credit card.",
+      "answer": "Я плачу кредитной картой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a debit card.",
+      "answer": "У меня есть дебетовая карта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a five-hundred-ruble banknote.",
+      "answer": "У меня купюра в пятьсот рублей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Take the receipt, please.",
+      "answer": "Возьмите чек, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Keep the payment receipt.",
+      "answer": "Сохраните квитанцию об оплате.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My wallet is in the bag.",
+      "answer": "Мой кошелёк лежит в сумке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I only have cash payment.",
+      "answer": "У меня только наличный расчёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Cashless payment is faster and more convenient.",
+      "answer": "Безналичный платёж быстрее и удобнее.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What currency is in this country?",
+      "answer": "Какая валюта в этой стране?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The currency exchange is nearby.",
+      "answer": "Обмен валюты находится рядом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The dollar exchange rate has changed.",
+      "answer": "Курс доллара изменился.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I made a transfer yesterday.",
+      "answer": "Я сделал перевод вчера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This deposit in the bank is profitable.",
+      "answer": "Этот вклад в банке выгодный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The payment has already arrived.",
+      "answer": "Оплата уже пришла.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The payment was big.",
+      "answer": "Платёж был большой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to withdraw money from the card.",
+      "answer": "Я хочу снять деньги с карты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I deposit money into the account?",
+      "answer": "Можно положить деньги на счёт?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can you transfer me a little money?",
+      "answer": "Можешь перевести мне немного денег?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to pay for lunch.",
+      "answer": "Я хочу заплатить за обед.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We need to pay this bill today.",
+      "answer": "Нужно оплатить этот счёт сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I spend little on food.",
+      "answer": "Я мало трачу на еду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to spend money on vacation.",
+      "answer": "Я хочу потратить деньги на отпуск.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am saving money for a new car.",
+      "answer": "Я копить деньги на новую машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We need to save money every month.",
+      "answer": "Нужно экономить деньги каждый месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother earns a lot.",
+      "answer": "Мой брат зарабатывает много.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cost of the ticket is very high.",
+      "answer": "Стоимость билета очень высокая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a big sale at the store.",
+      "answer": "В магазине большая распродажа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is a promotion on this product right now.",
+      "answer": "На этот товар сейчас акция.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This product is very popular.",
+      "answer": "Этот товар очень популярный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a small income.",
+      "answer": "У меня небольшой доход.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My expenses are bigger than my income.",
+      "answer": "Мой расход больше дохода.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Taxes must be paid on time.",
+      "answer": "Налог нужно платить вовремя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I took a loan for five years.",
+      "answer": "Я взял кредит на пять лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The interest on the loan is very high.",
+      "answer": "Процент по кредиту очень высокий.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a small loan.",
+      "answer": "Мне нужен небольшой займ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A mortgage for twenty years is a long time.",
+      "answer": "Ипотека на двадцать лет — это долго.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The firm received a good profit.",
+      "answer": "Фирма получила хорошую прибыль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We had a big loss last year.",
+      "answer": "У нас был большой убыток в прошлом году.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My budget is very small.",
+      "answer": "Мой бюджет очень маленький.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The country's economy is growing quickly.",
+      "answer": "Экономика страны быстро растёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This person is not poor.",
+      "answer": "Этот человек не бедный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A rich person lives in a big house.",
+      "answer": "Богатый человек живёт в большом доме.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is free for all students.",
+      "answer": "Это бесплатно для всех студентов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This car costs very expensive.",
+      "answer": "Эта машина стоит очень дорого.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Everything is cheap in this store.",
+      "answer": "В этом магазине всё дёшево.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I owe my friend five hundred rubles.",
+      "answer": "Я должен другу пятьсот рублей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A savings account gives a small percent.",
+      "answer": "Сберегательный счёт даёт небольшой процент.",
+      "alt_answers": []
+    }
+  ]
+}

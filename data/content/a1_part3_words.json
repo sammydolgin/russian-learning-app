@@ -1,0 +1,323 @@
+{
+  "phase": "A1 Part 3 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "певец",
+      "answer": "singer",
+      "alt_answers": []
+    },
+    {
+      "prompt": "актёр",
+      "answer": "actor",
+      "alt_answers": []
+    },
+    {
+      "prompt": "журналист",
+      "answer": "journalist",
+      "alt_answers": [
+        "reporter"
+      ]
+    },
+    {
+      "prompt": "чтение",
+      "answer": "reading",
+      "alt_answers": []
+    },
+    {
+      "prompt": "музыка",
+      "answer": "music",
+      "alt_answers": []
+    },
+    {
+      "prompt": "спорт",
+      "answer": "sport",
+      "alt_answers": [
+        "sports"
+      ]
+    },
+    {
+      "prompt": "футбол",
+      "answer": "football",
+      "alt_answers": [
+        "soccer"
+      ]
+    },
+    {
+      "prompt": "плавание",
+      "answer": "swimming",
+      "alt_answers": []
+    },
+    {
+      "prompt": "путешествие",
+      "answer": "travel",
+      "alt_answers": [
+        "journey",
+        "trip"
+      ]
+    },
+    {
+      "prompt": "танцы",
+      "answer": "dancing",
+      "alt_answers": []
+    },
+    {
+      "prompt": "рисование",
+      "answer": "drawing",
+      "alt_answers": [
+        "painting"
+      ]
+    },
+    {
+      "prompt": "фотография",
+      "answer": "photography",
+      "alt_answers": [
+        "photo",
+        "photograph"
+      ]
+    },
+    {
+      "prompt": "кино",
+      "answer": "cinema",
+      "alt_answers": [
+        "movies",
+        "film"
+      ]
+    },
+    {
+      "prompt": "театр",
+      "answer": "theatre",
+      "alt_answers": [
+        "theater"
+      ]
+    },
+    {
+      "prompt": "радость",
+      "answer": "joy",
+      "alt_answers": [
+        "happiness"
+      ]
+    },
+    {
+      "prompt": "грусть",
+      "answer": "sadness",
+      "alt_answers": [
+        "sorrow"
+      ]
+    },
+    {
+      "prompt": "страх",
+      "answer": "fear",
+      "alt_answers": [
+        "fright"
+      ]
+    },
+    {
+      "prompt": "злость",
+      "answer": "anger",
+      "alt_answers": [
+        "rage"
+      ]
+    },
+    {
+      "prompt": "удивление",
+      "answer": "surprise",
+      "alt_answers": [
+        "amazement"
+      ]
+    },
+    {
+      "prompt": "усталость",
+      "answer": "tiredness",
+      "alt_answers": [
+        "fatigue"
+      ]
+    },
+    {
+      "prompt": "счастье",
+      "answer": "happiness",
+      "alt_answers": [
+        "joy",
+        "bliss"
+      ]
+    },
+    {
+      "prompt": "любовь",
+      "answer": "love",
+      "alt_answers": []
+    },
+    {
+      "prompt": "надежда",
+      "answer": "hope",
+      "alt_answers": []
+    },
+    {
+      "prompt": "жёлтый",
+      "answer": "yellow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "оранжевый",
+      "answer": "orange",
+      "alt_answers": []
+    },
+    {
+      "prompt": "фиолетовый",
+      "answer": "purple",
+      "alt_answers": [
+        "violet"
+      ]
+    },
+    {
+      "prompt": "розовый",
+      "answer": "pink",
+      "alt_answers": []
+    },
+    {
+      "prompt": "коричневый",
+      "answer": "brown",
+      "alt_answers": []
+    },
+    {
+      "prompt": "серый",
+      "answer": "grey",
+      "alt_answers": [
+        "gray"
+      ]
+    },
+    {
+      "prompt": "голубой",
+      "answer": "light blue",
+      "alt_answers": [
+        "sky blue",
+        "blue"
+      ]
+    },
+    {
+      "prompt": "шесть",
+      "answer": "six",
+      "alt_answers": [
+        "6"
+      ]
+    },
+    {
+      "prompt": "семь",
+      "answer": "seven",
+      "alt_answers": [
+        "7"
+      ]
+    },
+    {
+      "prompt": "восемь",
+      "answer": "eight",
+      "alt_answers": [
+        "8"
+      ]
+    },
+    {
+      "prompt": "девять",
+      "answer": "nine",
+      "alt_answers": [
+        "9"
+      ]
+    },
+    {
+      "prompt": "десять",
+      "answer": "ten",
+      "alt_answers": [
+        "10"
+      ]
+    },
+    {
+      "prompt": "одиннадцать",
+      "answer": "eleven",
+      "alt_answers": [
+        "11"
+      ]
+    },
+    {
+      "prompt": "двенадцать",
+      "answer": "twelve",
+      "alt_answers": [
+        "12"
+      ]
+    },
+    {
+      "prompt": "тринадцать",
+      "answer": "thirteen",
+      "alt_answers": [
+        "13"
+      ]
+    },
+    {
+      "prompt": "четырнадцать",
+      "answer": "fourteen",
+      "alt_answers": [
+        "14"
+      ]
+    },
+    {
+      "prompt": "пятнадцать",
+      "answer": "fifteen",
+      "alt_answers": [
+        "15"
+      ]
+    },
+    {
+      "prompt": "шестнадцать",
+      "answer": "sixteen",
+      "alt_answers": [
+        "16"
+      ]
+    },
+    {
+      "prompt": "семнадцать",
+      "answer": "seventeen",
+      "alt_answers": [
+        "17"
+      ]
+    },
+    {
+      "prompt": "восемнадцать",
+      "answer": "eighteen",
+      "alt_answers": [
+        "18"
+      ]
+    },
+    {
+      "prompt": "девятнадцать",
+      "answer": "nineteen",
+      "alt_answers": [
+        "19"
+      ]
+    },
+    {
+      "prompt": "двадцать",
+      "answer": "twenty",
+      "alt_answers": [
+        "20"
+      ]
+    },
+    {
+      "prompt": "тридцать",
+      "answer": "thirty",
+      "alt_answers": [
+        "30"
+      ]
+    },
+    {
+      "prompt": "сорок",
+      "answer": "forty",
+      "alt_answers": [
+        "40"
+      ]
+    },
+    {
+      "prompt": "пятьдесят",
+      "answer": "fifty",
+      "alt_answers": [
+        "50"
+      ]
+    }
+  ]
+}

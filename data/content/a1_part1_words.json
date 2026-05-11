@@ -1,0 +1,288 @@
+{
+  "phase": "A1 Part 1 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "одежда",
+      "answer": "clothing",
+      "alt_answers": [
+        "clothes"
+      ]
+    },
+    {
+      "prompt": "рубашка",
+      "answer": "shirt",
+      "alt_answers": []
+    },
+    {
+      "prompt": "брюки",
+      "answer": "trousers",
+      "alt_answers": [
+        "pants"
+      ]
+    },
+    {
+      "prompt": "платье",
+      "answer": "dress",
+      "alt_answers": []
+    },
+    {
+      "prompt": "юбка",
+      "answer": "skirt",
+      "alt_answers": []
+    },
+    {
+      "prompt": "пальто",
+      "answer": "coat",
+      "alt_answers": []
+    },
+    {
+      "prompt": "куртка",
+      "answer": "jacket",
+      "alt_answers": []
+    },
+    {
+      "prompt": "свитер",
+      "answer": "sweater",
+      "alt_answers": [
+        "jumper"
+      ]
+    },
+    {
+      "prompt": "носки",
+      "answer": "socks",
+      "alt_answers": []
+    },
+    {
+      "prompt": "обувь",
+      "answer": "footwear",
+      "alt_answers": [
+        "shoes"
+      ]
+    },
+    {
+      "prompt": "туфли",
+      "answer": "shoes",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ботинки",
+      "answer": "boots",
+      "alt_answers": []
+    },
+    {
+      "prompt": "шапка",
+      "answer": "hat",
+      "alt_answers": [
+        "winter hat",
+        "cap"
+      ]
+    },
+    {
+      "prompt": "шарф",
+      "answer": "scarf",
+      "alt_answers": []
+    },
+    {
+      "prompt": "перчатки",
+      "answer": "gloves",
+      "alt_answers": []
+    },
+    {
+      "prompt": "пижама",
+      "answer": "pyjamas",
+      "alt_answers": [
+        "pajamas"
+      ]
+    },
+    {
+      "prompt": "футболка",
+      "answer": "t-shirt",
+      "alt_answers": [
+        "tshirt"
+      ]
+    },
+    {
+      "prompt": "джинсы",
+      "answer": "jeans",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кепка",
+      "answer": "cap",
+      "alt_answers": [
+        "baseball cap"
+      ]
+    },
+    {
+      "prompt": "костюм",
+      "answer": "suit",
+      "alt_answers": []
+    },
+    {
+      "prompt": "автобус",
+      "answer": "bus",
+      "alt_answers": []
+    },
+    {
+      "prompt": "поезд",
+      "answer": "train",
+      "alt_answers": []
+    },
+    {
+      "prompt": "самолёт",
+      "answer": "airplane",
+      "alt_answers": [
+        "plane",
+        "aeroplane"
+      ]
+    },
+    {
+      "prompt": "метро",
+      "answer": "metro",
+      "alt_answers": [
+        "subway",
+        "underground"
+      ]
+    },
+    {
+      "prompt": "велосипед",
+      "answer": "bicycle",
+      "alt_answers": [
+        "bike"
+      ]
+    },
+    {
+      "prompt": "такси",
+      "answer": "taxi",
+      "alt_answers": [
+        "cab"
+      ]
+    },
+    {
+      "prompt": "корабль",
+      "answer": "ship",
+      "alt_answers": [
+        "boat"
+      ]
+    },
+    {
+      "prompt": "трамвай",
+      "answer": "tram",
+      "alt_answers": [
+        "streetcar"
+      ]
+    },
+    {
+      "prompt": "станция",
+      "answer": "station",
+      "alt_answers": []
+    },
+    {
+      "prompt": "аэропорт",
+      "answer": "airport",
+      "alt_answers": []
+    },
+    {
+      "prompt": "дорога",
+      "answer": "road",
+      "alt_answers": [
+        "path",
+        "way"
+      ]
+    },
+    {
+      "prompt": "улица",
+      "answer": "street",
+      "alt_answers": []
+    },
+    {
+      "prompt": "погода",
+      "answer": "weather",
+      "alt_answers": []
+    },
+    {
+      "prompt": "солнце",
+      "answer": "sun",
+      "alt_answers": []
+    },
+    {
+      "prompt": "дождь",
+      "answer": "rain",
+      "alt_answers": []
+    },
+    {
+      "prompt": "снег",
+      "answer": "snow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ветер",
+      "answer": "wind",
+      "alt_answers": []
+    },
+    {
+      "prompt": "облако",
+      "answer": "cloud",
+      "alt_answers": []
+    },
+    {
+      "prompt": "тепло",
+      "answer": "warm",
+      "alt_answers": [
+        "it is warm"
+      ]
+    },
+    {
+      "prompt": "холодно",
+      "answer": "cold",
+      "alt_answers": [
+        "it is cold"
+      ]
+    },
+    {
+      "prompt": "жарко",
+      "answer": "hot",
+      "alt_answers": [
+        "it is hot"
+      ]
+    },
+    {
+      "prompt": "гроза",
+      "answer": "thunderstorm",
+      "alt_answers": [
+        "storm"
+      ]
+    },
+    {
+      "prompt": "туман",
+      "answer": "fog",
+      "alt_answers": []
+    },
+    {
+      "prompt": "лёд",
+      "answer": "ice",
+      "alt_answers": []
+    },
+    {
+      "prompt": "мясо",
+      "answer": "meat",
+      "alt_answers": []
+    },
+    {
+      "prompt": "рыба",
+      "answer": "fish",
+      "alt_answers": []
+    },
+    {
+      "prompt": "курица",
+      "answer": "chicken",
+      "alt_answers": []
+    },
+    {
+      "prompt": "суп",
+      "answer": "soup",
+      "alt_answers": []
+    }
+  ]
+}

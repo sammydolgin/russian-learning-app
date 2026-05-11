@@ -1,0 +1,330 @@
+{
+  "phase": "A1 Part 5 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "снаружи",
+      "answer": "outside",
+      "alt_answers": []
+    },
+    {
+      "prompt": "сзади",
+      "answer": "behind",
+      "alt_answers": [
+        "at the back"
+      ]
+    },
+    {
+      "prompt": "впереди",
+      "answer": "in front",
+      "alt_answers": [
+        "ahead"
+      ]
+    },
+    {
+      "prompt": "сверху",
+      "answer": "from above",
+      "alt_answers": [
+        "on top"
+      ]
+    },
+    {
+      "prompt": "снизу",
+      "answer": "from below",
+      "alt_answers": [
+        "underneath"
+      ]
+    },
+    {
+      "prompt": "направо",
+      "answer": "to the right",
+      "alt_answers": [
+        "right"
+      ]
+    },
+    {
+      "prompt": "налево",
+      "answer": "to the left",
+      "alt_answers": [
+        "left"
+      ]
+    },
+    {
+      "prompt": "прямо",
+      "answer": "straight ahead",
+      "alt_answers": [
+        "straight"
+      ]
+    },
+    {
+      "prompt": "быстро",
+      "answer": "quickly",
+      "alt_answers": [
+        "fast"
+      ]
+    },
+    {
+      "prompt": "медленно",
+      "answer": "slowly",
+      "alt_answers": []
+    },
+    {
+      "prompt": "громко",
+      "answer": "loudly",
+      "alt_answers": [
+        "loud"
+      ]
+    },
+    {
+      "prompt": "тихо",
+      "answer": "quietly",
+      "alt_answers": [
+        "softly",
+        "silently"
+      ]
+    },
+    {
+      "prompt": "хорошо (наречие)",
+      "answer": "well",
+      "alt_answers": [
+        "good"
+      ]
+    },
+    {
+      "prompt": "плохо (наречие)",
+      "answer": "badly",
+      "alt_answers": [
+        "poorly"
+      ]
+    },
+    {
+      "prompt": "рано",
+      "answer": "early",
+      "alt_answers": []
+    },
+    {
+      "prompt": "поздно",
+      "answer": "late",
+      "alt_answers": []
+    },
+    {
+      "prompt": "давно",
+      "answer": "long ago",
+      "alt_answers": [
+        "for a long time"
+      ]
+    },
+    {
+      "prompt": "скоро",
+      "answer": "soon",
+      "alt_answers": []
+    },
+    {
+      "prompt": "наконец",
+      "answer": "finally",
+      "alt_answers": [
+        "at last"
+      ]
+    },
+    {
+      "prompt": "вдруг",
+      "answer": "suddenly",
+      "alt_answers": []
+    },
+    {
+      "prompt": "примерно",
+      "answer": "approximately",
+      "alt_answers": [
+        "about",
+        "roughly"
+      ]
+    },
+    {
+      "prompt": "совсем",
+      "answer": "completely",
+      "alt_answers": [
+        "quite",
+        "at all"
+      ]
+    },
+    {
+      "prompt": "почти",
+      "answer": "almost",
+      "alt_answers": [
+        "nearly"
+      ]
+    },
+    {
+      "prompt": "просто",
+      "answer": "simply",
+      "alt_answers": [
+        "just",
+        "easily"
+      ]
+    },
+    {
+      "prompt": "точно",
+      "answer": "exactly",
+      "alt_answers": [
+        "precisely",
+        "definitely"
+      ]
+    },
+    {
+      "prompt": "конечно",
+      "answer": "of course",
+      "alt_answers": [
+        "certainly",
+        "sure"
+      ]
+    },
+    {
+      "prompt": "наверное",
+      "answer": "probably",
+      "alt_answers": [
+        "perhaps",
+        "maybe"
+      ]
+    },
+    {
+      "prompt": "может быть",
+      "answer": "maybe",
+      "alt_answers": [
+        "perhaps",
+        "possibly"
+      ]
+    },
+    {
+      "prompt": "интересный",
+      "answer": "interesting",
+      "alt_answers": []
+    },
+    {
+      "prompt": "скучный",
+      "answer": "boring",
+      "alt_answers": []
+    },
+    {
+      "prompt": "трудный",
+      "answer": "difficult",
+      "alt_answers": [
+        "hard"
+      ]
+    },
+    {
+      "prompt": "лёгкий",
+      "answer": "easy",
+      "alt_answers": [
+        "light",
+        "simple"
+      ]
+    },
+    {
+      "prompt": "умный",
+      "answer": "smart",
+      "alt_answers": [
+        "clever",
+        "intelligent"
+      ]
+    },
+    {
+      "prompt": "глупый",
+      "answer": "stupid",
+      "alt_answers": [
+        "foolish",
+        "silly"
+      ]
+    },
+    {
+      "prompt": "добрый",
+      "answer": "kind",
+      "alt_answers": [
+        "good",
+        "gentle"
+      ]
+    },
+    {
+      "prompt": "злой",
+      "answer": "angry",
+      "alt_answers": [
+        "mean",
+        "evil"
+      ]
+    },
+    {
+      "prompt": "весёлый",
+      "answer": "cheerful",
+      "alt_answers": [
+        "merry",
+        "fun"
+      ]
+    },
+    {
+      "prompt": "грустный",
+      "answer": "sad",
+      "alt_answers": [
+        "unhappy"
+      ]
+    },
+    {
+      "prompt": "молодой",
+      "answer": "young",
+      "alt_answers": []
+    },
+    {
+      "prompt": "высокий",
+      "answer": "tall",
+      "alt_answers": [
+        "high"
+      ]
+    },
+    {
+      "prompt": "низкий",
+      "answer": "short",
+      "alt_answers": [
+        "low"
+      ]
+    },
+    {
+      "prompt": "длинный",
+      "answer": "long",
+      "alt_answers": []
+    },
+    {
+      "prompt": "короткий",
+      "answer": "short",
+      "alt_answers": []
+    },
+    {
+      "prompt": "широкий",
+      "answer": "wide",
+      "alt_answers": [
+        "broad"
+      ]
+    },
+    {
+      "prompt": "узкий",
+      "answer": "narrow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "тяжёлый",
+      "answer": "heavy",
+      "alt_answers": [
+        "difficult"
+      ]
+    },
+    {
+      "prompt": "чистый",
+      "answer": "clean",
+      "alt_answers": [
+        "pure"
+      ]
+    },
+    {
+      "prompt": "грязный",
+      "answer": "dirty",
+      "alt_answers": []
+    }
+  ]
+}

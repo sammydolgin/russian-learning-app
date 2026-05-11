@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 23 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I feel pride for my family.",
+      "answer": "Я чувствую гордость за свою семью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He was ashamed of his words.",
+      "answer": "Ему было стыдно за свои слова.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The boredom in class was terrible.",
+      "answer": "На уроке скука была ужасная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I felt strong fright.",
+      "answer": "Я почувствовал сильный испуг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has anxiety before the exam.",
+      "answer": "У неё тревога перед экзаменом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He still has a grudge against his brother.",
+      "answer": "У него осталась обида на брата.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Envy is a bad feeling.",
+      "answer": "Зависть — плохое чувство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I felt pity for the dog.",
+      "answer": "Я почувствовал жалость к собаке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "His indifference surprises me.",
+      "answer": "Его равнодушие меня удивляет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Music gives me inspiration.",
+      "answer": "Музыка даёт мне вдохновение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "After the walk I found calm.",
+      "answer": "После прогулки я нашёл спокойствие.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mom has worry because of the weather.",
+      "answer": "У мамы беспокойство из-за погоды.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a lot of stress at work.",
+      "answer": "У меня большой стресс на работе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Depression is a serious problem.",
+      "answer": "Депрессия — это серьёзная проблема.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The children were delighted with the gift.",
+      "answer": "Дети были в восторге от подарка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I watched the film with horror.",
+      "answer": "Я смотрел фильм с ужасом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The child has great curiosity.",
+      "answer": "У ребёнка большое любопытство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Thank you for your sympathy.",
+      "answer": "Спасибо за твоё сочувствие.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have longing for home.",
+      "answer": "У меня тоска по дому.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There was malice in his voice.",
+      "answer": "В его голосе была злоба.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I heard loud laughter.",
+      "answer": "Я услышал громкий смех.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Her crying woke everyone up.",
+      "answer": "Её плач разбудил всех.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has a very beautiful smile.",
+      "answer": "У неё очень красивая улыбка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There was a tear on her cheek.",
+      "answer": "На её щеке была слеза.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has high sensitivity.",
+      "answer": "У него высокая чувствительность.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "No need to worry, everything will be fine.",
+      "answer": "Не нужно волноваться, всё будет хорошо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am starting to be nervous before the meeting.",
+      "answer": "Я начинаю нервничать перед встречей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't be angry with me.",
+      "answer": "Не надо сердиться на меня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He often gets angry without a reason.",
+      "answer": "Он часто злится без причины.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She takes offense at every word.",
+      "answer": "Она обижается на каждое слово.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The children are shy to speak loudly.",
+      "answer": "Дети стесняются говорить громко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mom always worries about the children.",
+      "answer": "Мама всегда переживает за детей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The cat gets scared of loud sounds.",
+      "answer": "Кошка пугается громких звуков.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I hope that you will come.",
+      "answer": "Я надеюсь, что ты придёшь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He hates cold weather.",
+      "answer": "Он ненавидит холодную погоду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I admire her talent.",
+      "answer": "Я восхищаюсь её талантом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I regret that I did not go with you.",
+      "answer": "Я жалею, что не пошёл с вами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Friends sympathize with my grief.",
+      "answer": "Друзья сочувствуют моему горю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He constantly complains about work.",
+      "answer": "Он постоянно жалуется на работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandmother sighs quietly.",
+      "answer": "Бабушка тихо вздыхает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The scared child cried for a long time.",
+      "answer": "Испуганный ребёнок плакал долго.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The surprised guest did not know what to say.",
+      "answer": "Удивлённый гость не знал, что сказать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The offended friend went home.",
+      "answer": "Обиженный друг ушёл домой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am a very happy person.",
+      "answer": "Я очень счастливый человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He had a sad voice.",
+      "answer": "У него был печальный голос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The teacher is pleased with my answer.",
+      "answer": "Учитель доволен моим ответом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dad is displeased with my grades.",
+      "answer": "Папа недоволен моими оценками.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She came home upset.",
+      "answer": "Она пришла расстроенная домой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The young man in love bought flowers.",
+      "answer": "Влюблённый парень купил цветы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The disappointed viewer left the concert.",
+      "answer": "Разочарованный зритель ушёл с концерта.",
+      "alt_answers": []
+    }
+  ]
+}

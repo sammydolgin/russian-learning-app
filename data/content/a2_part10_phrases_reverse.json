@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 10 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Which way is faster?",
+      "answer": "Какой путь быстрее?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go in this direction.",
+      "answer": "Идите в этом направлении.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Large distance.",
+      "answer": "Большое расстояние.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Show on the map.",
+      "answer": "Покажи на карте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "North is at the top.",
+      "answer": "Север находится вверху.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "South is at the bottom.",
+      "answer": "Юг внизу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "East is on the right.",
+      "answer": "Восток справа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "West is on the left.",
+      "answer": "Запад слева.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Turn left.",
+      "answer": "Поверните налево.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go right.",
+      "answer": "Идите направо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Straight ahead.",
+      "answer": "Прямо вперёд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go back.",
+      "answer": "Вернитесь назад.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Move forward.",
+      "answer": "Двигайтесь вперёд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Next to the bank.",
+      "answer": "Рядом с банком.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Opposite the museum.",
+      "answer": "Напротив музея.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Between the houses.",
+      "answer": "Между домами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Inside the building.",
+      "answer": "Внутри здания.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is cold outside.",
+      "answer": "Снаружи холодно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go up.",
+      "answer": "Поднимитесь вверх.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Go down.",
+      "answer": "Спуститесь вниз.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is close.",
+      "answer": "Это близко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is very far.",
+      "answer": "Это очень далеко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Local residents.",
+      "answer": "Местные жители.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Foreign language.",
+      "answer": "Иностранный язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Group of tourists.",
+      "answer": "Группа туристов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Professional guide.",
+      "answer": "Профессиональный гид.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Interesting excursion.",
+      "answer": "Интересная экскурсия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Main attraction.",
+      "answer": "Главная достопримечательность.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good impression.",
+      "answer": "Хорошее впечатление.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Pleasant memory.",
+      "answer": "Приятное воспоминание.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Digital camera.",
+      "answer": "Цифровой фотоаппарат.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Video camera.",
+      "answer": "Видеокамера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Record video.",
+      "answer": "Снять видео.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Beautiful image.",
+      "answer": "Красивое изображение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Famous painting.",
+      "answer": "Известная картина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Child drawing.",
+      "answer": "Детский рисунок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Modern art.",
+      "answer": "Современное искусство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Talented artist.",
+      "answer": "Талантливый художник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Ancient sculpture.",
+      "answer": "Древняя скульптура.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Exhibition of paintings.",
+      "answer": "Выставка картин.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Rich culture.",
+      "answer": "Богатая культура.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Old tradition.",
+      "answer": "Старая традиция.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "National custom.",
+      "answer": "Национальный обычай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We celebrate New Year.",
+      "answer": "Мы празднуем Новый год.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To celebrate birthday.",
+      "answer": "Отмечать день рождения.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She loves to dance.",
+      "answer": "Она любит танцевать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He sings well.",
+      "answer": "Он хорошо поёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Children play in the park.",
+      "answer": "Дети играют в парке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "To enjoy life.",
+      "answer": "Наслаждаться жизнью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I enjoy the music.",
+      "answer": "Я наслаждаюсь музыкой.",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 4 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "store",
+      "answer": "магазин",
+      "alt_answers": []
+    },
+    {
+      "prompt": "supermarket",
+      "answer": "супермаркет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "market",
+      "answer": "рынок",
+      "alt_answers": []
+    },
+    {
+      "prompt": "purchase",
+      "answer": "покупка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sale",
+      "answer": "продажа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "price",
+      "answer": "цена",
+      "alt_answers": []
+    },
+    {
+      "prompt": "discount",
+      "answer": "скидка",
+      "alt_answers": []
+    },
+    {
+      "prompt": "expensive",
+      "answer": "дорогой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cheap",
+      "answer": "дешёвый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "free",
+      "answer": "бесплатный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "money",
+      "answer": "деньги",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ruble",
+      "answer": "рубль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dollar",
+      "answer": "доллар",
+      "alt_answers": []
+    },
+    {
+      "prompt": "euro",
+      "answer": "евро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bank",
+      "answer": "банк",
+      "alt_answers": []
+    },
+    {
+      "prompt": "card",
+      "answer": "карта",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cash",
+      "answer": "наличные",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bill",
+      "answer": "счёт",
+      "alt_answers": []
+    },
+    {
+      "prompt": "change",
+      "answer": "сдача",
+      "alt_answers": []
+    },
+    {
+      "prompt": "checkout",
+      "answer": "касса",
+      "alt_answers": []
+    },
+    {
+      "prompt": "size",
+      "answer": "размер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "color",
+      "answer": "цвет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "red",
+      "answer": "красный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "blue",
+      "answer": "синий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "green",
+      "answer": "зелёный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "black",
+      "answer": "чёрный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "white",
+      "answer": "белый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "quality",
+      "answer": "качество",
+      "alt_answers": []
+    },
+    {
+      "prompt": "quantity",
+      "answer": "количество",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hundred",
+      "answer": "сто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "thousand",
+      "answer": "тысяча",
+      "alt_answers": []
+    },
+    {
+      "prompt": "million",
+      "answer": "миллион",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to buy",
+      "answer": "покупать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to sell",
+      "answer": "продавать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to pay",
+      "answer": "платить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to cost",
+      "answer": "стоить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to choose",
+      "answer": "выбирать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to search",
+      "answer": "искать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to find",
+      "answer": "находить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to lose",
+      "answer": "терять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to return",
+      "answer": "возвращать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to exchange",
+      "answer": "обменивать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to try",
+      "answer": "пробовать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to try on",
+      "answer": "примерять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to fit",
+      "answer": "подходить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to like",
+      "answer": "нравиться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be enough",
+      "answer": "хватать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "needed",
+      "answer": "нужен",
+      "alt_answers": []
+    },
+    {
+      "prompt": "many",
+      "answer": "много",
+      "alt_answers": []
+    },
+    {
+      "prompt": "few",
+      "answer": "мало",
+      "alt_answers": []
+    }
+  ]
+}

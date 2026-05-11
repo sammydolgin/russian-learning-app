@@ -1,0 +1,256 @@
+{
+  "phase": "A1 Part 12 Phrases (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "I have a morning lesson.",
+      "answer": "У меня утренний урок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is an evening train.",
+      "answer": "Это вечерний поезд.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not like night noise.",
+      "answer": "Я не люблю ночной шум.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The daytime bus goes fast.",
+      "answer": "Дневной автобус идёт быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today I have a day off.",
+      "answer": "Сегодня у меня выходной.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "On weekdays I get up early.",
+      "answer": "В будни я встаю рано.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is my work desk.",
+      "answer": "Это мой рабочий стол.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a warm winter sweater.",
+      "answer": "У меня тёплый зимний свитер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a spring rain.",
+      "answer": "Это весенний дождь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love summer vacation.",
+      "answer": "Я люблю летний отдых.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The autumn park is very beautiful.",
+      "answer": "Осенний парк очень красивый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Winter is my favourite season.",
+      "answer": "Зима — мой любимый сезон.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The schoolchildren are on vacation now.",
+      "answer": "У школьников сейчас каникулы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Mom needs rest.",
+      "answer": "Маме нужен отдых.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is today's date?",
+      "answer": "Какая сегодня дата?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a very short deadline.",
+      "answer": "У меня очень короткий срок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a daily magazine.",
+      "answer": "Это ежедневный журнал.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a monthly report.",
+      "answer": "У нас ежемесячный отчёт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a yearly holiday.",
+      "answer": "Это ежегодный праздник.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I live on the fourth floor.",
+      "answer": "Я живу на четвёртом этаже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is the fifth Russian lesson.",
+      "answer": "Это пятый урок русского языка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today is the sixth day of the week.",
+      "answer": "Сегодня шестой день недели.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My office is on the seventh floor.",
+      "answer": "Мой офис на седьмом этаже.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is her eighth year at school.",
+      "answer": "Это её восьмой год в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He studies in the ninth grade.",
+      "answer": "Он учится в девятом классе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today is the tenth day of my vacation.",
+      "answer": "Сегодня десятый день моего отпуска.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My sister works as a nurse.",
+      "answer": "Моя сестра работает как медсестра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My dentist is very kind.",
+      "answer": "Мой дантист очень добрый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother is a programmer.",
+      "answer": "Мой брат — программист.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This photographer works at a magazine.",
+      "answer": "Этот фотограф работает в журнале.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The waiter brought us the menu.",
+      "answer": "Официант принёс нам меню.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My hairdresser knows his work well.",
+      "answer": "Мой парикмахер хорошо знает свою работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The mechanic is fixing my car.",
+      "answer": "Механик чинит мою машину.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My dad is a pilot.",
+      "answer": "Мой папа — пилот.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My mom is a lawyer.",
+      "answer": "Моя мама — юрист.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This translator knows three languages.",
+      "answer": "Этот переводчик знает три языка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My friend is an American.",
+      "answer": "Мой друг — американец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This Englishman lives in Moscow.",
+      "answer": "Этот англичанин живёт в Москве.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My neighbor is Chinese.",
+      "answer": "Мой сосед — китаец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This Frenchman speaks Russian.",
+      "answer": "Этот француз говорит по-русски.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our guest is German.",
+      "answer": "Наш гость — немец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am learning the Chinese language.",
+      "answer": "Я учу китайский язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She knows the French language well.",
+      "answer": "Она хорошо знает французский язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My friend is learning the German language.",
+      "answer": "Мой друг учит немецкий язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love the Spanish language.",
+      "answer": "Я люблю испанский язык.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has light hair.",
+      "answer": "У неё светлые волосы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a dark suit.",
+      "answer": "У меня тёмный костюм.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a very bright light.",
+      "answer": "Это очень яркий свет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You are pale today.",
+      "answer": "Ты сегодня бледный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has a multicolored scarf.",
+      "answer": "У неё пёстрый шарф.",
+      "alt_answers": []
+    }
+  ]
+}

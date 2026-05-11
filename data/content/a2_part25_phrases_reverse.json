@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 25 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I will vote on Sunday.",
+      "answer": "Я буду голосовать в воскресенье.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every voter must come to the elections.",
+      "answer": "Каждый избиратель должен прийти на выборы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This candidate promises a lot.",
+      "answer": "Этот кандидат обещает много.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The constitution protects the rights of citizens.",
+      "answer": "Конституция защищает права граждан.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Parliament works every day.",
+      "answer": "Парламент работает каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The mayor of our city is very young.",
+      "answer": "Мэр нашего города очень молодой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The court begins at ten in the morning.",
+      "answer": "Суд начинается в десять утра.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The judge made a difficult decision.",
+      "answer": "Судья принял трудное решение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A good lawyer is expensive.",
+      "answer": "Хороший адвокат стоит дорого.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This crime was committed at night.",
+      "answer": "Это преступление совершили ночью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The criminal was sent to prison.",
+      "answer": "Преступника отправили в тюрьму.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The punishment was not too strict.",
+      "answer": "Наказание не было слишком строгим.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He has been in prison for two years.",
+      "answer": "Он сидит в тюрьме уже два года.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I paid the fine yesterday.",
+      "answer": "Я заплатил штраф вчера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The witness saw everything with his own eyes.",
+      "answer": "Свидетель видел всё своими глазами.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The victim needs our help.",
+      "answer": "Жертва нуждается в нашей помощи.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The thief ran away through the window.",
+      "answer": "Вор убежал через окно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The theft happened in the store.",
+      "answer": "Кража произошла в магазине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Everyone wants justice.",
+      "answer": "Все хотят правосудия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Honesty is more important than money.",
+      "answer": "Честность важнее денег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother has been serving in the army for a year.",
+      "answer": "Мой брат служит в армии год.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The young soldier is writing a letter home.",
+      "answer": "Молодой солдат пишет письмо домой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The officer answered all the questions.",
+      "answer": "Офицер ответил на все вопросы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The general came to the meeting.",
+      "answer": "Генерал приехал на встречу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Weapons must be in a safe place.",
+      "answer": "Оружие должно быть в безопасном месте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "At the celebration everyone looks at the flag.",
+      "answer": "На празднике все смотрят на флаг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The children sing the anthem at school.",
+      "answer": "Дети поют гимн в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The firefighter quickly arrived at the scene.",
+      "answer": "Пожарный быстро приехал на место.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There was a big fire in the forest.",
+      "answer": "В лесу был большой пожар.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The ambulance arrived very quickly.",
+      "answer": "Скорая помощь приехала очень быстро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The nurse gave me medicine.",
+      "answer": "Медсестра дала мне лекарство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lifeguard jumped into the water.",
+      "answer": "Спасатель прыгнул в воду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every citizen pays tax.",
+      "answer": "Каждый гражданин платит налог.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Poverty prevents children from studying.",
+      "answer": "Бедность мешает детям учиться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wealth is not the most important thing in life.",
+      "answer": "Богатство не самое важное в жизни.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is high unemployment in our region.",
+      "answer": "В нашем регионе высокая безработица.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My friend is currently unemployed.",
+      "answer": "Мой друг сейчас безработный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Grandfather receives a pension every month.",
+      "answer": "Дедушка получает пенсию каждый месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This pensioner loves to read newspapers.",
+      "answer": "Этот пенсионер любит читать газеты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need an assistant for today.",
+      "answer": "Мне нужен помощник на сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a place for public meetings.",
+      "answer": "Это место для общественных встреч.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The social issue is being discussed in parliament.",
+      "answer": "Социальный вопрос обсуждают в парламенте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The new reform will change the school.",
+      "answer": "Новая реформа изменит школу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The rally gathered thousands of people.",
+      "answer": "Митинг собрал тысячи людей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A peaceful protest took place in the city center.",
+      "answer": "Мирный протест прошёл в центре города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The workers started a strike in the morning.",
+      "answer": "Рабочие начали забастовку утром.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The refugee found a job and an apartment.",
+      "answer": "Беженец нашёл работу и квартиру.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This immigrant came from Germany.",
+      "answer": "Этот иммигрант приехал из Германии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your nationality?",
+      "answer": "Какая у тебя национальность?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Religion plays an important role in his life.",
+      "answer": "Религия играет важную роль в его жизни.",
+      "alt_answers": []
+    }
+  ]
+}

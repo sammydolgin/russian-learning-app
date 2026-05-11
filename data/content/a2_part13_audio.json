@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 13 Audio",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Современное общество.",
+      "answer": "Modern society.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Будущее человечества.",
+      "answer": "Future of humanity.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Быть гражданином страны.",
+      "answer": "To be a citizen of a country.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Житель города.",
+      "answer": "Resident of the city.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Население России.",
+      "answer": "Population of Russia.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Небольшая группа.",
+      "answer": "Small group.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Международная организация.",
+      "answer": "International organization.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Крупная компания.",
+      "answer": "Large company.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Политическая партия.",
+      "answer": "Political party.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Рабочее движение.",
+      "answer": "Workers' movement.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Внешняя политика.",
+      "answer": "Foreign policy.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Федеральное правительство.",
+      "answer": "Federal government.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "У кого власть?",
+      "answer": "Who has power?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Избрать президента.",
+      "answer": "To elect a president.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Министр образования.",
+      "answer": "Minister of Education.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Народный депутат.",
+      "answer": "People's deputy.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Парламентские выборы.",
+      "answer": "Parliamentary elections.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Тайное голосование.",
+      "answer": "Secret voting.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Подать голос.",
+      "answer": "To cast a vote.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Иметь право.",
+      "answer": "To have a right.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Соблюдать закон.",
+      "answer": "To obey the law.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Общее правило.",
+      "answer": "General rule.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Свобода слова.",
+      "answer": "Freedom of speech.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Социальное равенство.",
+      "answer": "Social equality.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Требовать справедливости.",
+      "answer": "To demand justice.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Общественный порядок.",
+      "answer": "Public order.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Во всём мире.",
+      "answer": "In the whole world.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Начать войну.",
+      "answer": "To start a war.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Военный конфликт.",
+      "answer": "Military conflict.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Серьёзная проблема.",
+      "answer": "Serious problem.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Найти решение.",
+      "answer": "To find a solution.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Задать вопрос.",
+      "answer": "To ask a question.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Дать ответ.",
+      "answer": "To give an answer.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Выразить согласие.",
+      "answer": "To express agreement.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Получить разрешение.",
+      "answer": "To get permission.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Строгий запрет.",
+      "answer": "Strict prohibition.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Основные требования.",
+      "answer": "Basic requirements.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Важное условие.",
+      "answer": "Important condition.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Подписать договор.",
+      "answer": "To sign a contract.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Достичь соглашения.",
+      "answer": "To reach an agreement.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Выполнять обязанность.",
+      "answer": "To fulfill a duty.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Нести ответственность.",
+      "answer": "To bear responsibility.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Вернуть долг.",
+      "answer": "To return a debt.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Просить помощи.",
+      "answer": "To ask for help.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Оказать поддержку.",
+      "answer": "To provide support.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Нуждаться в защите.",
+      "answer": "To need protection.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Быть в опасности.",
+      "answer": "To be in danger.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Большой риск.",
+      "answer": "Great risk.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Обеспечить безопасность.",
+      "answer": "To ensure safety.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Представлять угрозу.",
+      "answer": "To pose a threat.",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "phase": "A1 Part 7 Words (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "to explain",
+      "answer": "объяснять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to show",
+      "answer": "показывать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to bring",
+      "answer": "приносить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to carry",
+      "answer": "носить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to carry (on foot)",
+      "answer": "нести",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to send",
+      "answer": "посылать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to receive",
+      "answer": "получать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to pay",
+      "answer": "платить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to cost",
+      "answer": "стоить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to advise",
+      "answer": "советовать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to decide",
+      "answer": "решать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to count",
+      "answer": "считать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to check",
+      "answer": "проверять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to choose",
+      "answer": "выбирать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to change",
+      "answer": "менять",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to use",
+      "answer": "использовать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to build",
+      "answer": "строить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to break",
+      "answer": "ломать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to fix",
+      "answer": "чинить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to wash",
+      "answer": "мыть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to clean",
+      "answer": "чистить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to feed",
+      "answer": "кормить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to give (a gift)",
+      "answer": "дарить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to wish",
+      "answer": "желать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to agree",
+      "answer": "соглашаться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to argue",
+      "answer": "спорить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to laugh",
+      "answer": "смеяться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to cry",
+      "answer": "плакать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to smile",
+      "answer": "улыбаться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be afraid",
+      "answer": "бояться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be glad",
+      "answer": "радоваться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be surprised",
+      "answer": "удивляться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to worry",
+      "answer": "беспокоиться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to give back",
+      "answer": "отдавать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to talk",
+      "answer": "разговаривать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to meet",
+      "answer": "знакомиться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to use",
+      "answer": "пользоваться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to arrange",
+      "answer": "договариваться",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nature",
+      "answer": "природа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "forest",
+      "answer": "лес",
+      "alt_answers": []
+    },
+    {
+      "prompt": "river",
+      "answer": "река",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sea",
+      "answer": "море",
+      "alt_answers": []
+    },
+    {
+      "prompt": "lake",
+      "answer": "озеро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mountain",
+      "answer": "гора",
+      "alt_answers": []
+    },
+    {
+      "prompt": "field",
+      "answer": "поле",
+      "alt_answers": []
+    },
+    {
+      "prompt": "park",
+      "answer": "парк",
+      "alt_answers": []
+    },
+    {
+      "prompt": "square",
+      "answer": "площадь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bridge",
+      "answer": "мост",
+      "alt_answers": []
+    }
+  ]
+}

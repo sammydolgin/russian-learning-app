@@ -1,0 +1,288 @@
+{
+  "phase": "A1 Part 8 Words",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "здание",
+      "answer": "building",
+      "alt_answers": []
+    },
+    {
+      "prompt": "магазин",
+      "answer": "shop",
+      "alt_answers": [
+        "store"
+      ]
+    },
+    {
+      "prompt": "ресторан",
+      "answer": "restaurant",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кафе",
+      "answer": "cafe",
+      "alt_answers": []
+    },
+    {
+      "prompt": "больница",
+      "answer": "hospital",
+      "alt_answers": []
+    },
+    {
+      "prompt": "аптека",
+      "answer": "pharmacy",
+      "alt_answers": [
+        "chemist"
+      ]
+    },
+    {
+      "prompt": "банк",
+      "answer": "bank",
+      "alt_answers": []
+    },
+    {
+      "prompt": "почта",
+      "answer": "post office",
+      "alt_answers": [
+        "mail"
+      ]
+    },
+    {
+      "prompt": "библиотека",
+      "answer": "library",
+      "alt_answers": []
+    },
+    {
+      "prompt": "музей",
+      "answer": "museum",
+      "alt_answers": []
+    },
+    {
+      "prompt": "гостиница",
+      "answer": "hotel",
+      "alt_answers": []
+    },
+    {
+      "prompt": "рынок",
+      "answer": "market",
+      "alt_answers": []
+    },
+    {
+      "prompt": "университет",
+      "answer": "university",
+      "alt_answers": []
+    },
+    {
+      "prompt": "офис",
+      "answer": "office",
+      "alt_answers": []
+    },
+    {
+      "prompt": "завод",
+      "answer": "factory",
+      "alt_answers": [
+        "plant"
+      ]
+    },
+    {
+      "prompt": "животное",
+      "answer": "animal",
+      "alt_answers": []
+    },
+    {
+      "prompt": "собака",
+      "answer": "dog",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кошка",
+      "answer": "cat",
+      "alt_answers": []
+    },
+    {
+      "prompt": "птица",
+      "answer": "bird",
+      "alt_answers": []
+    },
+    {
+      "prompt": "лошадь",
+      "answer": "horse",
+      "alt_answers": []
+    },
+    {
+      "prompt": "корова",
+      "answer": "cow",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кот",
+      "answer": "tomcat",
+      "alt_answers": [
+        "cat (male)",
+        "cat"
+      ]
+    },
+    {
+      "prompt": "пёс",
+      "answer": "dog (male)",
+      "alt_answers": [
+        "dog"
+      ]
+    },
+    {
+      "prompt": "рука (кисть)",
+      "answer": "wrist",
+      "alt_answers": [
+        "hand (wrist)"
+      ]
+    },
+    {
+      "prompt": "тело",
+      "answer": "body",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кость",
+      "answer": "bone",
+      "alt_answers": []
+    },
+    {
+      "prompt": "кровь",
+      "answer": "blood",
+      "alt_answers": []
+    },
+    {
+      "prompt": "письмо",
+      "answer": "letter",
+      "alt_answers": []
+    },
+    {
+      "prompt": "газета",
+      "answer": "newspaper",
+      "alt_answers": []
+    },
+    {
+      "prompt": "журнал",
+      "answer": "magazine",
+      "alt_answers": []
+    },
+    {
+      "prompt": "карта",
+      "answer": "map",
+      "alt_answers": [
+        "card"
+      ]
+    },
+    {
+      "prompt": "ключ",
+      "answer": "key",
+      "alt_answers": []
+    },
+    {
+      "prompt": "сумка",
+      "answer": "bag",
+      "alt_answers": [
+        "handbag"
+      ]
+    },
+    {
+      "prompt": "рюкзак",
+      "answer": "backpack",
+      "alt_answers": [
+        "rucksack"
+      ]
+    },
+    {
+      "prompt": "чемодан",
+      "answer": "suitcase",
+      "alt_answers": []
+    },
+    {
+      "prompt": "подарок",
+      "answer": "gift",
+      "alt_answers": [
+        "present"
+      ]
+    },
+    {
+      "prompt": "праздник",
+      "answer": "holiday",
+      "alt_answers": [
+        "celebration",
+        "festival"
+      ]
+    },
+    {
+      "prompt": "день рождения",
+      "answer": "birthday",
+      "alt_answers": []
+    },
+    {
+      "prompt": "свадьба",
+      "answer": "wedding",
+      "alt_answers": []
+    },
+    {
+      "prompt": "встреча",
+      "answer": "meeting",
+      "alt_answers": [
+        "encounter"
+      ]
+    },
+    {
+      "prompt": "урок",
+      "answer": "lesson",
+      "alt_answers": [
+        "class"
+      ]
+    },
+    {
+      "prompt": "упражнение",
+      "answer": "exercise",
+      "alt_answers": []
+    },
+    {
+      "prompt": "задание",
+      "answer": "task",
+      "alt_answers": [
+        "assignment",
+        "homework"
+      ]
+    },
+    {
+      "prompt": "экзамен",
+      "answer": "exam",
+      "alt_answers": [
+        "examination"
+      ]
+    },
+    {
+      "prompt": "оценка",
+      "answer": "grade",
+      "alt_answers": [
+        "mark",
+        "score"
+      ]
+    },
+    {
+      "prompt": "расписание",
+      "answer": "schedule",
+      "alt_answers": [
+        "timetable"
+      ]
+    },
+    {
+      "prompt": "адрес",
+      "answer": "address",
+      "alt_answers": []
+    },
+    {
+      "prompt": "номер",
+      "answer": "number",
+      "alt_answers": [
+        "room number"
+      ]
+    }
+  ]
+}

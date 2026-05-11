@@ -1,0 +1,256 @@
+{
+  "phase": "A1 Part 1 Audio (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "Where is my shirt?",
+      "answer": "Где моя рубашка?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need new clothing.",
+      "answer": "Мне нужна новая одежда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "These trousers are too big.",
+      "answer": "Эти брюки слишком большие.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is wearing a beautiful dress.",
+      "answer": "Она носит красивое платье.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do you have a jacket?",
+      "answer": "У тебя есть куртка?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love this sweater.",
+      "answer": "Я люблю этот свитер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My socks are on the bed.",
+      "answer": "Мои носки на кровати.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What nice footwear!",
+      "answer": "Какая хорошая обувь!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need new boots.",
+      "answer": "Мне нужны новые ботинки.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In winter I wear a hat.",
+      "answer": "Зимой я ношу шапку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is my scarf?",
+      "answer": "Где мой шарф?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "These gloves are warm.",
+      "answer": "Эти перчатки тёплые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I sleep in pyjamas.",
+      "answer": "Я сплю в пижаме.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "In summer I wear a t-shirt.",
+      "answer": "Летом я ношу футболку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My new jeans are comfortable.",
+      "answer": "Мои новые джинсы удобные.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He wears a cap every day.",
+      "answer": "Он носит кепку каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need a suit for work.",
+      "answer": "Мне нужен костюм для работы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This skirt is too short.",
+      "answer": "Эта юбка слишком короткая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am cold without a coat.",
+      "answer": "Мне холодно без пальто.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "These shoes are very beautiful.",
+      "answer": "Эти туфли очень красивые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I go to work by bus.",
+      "answer": "Я еду на автобусе на работу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is the metro station?",
+      "answer": "Где станция метро?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The train is already at the station.",
+      "answer": "Поезд уже на станции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The airplane is flying to Moscow.",
+      "answer": "Самолёт летит в Москву.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love riding a bicycle.",
+      "answer": "Я люблю ездить на велосипеде.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Call a taxi, please.",
+      "answer": "Вызови такси, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The ship is sailing on the river.",
+      "answer": "Корабль плывёт по реке.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The tram is going along the street.",
+      "answer": "Трамвай идёт по улице.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The airport is far from the city.",
+      "answer": "Аэропорт далеко от города.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This road leads to the station.",
+      "answer": "Эта дорога ведёт к станции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are many people on the street.",
+      "answer": "На улице много людей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is the weather today?",
+      "answer": "Какая сегодня погода?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sun is shining brightly.",
+      "answer": "Солнце светит ярко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is raining today.",
+      "answer": "Сегодня идёт дождь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It snows in winter.",
+      "answer": "Зимой идёт снег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "A strong wind is blowing.",
+      "answer": "Дует сильный ветер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sky is cloudy.",
+      "answer": "Небо в облаках.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Today is warm and sunny.",
+      "answer": "Сегодня тепло и солнечно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is very cold outside.",
+      "answer": "На улице очень холодно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is hot in summer.",
+      "answer": "Летом бывает жарко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There will be a strong thunderstorm.",
+      "answer": "Будет сильная гроза.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There was fog in the morning.",
+      "answer": "Утром был туман.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is ice on the road, be careful.",
+      "answer": "На дороге лёд, будь осторожен.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "For dinner we have meat.",
+      "answer": "На ужин у нас мясо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not eat fish.",
+      "answer": "Я не ем рыбу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The chicken is in the refrigerator.",
+      "answer": "Курица в холодильнике.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This soup is very tasty.",
+      "answer": "Этот суп очень вкусный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "When does the bus come?",
+      "answer": "Когда приходит автобус?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am waiting for the train at the station.",
+      "answer": "Я жду поезд на станции.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are many people in the metro.",
+      "answer": "В метро много людей.",
+      "alt_answers": []
+    }
+  ]
+}

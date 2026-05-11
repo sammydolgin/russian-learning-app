@@ -1,0 +1,261 @@
+{
+  "phase": "A0 Part 1 Words (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "yes",
+      "answer": "да",
+      "alt_answers": []
+    },
+    {
+      "prompt": "no",
+      "answer": "нет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "thank you",
+      "answer": "спасибо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "please",
+      "answer": "пожалуйста",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hello",
+      "answer": "здравствуйте",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hi",
+      "answer": "привет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "goodbye",
+      "answer": "до свидания",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bye",
+      "answer": "пока",
+      "alt_answers": []
+    },
+    {
+      "prompt": "excuse me",
+      "answer": "извините",
+      "alt_answers": []
+    },
+    {
+      "prompt": "good",
+      "answer": "хорошо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "bad",
+      "answer": "плохо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I",
+      "answer": "я",
+      "alt_answers": []
+    },
+    {
+      "prompt": "you",
+      "answer": "ты",
+      "alt_answers": []
+    },
+    {
+      "prompt": "you (formal)",
+      "answer": "вы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "he",
+      "answer": "он",
+      "alt_answers": []
+    },
+    {
+      "prompt": "she",
+      "answer": "она",
+      "alt_answers": []
+    },
+    {
+      "prompt": "we",
+      "answer": "мы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "they",
+      "answer": "они",
+      "alt_answers": []
+    },
+    {
+      "prompt": "this",
+      "answer": "это",
+      "alt_answers": []
+    },
+    {
+      "prompt": "what",
+      "answer": "что",
+      "alt_answers": []
+    },
+    {
+      "prompt": "who",
+      "answer": "кто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "where",
+      "answer": "где",
+      "alt_answers": []
+    },
+    {
+      "prompt": "when",
+      "answer": "когда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "how",
+      "answer": "как",
+      "alt_answers": []
+    },
+    {
+      "prompt": "why",
+      "answer": "почему",
+      "alt_answers": []
+    },
+    {
+      "prompt": "how many",
+      "answer": "сколько",
+      "alt_answers": []
+    },
+    {
+      "prompt": "here",
+      "answer": "здесь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "there",
+      "answer": "там",
+      "alt_answers": []
+    },
+    {
+      "prompt": "house",
+      "answer": "дом",
+      "alt_answers": []
+    },
+    {
+      "prompt": "water",
+      "answer": "вода",
+      "alt_answers": []
+    },
+    {
+      "prompt": "friend",
+      "answer": "друг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be",
+      "answer": "быть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to have",
+      "answer": "иметь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to do",
+      "answer": "делать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to know",
+      "answer": "знать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to think",
+      "answer": "думать",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to speak",
+      "answer": "говорить",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to see",
+      "answer": "видеть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to want",
+      "answer": "хотеть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be able to",
+      "answer": "мочь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to go",
+      "answer": "идти",
+      "alt_answers": []
+    },
+    {
+      "prompt": "big",
+      "answer": "большой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "small",
+      "answer": "маленький",
+      "alt_answers": []
+    },
+    {
+      "prompt": "new",
+      "answer": "новый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "old",
+      "answer": "старый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "one",
+      "answer": "один",
+      "alt_answers": []
+    },
+    {
+      "prompt": "two",
+      "answer": "два",
+      "alt_answers": []
+    },
+    {
+      "prompt": "three",
+      "answer": "три",
+      "alt_answers": []
+    },
+    {
+      "prompt": "and",
+      "answer": "и",
+      "alt_answers": []
+    },
+    {
+      "prompt": "but",
+      "answer": "но",
+      "alt_answers": []
+    },
+    {
+      "prompt": "very",
+      "answer": "очень",
+      "alt_answers": []
+    }
+  ]
+}

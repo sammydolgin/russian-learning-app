@@ -1,0 +1,261 @@
+{
+  "phase": "A0 Part 2 Phrases (En→Ru)",
+  "level": "A0",
+  "items": [
+    {
+      "prompt": "I am at home.",
+      "answer": "Я дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am not at home.",
+      "answer": "Я не дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is at home.",
+      "answer": "Она дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is my family.",
+      "answer": "Это моя семья.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your name?",
+      "answer": "Как тебя зовут?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your name?",
+      "answer": "Как вас зовут?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am drinking water.",
+      "answer": "Я пью воду.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is drinking tea.",
+      "answer": "Она пьёт чай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is drinking coffee.",
+      "answer": "Он пьёт кофе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are eating bread.",
+      "answer": "Мы едим хлеб.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is eating.",
+      "answer": "Он ест.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love milk.",
+      "answer": "Я люблю молоко.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love tea.",
+      "answer": "Я люблю чай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He does not like coffee.",
+      "answer": "Он не любит кофе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are going to school.",
+      "answer": "Мы идём в школу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I live here.",
+      "answer": "Я живу здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We live in the city.",
+      "answer": "Мы живём в городе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He lives there.",
+      "answer": "Он живёт там.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a big city.",
+      "answer": "Это большой город.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The book is small.",
+      "answer": "Книга маленькая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a new table.",
+      "answer": "Это новый стол.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is an old chair.",
+      "answer": "Это старый стул.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My father is at home.",
+      "answer": "Мой отец дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My mother is at home.",
+      "answer": "Моя мать дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My brother is at school.",
+      "answer": "Мой брат в школе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My sister is at home.",
+      "answer": "Моя сестра дома.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am reading a book.",
+      "answer": "Я читаю книгу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is reading.",
+      "answer": "Он читает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is writing.",
+      "answer": "Она пишет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are reading books.",
+      "answer": "Мы читаем книги.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is working.",
+      "answer": "Он работает.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She works here.",
+      "answer": "Она работает здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not work.",
+      "answer": "Я не работаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do you work?",
+      "answer": "Ты работаешь?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am learning.",
+      "answer": "Я учу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I understand.",
+      "answer": "Я понимаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I do not understand.",
+      "answer": "Я не понимаю.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Do you understand?",
+      "answer": "Ты понимаешь?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is daytime now.",
+      "answer": "Сейчас день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is night now.",
+      "answer": "Сейчас ночь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is morning now.",
+      "answer": "Сейчас утро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "It is evening now.",
+      "answer": "Сейчас вечер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good morning!",
+      "answer": "Доброе утро!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good afternoon!",
+      "answer": "Добрый день!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Good evening!",
+      "answer": "Добрый вечер!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The school is big.",
+      "answer": "Школа большая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The city is beautiful.",
+      "answer": "Город красивый.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She is beautiful.",
+      "answer": "Она красивая.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The table is here.",
+      "answer": "Стол здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The chair is there.",
+      "answer": "Стул там.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The window is big.",
+      "answer": "Окно большое.",
+      "alt_answers": []
+    }
+  ]
+}

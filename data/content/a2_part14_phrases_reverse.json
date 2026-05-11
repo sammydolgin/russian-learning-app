@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 14 Phrases Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "Attentive student.",
+      "answer": "Внимательный ученик.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Be careful!",
+      "answer": "Будь осторожен!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dangerous situation.",
+      "answer": "Опасная ситуация.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Safe place.",
+      "answer": "Безопасное место.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Active person.",
+      "answer": "Активный человек.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Passive behavior.",
+      "answer": "Пассивное поведение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Living nature.",
+      "answer": "Живая природа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Dead tree.",
+      "answer": "Мёртвое дерево.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Full glass.",
+      "answer": "Полный стакан.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Empty room.",
+      "answer": "Пустая комната.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Whole day.",
+      "answer": "Целый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Only half.",
+      "answer": "Только половина.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Large part.",
+      "answer": "Большая часть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Whole world.",
+      "answer": "Весь мир.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Some people.",
+      "answer": "Некоторые люди.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Every day.",
+      "answer": "Каждый день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Any time.",
+      "answer": "Любое время.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Another question.",
+      "answer": "Другой вопрос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Such a book.",
+      "answer": "Такая же книга.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Similar problems.",
+      "answer": "Похожие проблемы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Same color.",
+      "answer": "Одинаковый цвет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Different opinions.",
+      "answer": "Разные мнения.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Special case.",
+      "answer": "Особенный случай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Ordinary day.",
+      "answer": "Обычный день.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Normal temperature.",
+      "answer": "Нормальная температура.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Strange sound.",
+      "answer": "Странный звук.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Unusual story.",
+      "answer": "Необычная история.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Simple answer.",
+      "answer": "Простой ответ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Complex task.",
+      "answer": "Сложная задача.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Easy work.",
+      "answer": "Лёгкая работа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Difficult choice.",
+      "answer": "Трудный выбор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Heavy bag.",
+      "answer": "Тяжёлая сумка.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Strong coffee.",
+      "answer": "Крепкий кофе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Weak tea.",
+      "answer": "Слабый чай.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Hard surface.",
+      "answer": "Твёрдая поверхность.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Soft sofa.",
+      "answer": "Мягкий диван.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Smooth skin.",
+      "answer": "Гладкая кожа.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Rough wall.",
+      "answer": "Шершавая стена.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sharp knife.",
+      "answer": "Острый нож.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Blunt pencil.",
+      "answer": "Тупой карандаш.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Straight line.",
+      "answer": "Прямая линия.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Crooked road.",
+      "answer": "Кривая дорога.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Even floor.",
+      "answer": "Ровный пол.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Round table.",
+      "answer": "Круглый стол.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Flat roof.",
+      "answer": "Плоская крыша.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Deep lake.",
+      "answer": "Глубокое озеро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Shallow river.",
+      "answer": "Мелкая река.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wide street.",
+      "answer": "Широкая улица.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Narrow corridor.",
+      "answer": "Узкий коридор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Thick book.",
+      "answer": "Толстая книга.",
+      "alt_answers": []
+    }
+  ]
+}

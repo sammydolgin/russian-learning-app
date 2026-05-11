@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 6 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "spring",
+      "answer": "весна",
+      "alt_answers": []
+    },
+    {
+      "prompt": "summer",
+      "answer": "лето",
+      "alt_answers": []
+    },
+    {
+      "prompt": "autumn",
+      "answer": "осень",
+      "alt_answers": []
+    },
+    {
+      "prompt": "winter",
+      "answer": "зима",
+      "alt_answers": []
+    },
+    {
+      "prompt": "January",
+      "answer": "январь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "February",
+      "answer": "февраль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "March",
+      "answer": "март",
+      "alt_answers": []
+    },
+    {
+      "prompt": "April",
+      "answer": "апрель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "May",
+      "answer": "май",
+      "alt_answers": []
+    },
+    {
+      "prompt": "June",
+      "answer": "июнь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "July",
+      "answer": "июль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "August",
+      "answer": "август",
+      "alt_answers": []
+    },
+    {
+      "prompt": "September",
+      "answer": "сентябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "October",
+      "answer": "октябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "November",
+      "answer": "ноябрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "December",
+      "answer": "декабрь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Monday",
+      "answer": "понедельник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tuesday",
+      "answer": "вторник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Wednesday",
+      "answer": "среда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Thursday",
+      "answer": "четверг",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Friday",
+      "answer": "пятница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Saturday",
+      "answer": "суббота",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sunday",
+      "answer": "воскресенье",
+      "alt_answers": []
+    },
+    {
+      "prompt": "morning",
+      "answer": "утро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "day",
+      "answer": "день",
+      "alt_answers": []
+    },
+    {
+      "prompt": "evening",
+      "answer": "вечер",
+      "alt_answers": []
+    },
+    {
+      "prompt": "night",
+      "answer": "ночь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "noon",
+      "answer": "полдень",
+      "alt_answers": []
+    },
+    {
+      "prompt": "midnight",
+      "answer": "полночь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dawn",
+      "answer": "рассвет",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sunset",
+      "answer": "закат",
+      "alt_answers": []
+    },
+    {
+      "prompt": "time",
+      "answer": "время",
+      "alt_answers": []
+    },
+    {
+      "prompt": "clock",
+      "answer": "часы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "alarm clock",
+      "answer": "будильник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "calendar",
+      "answer": "календарь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "holiday",
+      "answer": "праздник",
+      "alt_answers": []
+    },
+    {
+      "prompt": "birthday",
+      "answer": "день рождения",
+      "alt_answers": []
+    },
+    {
+      "prompt": "always",
+      "answer": "всегда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "often",
+      "answer": "часто",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sometimes",
+      "answer": "иногда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rarely",
+      "answer": "редко",
+      "alt_answers": []
+    },
+    {
+      "prompt": "never",
+      "answer": "никогда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "usually",
+      "answer": "обычно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "already",
+      "answer": "уже",
+      "alt_answers": []
+    },
+    {
+      "prompt": "still",
+      "answer": "ещё",
+      "alt_answers": []
+    },
+    {
+      "prompt": "soon",
+      "answer": "скоро",
+      "alt_answers": []
+    },
+    {
+      "prompt": "late",
+      "answer": "поздно",
+      "alt_answers": []
+    },
+    {
+      "prompt": "early",
+      "answer": "рано",
+      "alt_answers": []
+    },
+    {
+      "prompt": "on time",
+      "answer": "вовремя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "to be late",
+      "answer": "опаздывать",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 1 Words (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "yesterday",
+      "answer": "вчера",
+      "alt_answers": []
+    },
+    {
+      "prompt": "today",
+      "answer": "сегодня",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tomorrow",
+      "answer": "завтра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "the day before yesterday",
+      "answer": "позавчера",
+      "alt_answers": []
+    },
+    {
+      "prompt": "the day after tomorrow",
+      "answer": "послезавтра",
+      "alt_answers": []
+    },
+    {
+      "prompt": "week",
+      "answer": "неделя",
+      "alt_answers": []
+    },
+    {
+      "prompt": "month",
+      "answer": "месяц",
+      "alt_answers": []
+    },
+    {
+      "prompt": "year",
+      "answer": "год",
+      "alt_answers": []
+    },
+    {
+      "prompt": "century",
+      "answer": "век",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hour",
+      "answer": "час",
+      "alt_answers": []
+    },
+    {
+      "prompt": "minute",
+      "answer": "минута",
+      "alt_answers": []
+    },
+    {
+      "prompt": "second",
+      "answer": "секунда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "moment",
+      "answer": "момент",
+      "alt_answers": []
+    },
+    {
+      "prompt": "beginning",
+      "answer": "начало",
+      "alt_answers": []
+    },
+    {
+      "prompt": "end",
+      "answer": "конец",
+      "alt_answers": []
+    },
+    {
+      "prompt": "middle",
+      "answer": "середина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "head",
+      "answer": "голова",
+      "alt_answers": []
+    },
+    {
+      "prompt": "face",
+      "answer": "лицо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "eye",
+      "answer": "глаз",
+      "alt_answers": []
+    },
+    {
+      "prompt": "ear",
+      "answer": "ухо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "nose",
+      "answer": "нос",
+      "alt_answers": []
+    },
+    {
+      "prompt": "mouth",
+      "answer": "рот",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tooth",
+      "answer": "зуб",
+      "alt_answers": []
+    },
+    {
+      "prompt": "tongue",
+      "answer": "язык",
+      "alt_answers": []
+    },
+    {
+      "prompt": "neck",
+      "answer": "шея",
+      "alt_answers": []
+    },
+    {
+      "prompt": "shoulder",
+      "answer": "плечо",
+      "alt_answers": []
+    },
+    {
+      "prompt": "arm",
+      "answer": "рука",
+      "alt_answers": []
+    },
+    {
+      "prompt": "finger",
+      "answer": "палец",
+      "alt_answers": []
+    },
+    {
+      "prompt": "leg",
+      "answer": "нога",
+      "alt_answers": []
+    },
+    {
+      "prompt": "knee",
+      "answer": "колено",
+      "alt_answers": []
+    },
+    {
+      "prompt": "back",
+      "answer": "спина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "stomach",
+      "answer": "живот",
+      "alt_answers": []
+    },
+    {
+      "prompt": "heart",
+      "answer": "сердце",
+      "alt_answers": []
+    },
+    {
+      "prompt": "blood",
+      "answer": "кровь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "skin",
+      "answer": "кожа",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hair",
+      "answer": "волосы",
+      "alt_answers": []
+    },
+    {
+      "prompt": "beard",
+      "answer": "борода",
+      "alt_answers": []
+    },
+    {
+      "prompt": "health",
+      "answer": "здоровье",
+      "alt_answers": []
+    },
+    {
+      "prompt": "illness",
+      "answer": "болезнь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pain",
+      "answer": "боль",
+      "alt_answers": []
+    },
+    {
+      "prompt": "medicine",
+      "answer": "лекарство",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hospital",
+      "answer": "больница",
+      "alt_answers": []
+    },
+    {
+      "prompt": "pharmacy",
+      "answer": "аптека",
+      "alt_answers": []
+    },
+    {
+      "prompt": "temperature",
+      "answer": "температура",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cough",
+      "answer": "кашель",
+      "alt_answers": []
+    },
+    {
+      "prompt": "cold",
+      "answer": "простуда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "flu",
+      "answer": "грипп",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hunger",
+      "answer": "голод",
+      "alt_answers": []
+    },
+    {
+      "prompt": "thirst",
+      "answer": "жажда",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sleep",
+      "answer": "сон",
+      "alt_answers": []
+    }
+  ]
+}

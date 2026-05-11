@@ -1,0 +1,256 @@
+{
+  "phase": "A1 Part 3 Audio (En→Ru)",
+  "level": "A1",
+  "items": [
+    {
+      "prompt": "She is a famous singer.",
+      "answer": "Она известный певец.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a good actor.",
+      "answer": "Он хороший актёр.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My friend works as a journalist.",
+      "answer": "Мой друг работает журналистом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Reading is my favorite hobby.",
+      "answer": "Чтение — моё любимое хобби.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love listening to music.",
+      "answer": "Я люблю слушать музыку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Sport is good for health.",
+      "answer": "Спорт полезен для здоровья.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We play football every Saturday.",
+      "answer": "Мы играем в футбол каждую субботу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Swimming is my favorite sport.",
+      "answer": "Плавание — мой любимый спорт.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I love travel.",
+      "answer": "Я люблю путешествие.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She can dance.",
+      "answer": "Она умеет танцевать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Drawing helps to relax.",
+      "answer": "Рисование помогает расслабиться.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Photography is art.",
+      "answer": "Фотография — это искусство.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We are going to the cinema today.",
+      "answer": "Мы идём в кино сегодня.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The theatre opens at seven.",
+      "answer": "Театр открывается в семь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This news brought me joy.",
+      "answer": "Эта новость принесла мне радость.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He feels sadness.",
+      "answer": "Он чувствует грусть.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "She has fear of heights.",
+      "answer": "У неё страх высоты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Anger is a bad emotion.",
+      "answer": "Злость — плохая эмоция.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What a surprise!",
+      "answer": "Какое удивление!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I feel tiredness.",
+      "answer": "Я чувствую усталость.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Happiness is more important than money.",
+      "answer": "Счастье важнее денег.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Love makes us stronger.",
+      "answer": "Любовь делает нас сильнее.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have hope.",
+      "answer": "У меня есть надежда.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sun is yellow.",
+      "answer": "Солнце жёлтое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The orange is orange-colored.",
+      "answer": "Апельсин оранжевого цвета.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This purple dress is beautiful.",
+      "answer": "Это фиолетовое платье красивое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My favorite flowers are pink.",
+      "answer": "Мои любимые цветы розовые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Bears are brown.",
+      "answer": "Медведи коричневые.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The sky is grey before rain.",
+      "answer": "Серое небо перед дождём.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The light blue sky is beautiful.",
+      "answer": "Голубое небо красивое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have six books.",
+      "answer": "У меня шесть книг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Seven days in a week.",
+      "answer": "Семь дней в неделе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am eight years old.",
+      "answer": "Мне восемь лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Nine plus one is ten.",
+      "answer": "Девять плюс один — десять.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have ten fingers.",
+      "answer": "У меня десять пальцев.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Eleven people in a team.",
+      "answer": "Одиннадцать человек в команде.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Twelve months in a year.",
+      "answer": "Двенадцать месяцев в году.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am thirteen years old.",
+      "answer": "Мне тринадцать лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fourteen days is two weeks.",
+      "answer": "Четырнадцать дней — две недели.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fifteen minutes.",
+      "answer": "Пятнадцать минут.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am sixteen years old.",
+      "answer": "Мне шестнадцать лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Seventeen students in the class.",
+      "answer": "Семнадцать студентов в классе.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Eighteen is adult age.",
+      "answer": "Восемнадцать — это взрослый возраст.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Nineteen rubles.",
+      "answer": "Девятнадцать рублей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am twenty years old.",
+      "answer": "Мне двадцать лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The temperature is thirty degrees.",
+      "answer": "Температура тридцать градусов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is forty years old.",
+      "answer": "Ему сорок лет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Fifty percent.",
+      "answer": "Пятьдесят процентов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to be a singer.",
+      "answer": "Я хочу быть певцом.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What beautiful music!",
+      "answer": "Какая красивая музыка!",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 14 Words Reverse",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "attentive",
+      "answer": "внимательный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "careful",
+      "answer": "осторожный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dangerous",
+      "answer": "опасный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "safe",
+      "answer": "безопасный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "active",
+      "answer": "активный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "passive",
+      "answer": "пассивный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "alive",
+      "answer": "живой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "dead",
+      "answer": "мёртвый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "full",
+      "answer": "полный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "empty",
+      "answer": "пустой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "whole",
+      "answer": "целый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "half",
+      "answer": "половина",
+      "alt_answers": []
+    },
+    {
+      "prompt": "part",
+      "answer": "часть",
+      "alt_answers": []
+    },
+    {
+      "prompt": "all",
+      "answer": "весь",
+      "alt_answers": []
+    },
+    {
+      "prompt": "some",
+      "answer": "некоторый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "each",
+      "answer": "каждый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "any",
+      "answer": "любой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "other",
+      "answer": "другой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "such",
+      "answer": "такой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "similar",
+      "answer": "похожий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "same",
+      "answer": "одинаковый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "different",
+      "answer": "разный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "special",
+      "answer": "особенный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "usual",
+      "answer": "обычный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "normal",
+      "answer": "нормальный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "strange",
+      "answer": "странный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "unusual",
+      "answer": "необычный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "simple",
+      "answer": "простой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "complex",
+      "answer": "сложный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "easy",
+      "answer": "лёгкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "difficult",
+      "answer": "трудный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "heavy",
+      "answer": "тяжёлый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "strong",
+      "answer": "крепкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "weak",
+      "answer": "слабый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "hard",
+      "answer": "твёрдый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "soft",
+      "answer": "мягкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "smooth",
+      "answer": "гладкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "rough",
+      "answer": "шершавый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "sharp",
+      "answer": "острый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "blunt",
+      "answer": "тупой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "straight",
+      "answer": "прямой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "crooked",
+      "answer": "кривой",
+      "alt_answers": []
+    },
+    {
+      "prompt": "even",
+      "answer": "ровный",
+      "alt_answers": []
+    },
+    {
+      "prompt": "round",
+      "answer": "круглый",
+      "alt_answers": []
+    },
+    {
+      "prompt": "flat",
+      "answer": "плоский",
+      "alt_answers": []
+    },
+    {
+      "prompt": "deep",
+      "answer": "глубокий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "shallow",
+      "answer": "мелкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "wide",
+      "answer": "широкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "narrow",
+      "answer": "узкий",
+      "alt_answers": []
+    },
+    {
+      "prompt": "thick",
+      "answer": "толстый",
+      "alt_answers": []
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 26 Phrases (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "This article is very interesting.",
+      "answer": "Эта статья очень интересная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Read the headline of the newspaper.",
+      "answer": "Прочитай заголовок газеты.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The report lasted half an hour.",
+      "answer": "Репортаж длился полчаса.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The young reporter writes about sports.",
+      "answer": "Молодой репортёр пишет о спорте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is the latest edition of the magazine.",
+      "answer": "Это последнее издание журнала.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There are good movies on this channel.",
+      "answer": "На этом канале хорошие фильмы.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My favorite TV program is on Saturday.",
+      "answer": "Моя любимая передача идёт в субботу.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Advertising interferes with watching the movie.",
+      "answer": "Реклама мешает смотреть фильм.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Millions of people watch this show.",
+      "answer": "Это шоу смотрят миллионы людей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have not seen the new episode yet.",
+      "answer": "Я ещё не видел новый эпизод.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The new season will start in autumn.",
+      "answer": "Новый сезон начнётся осенью.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This series has been running for five seasons.",
+      "answer": "Этот сериал длится пять сезонов.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The host jokes all evening.",
+      "answer": "Ведущий шутит весь вечер.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This program has many listeners.",
+      "answer": "У этой передачи много слушателей.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I listen to the radio in the car.",
+      "answer": "Я слушаю радио в машине.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "These headphones are very comfortable.",
+      "answer": "Эти наушники очень удобные.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Open the first page of the book.",
+      "answer": "Открой первую страницу книги.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I sent you a link to the video.",
+      "answer": "Я отправил тебе ссылку на видео.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I want to download a new game.",
+      "answer": "Я хочу скачать новую игру.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Help me upload these photos.",
+      "answer": "Помоги мне загрузить эти фотографии.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Which browser do you like more?",
+      "answer": "Какой браузер ты любишь больше?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The search took a lot of time.",
+      "answer": "Поиск занял много времени.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This file is too big for an email.",
+      "answer": "Этот файл слишком большой для письма.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Put the document in this folder.",
+      "answer": "Положи документ в эту папку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Our correspondence has been going on for a month.",
+      "answer": "Наша переписка длится уже месяц.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can you forward me this message?",
+      "answer": "Можешь переслать мне это сообщение?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This blog writes about travel.",
+      "answer": "Этот блог пишет о путешествиях.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We communicate in a group chat.",
+      "answer": "Мы общаемся в групповом чате.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Can I delete the old photos?",
+      "answer": "Можно удалить старые фотографии?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Don't forget to save the document.",
+      "answer": "Не забудь сохранить документ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I open social media every morning.",
+      "answer": "Я открываю соцсеть каждое утро.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Subscribe to my channel, please.",
+      "answer": "Подпишись на мой канал, пожалуйста.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This blogger has a million subscribers.",
+      "answer": "У этого блогера миллион подписчиков.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give a like if you like it.",
+      "answer": "Поставь лайк, если тебе нравится.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I wrote you a comment.",
+      "answer": "Я написал тебе комментарий.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I published a new post yesterday.",
+      "answer": "Я опубликовал новый пост вчера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This blogger is very popular.",
+      "answer": "Этот блогер очень популярный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The user forgot his password.",
+      "answer": "Пользователь забыл свой пароль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a useful app for shopping.",
+      "answer": "Это полезное приложение для покупок.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My keyboard works badly.",
+      "answer": "Моя клавиатура работает плохо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I don't remember my password.",
+      "answer": "Я не помню свой пароль.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Enter your login and password here.",
+      "answer": "Введи логин и пароль здесь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have two accounts.",
+      "answer": "У меня два аккаунта.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I updated my profile yesterday.",
+      "answer": "Я обновил свой профиль вчера.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My laptop works very quietly.",
+      "answer": "Мой ноутбук работает очень тихо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The children watch cartoons on the tablet.",
+      "answer": "Дети смотрят мультики на планшете.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Where is my charger?",
+      "answer": "Где моя зарядка?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The battery is almost dead.",
+      "answer": "Батарея почти разрядилась.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There is no signal in this place.",
+      "answer": "В этом месте нет сигнала.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I often work online.",
+      "answer": "Я часто работаю онлайн.",
+      "alt_answers": []
+    }
+  ]
+}

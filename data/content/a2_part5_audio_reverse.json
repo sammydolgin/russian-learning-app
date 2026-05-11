@@ -1,0 +1,256 @@
+{
+  "phase": "A2 Part 5 Audio (En→Ru)",
+  "level": "A2",
+  "items": [
+    {
+      "prompt": "I have internet at home.",
+      "answer": "У меня дома есть интернет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I found this on the website.",
+      "answer": "Я нашёл это на сайте.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Send me an email.",
+      "answer": "Отправь мне электронную почту.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I received your letter.",
+      "answer": "Я получил твоё письмо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You have new messages.",
+      "answer": "У тебя есть новые сообщения.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "There was a call for you.",
+      "answer": "Был звонок для тебя.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We had a long conversation.",
+      "answer": "Мы вели долгий разговор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have a question.",
+      "answer": "У меня есть вопрос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am waiting for your answer.",
+      "answer": "Я жду твой ответ.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have a big problem.",
+      "answer": "У нас большая проблема.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We found a solution.",
+      "answer": "Мы нашли решение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Give me advice.",
+      "answer": "Дай мне совет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Thank you for the help.",
+      "answer": "Спасибо за помощь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I need information.",
+      "answer": "Мне нужна информация.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is bad news.",
+      "answer": "Это плохая новость.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is an interesting story.",
+      "answer": "Это интересная история.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Tell the truth!",
+      "answer": "Говори правду!",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a lie.",
+      "answer": "Это ложь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your opinion?",
+      "answer": "Какое твоё мнение?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I have an idea.",
+      "answer": "У меня есть идея.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "What is your plan?",
+      "answer": "Какой у тебя план?",
+      "alt_answers": []
+    },
+    {
+      "prompt": "My goal is to learn Russian.",
+      "answer": "Моя цель — выучить русский.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The result surprised me.",
+      "answer": "Результат меня удивил.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a big success.",
+      "answer": "Это большой успех.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Failure taught me a lot.",
+      "answer": "Неудача научила меня многому.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I made a mistake.",
+      "answer": "Я сделал ошибку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You cannot break the rules.",
+      "answer": "Нельзя нарушать правила.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The law is the same for everyone.",
+      "answer": "Закон одинаков для всех.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "You have the right to know.",
+      "answer": "Ты имеешь право знать.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is my duty.",
+      "answer": "Это моя обязанность.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "We have an opportunity.",
+      "answer": "У нас есть возможность.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a necessity, not a choice.",
+      "answer": "Это необходимость, а не выбор.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a very important question.",
+      "answer": "Это очень важный вопрос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The film was interesting.",
+      "answer": "Фильм был интересный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The lesson was boring.",
+      "answer": "Урок был скучный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The assignment is easy.",
+      "answer": "Задание лёгкое.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The exam was difficult.",
+      "answer": "Экзамен был трудный.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "This is a simple question.",
+      "answer": "Это простой вопрос.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The situation is complex.",
+      "answer": "Ситуация сложная.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He is a fast driver.",
+      "answer": "Он быстрый водитель.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The internet is working slowly.",
+      "answer": "Интернет работает медленно.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Call me in the evening.",
+      "answer": "Позвони мне вечером.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I am writing you a letter.",
+      "answer": "Я пишу тебе письмо.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Read more books.",
+      "answer": "Читай больше книг.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Send this message.",
+      "answer": "Отправь это сообщение.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I received a package.",
+      "answer": "Я получил посылку.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "Pass him greetings.",
+      "answer": "Передай ему привет.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "I agree with you.",
+      "answer": "Я согласен с тобой.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "He refused to help.",
+      "answer": "Он отказался помочь.",
+      "alt_answers": []
+    },
+    {
+      "prompt": "The doctor allowed me to walk.",
+      "answer": "Врач разрешил мне гулять.",
+      "alt_answers": []
+    }
+  ]
+}
