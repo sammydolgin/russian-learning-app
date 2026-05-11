@@ -472,7 +472,10 @@ def show_unlock():
 def main():
     st.set_page_config(page_title="Russian Learning", layout="centered")
 
-    db.init_db()
+    # Only initialize DB once per session, not on every rerun
+    if "db_initialized" not in st.session_state:
+        db.init_db()
+        st.session_state["db_initialized"] = True
 
     if "view" not in st.session_state:
         st.session_state["view"] = "home"
