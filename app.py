@@ -483,10 +483,51 @@ def show_unlock():
             st.error("Incorrect password")
 
 
+# ── PWA Support ──────────────────────────────────────────────────────────────
+
+def inject_pwa_support():
+    """Inject PWA manifest link and service worker registration."""
+    components.html("""
+        <script>
+            // Register service worker for offline support
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then(reg => console.log('Service Worker registered', reg))
+                    .catch(err => console.log('Service Worker registration failed', err));
+            }
+
+            // Add manifest link to head
+            const manifestLink = document.createElement('link');
+            manifestLink.rel = 'manifest';
+            manifestLink.href = '/manifest.json';
+            document.head.appendChild(manifestLink);
+
+            // Add PWA meta tags
+            const metaTheme = document.createElement('meta');
+            metaTheme.name = 'theme-color';
+            metaTheme.content = '#FF4B4B';
+            document.head.appendChild(metaTheme);
+
+            const metaViewport = document.querySelector('meta[name="viewport"]');
+            if (!metaViewport) {
+                const viewport = document.createElement('meta');
+                viewport.name = 'viewport';
+                viewport.content = 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no';
+                document.head.appendChild(viewport);
+            }
+        </script>
+    """, height=0)
+
+
 # ── Sidebar + routing ────────────────────────────────────────────────────────
 
 def main():
     st.set_page_config(page_title="Russian Learning", layout="centered")
+
+    # Inject PWA support once per session
+    if "pwa_injected" not in st.session_state:
+        inject_pwa_support()
+        st.session_state["pwa_injected"] = True
 
     # Only initialize DB once per session, not on every rerun
     if "db_initialized" not in st.session_state:

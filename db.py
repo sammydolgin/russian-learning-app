@@ -178,6 +178,14 @@ def init_db():
                 key TEXT PRIMARY KEY,
                 value TEXT NOT NULL
             );
+
+            -- Performance indexes
+            CREATE INDEX IF NOT EXISTS idx_items_phase_id ON items(phase_id);
+            CREATE INDEX IF NOT EXISTS idx_answer_log_phase_id ON answer_log(phase_id);
+            CREATE INDEX IF NOT EXISTS idx_answer_log_item_id ON answer_log(item_id);
+            CREATE INDEX IF NOT EXISTS idx_quiz_sessions_phase_id ON quiz_sessions(phase_id);
+            CREATE INDEX IF NOT EXISTS idx_phases_order_num ON phases(order_num);
+            CREATE INDEX IF NOT EXISTS idx_progress_status ON progress(status);
         """)
         _migrate_schema(conn)
         if conn.execute("SELECT COUNT(*) FROM phases").fetchone()[0] == 0:
