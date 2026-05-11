@@ -179,7 +179,7 @@ def quiz_question_fragment():
     if is_audio_quiz:
         # Audio quiz: show play button instead of text
         if not revealed:
-            st.markdown("### 🔊 Listen to the audio")
+            st.markdown("### 🔊 Listen")
             components.html(f"""
                 <div style="margin: 20px 0;">
                     <button id="replayBtn" style="
@@ -192,7 +192,7 @@ def quiz_question_fragment():
                         font-size: 16px;
                         width: 100%;
                     ">
-                        🔁 Replay Audio
+                        🔁 Play Again
                     </button>
                 </div>
                 <script>
@@ -205,8 +205,28 @@ def quiz_question_fragment():
                     window.speechSynthesis.speak(utterance);
                 }};
 
-                // Auto-play on load
-                setTimeout(speak, 300);
+                // Auto-play immediately and retry if blocked
+                const autoPlay = () => {{
+                    speak();
+                    // Retry after a delay if first attempt was blocked
+                    setTimeout(() => {{
+                        if (window.speechSynthesis.speaking === false) {{
+                            speak();
+                        }}
+                    }}, 500);
+                }};
+
+                // Try to play immediately
+                autoPlay();
+
+                // Also play on any user interaction as fallback
+                let hasPlayed = false;
+                document.addEventListener('click', () => {{
+                    if (!hasPlayed) {{
+                        speak();
+                        hasPlayed = true;
+                    }}
+                }}, {{ once: true }});
 
                 // Replay button
                 document.getElementById('replayBtn').addEventListener('click', speak);
@@ -255,7 +275,7 @@ def quiz_question_fragment():
         with st.form(key=f"q_{index}"):
             user_input = st.text_input(
                 "English translation",
-                placeholder="Type here and press Enter or click Submit",
+                placeholder="Type your answer",
                 label_visibility="collapsed",
             )
             submitted = st.form_submit_button("Submit", type="primary", use_container_width=True)
