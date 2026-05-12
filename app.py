@@ -250,12 +250,16 @@ def quiz_question_fragment():
     items = st.session_state.get("quiz_items", [])
     index = st.session_state.get("quiz_index", 0)
     phase_type = st.session_state.get("quiz_phase_type", "")
+    total = len(items)
 
-    if index >= len(items):
+    if index >= total:
         db.save_quiz_result(st.session_state["quiz_phase_id"], st.session_state["quiz_results"])
         st.session_state["view"] = "results"
         st.rerun()
         return
+
+    st.progress(index / total)
+    st.caption(f"Question {index + 1} of {total}")
 
     item = items[index]
 
@@ -345,10 +349,8 @@ def show_quiz():
 
     total = len(items)
 
-    # These don't need to rerun on every answer submission
+    # Title stays outside the fragment — it doesn't change per question.
     st.title("Quiz" + (" - Listening" if is_audio_quiz else ""))
-    st.progress(index / total)
-    st.caption(f"Question {index + 1} of {total}")
 
     # Persistent audio player — sits outside the fragment so it survives
     # fragment-scoped reruns. The fragment pushes new text into it via
@@ -561,7 +563,7 @@ def inject_pwa_support():
             // Add PWA meta tags
             const metaTheme = document.createElement('meta');
             metaTheme.name = 'theme-color';
-            metaTheme.content = '#FF4B4B';
+            metaTheme.content = '#1B5E20';
             document.head.appendChild(metaTheme);
 
             const metaViewport = document.querySelector('meta[name="viewport"]');
@@ -577,8 +579,21 @@ def inject_pwa_support():
 
 # ── Sidebar + routing ────────────────────────────────────────────────────────
 
+def inject_custom_css():
+    st.markdown("""
+        <style>
+        .stTextInput input, .stTextInput textarea {
+            font-size: 1.2rem !important;
+            padding: 16px 14px !important;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+
+
 def main():
     st.set_page_config(page_title="Russian Learning", layout="centered")
+
+    inject_custom_css()
 
     # Inject PWA support once per session
     if "pwa_injected" not in st.session_state:
