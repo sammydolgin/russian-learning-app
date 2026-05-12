@@ -470,6 +470,27 @@ def advance_phase() -> bool:
     return next_phase is not None
 
 
+def reset_all_progress():
+    """Wipe all user state: item progress, answer log, quiz sessions,
+    phase completion flags, individual phase unlocks, and reset current
+    phase to the first phase. Phases and items themselves are preserved
+    (they come from content files, not user input)."""
+    with _conn() as conn:
+        conn.execute("UPDATE progress SET times_seen=0, times_correct=0, status='unseen', last_seen=NULL")
+        conn.execute("DELETE FROM answer_log")
+        conn.execute("DELETE FROM quiz_sessions")
+        conn.execute("UPDATE phases SET completed=0")
+        conn.execute("DELETE FROM app_state WHERE key LIKE 'unlocked_phase_%'")
+        first = conn.execute("SELECT id FROM phases ORDER BY order_num LIMIT 1").fetchone()
+        if first:
+            conn.execute(
+                "INSERT INTO app_state (key, value) VALUES ('current_phase_id', ?) "
+                "ON CONFLICT(key) DO UPDATE SET value=excluded.value",
+                (str(first["id"]),)
+            )
+        conn.commit()
+
+
 def get_phase_items_progress(phase_id: int) -> list[dict]:
     with _conn() as conn:
         rows = conn.execute(

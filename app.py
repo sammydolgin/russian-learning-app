@@ -690,6 +690,28 @@ def main():
                             st.session_state["view"] = "home"
                         st.rerun()
 
+        st.divider()
+        if not st.session_state.get("confirm_reset"):
+            if st.button("Reset all progress", use_container_width=True):
+                st.session_state["confirm_reset"] = True
+                st.rerun()
+        else:
+            st.warning("This will erase all progress, history, and unlocks. Are you sure?")
+            c1, c2 = st.columns(2)
+            with c1:
+                if st.button("Yes, reset", type="primary", use_container_width=True):
+                    db.reset_all_progress()
+                    for k in ["confirm_reset", "quiz_items", "quiz_index", "quiz_results",
+                              "quiz_phase_id", "quiz_phase_type", "quiz_revealed",
+                              "quiz_revealed_for"]:
+                        st.session_state.pop(k, None)
+                    st.session_state["view"] = "home"
+                    st.rerun()
+            with c2:
+                if st.button("Cancel", use_container_width=True):
+                    st.session_state["confirm_reset"] = False
+                    st.rerun()
+
     view = st.session_state["view"]
     if view == "home":
         show_home()
