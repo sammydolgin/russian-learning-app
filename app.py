@@ -61,6 +61,98 @@ def autofocus(key: int = 0):
     )
 
 
+def _render_audio_player(initial_text: str):
+    # Persistent audio iframe — stays mounted across fragment reruns so that
+    # the user's first tap unlocks speechSynthesis for the iframe's lifetime
+    # (required by iOS Safari). Subsequent questions push their text in via
+    # localStorage events, enabling autoplay without a fresh tap.
+    components.html(f"""
+        <div style="margin: 20px 0;">
+            <button id="playBtn" style="
+                background-color: #FF4B4B;
+                color: white;
+                border: none;
+                padding: 15px 20px;
+                border-radius: 8px;
+                cursor: pointer;
+                font-size: 18px;
+                font-weight: 600;
+                width: 100%;
+                box-shadow: 0 2px 8px rgba(255,75,75,0.3);
+                transition: all 0.2s;
+            ">
+                ▶️ Play Audio
+            </button>
+        </div>
+        <script>
+        (function() {{
+            let currentText = {json.dumps(initial_text)};
+            let unlocked = false;
+            const btn = document.getElementById('playBtn');
+
+            const speak = (t) => {{
+                if (!t) return;
+                try {{
+                    window.speechSynthesis.cancel();
+                    const u = new SpeechSynthesisUtterance(t);
+                    u.lang = 'ru-RU';
+                    u.rate = 0.85;
+                    window.speechSynthesis.speak(u);
+                }} catch (e) {{}}
+            }};
+
+            const setReplayMode = () => {{
+                unlocked = true;
+                btn.textContent = '🔁 Play Again';
+                btn.style.backgroundColor = '#262730';
+                btn.style.boxShadow = 'none';
+            }};
+
+            btn.addEventListener('click', (e) => {{
+                e.preventDefault();
+                speak(currentText);
+                if (!unlocked) setReplayMode();
+            }});
+
+            // Cross-frame: writer iframe in fragment writes localStorage,
+            // event fires here because we're a different Window.
+            window.addEventListener('storage', (e) => {{
+                if (e.key !== 'russian_audio_text' || !e.newValue) return;
+                try {{
+                    const data = JSON.parse(e.newValue);
+                    if (data.text === currentText) return;
+                    currentText = data.text;
+                    if (unlocked) speak(currentText);
+                }} catch (err) {{}}
+            }});
+
+            btn.addEventListener('mouseover', () => {{
+                btn.style.backgroundColor = unlocked ? '#3d3d4a' : '#ff5e5e';
+            }});
+            btn.addEventListener('mouseout', () => {{
+                btn.style.backgroundColor = unlocked ? '#262730' : '#FF4B4B';
+            }});
+        }})();
+        </script>
+    """, height=80)
+
+
+def _push_audio_text(text: str, counter: int):
+    # Invisible writer iframe — runs inside the fragment, writes the current
+    # question's text to localStorage. The persistent audio iframe (different
+    # Window, same origin) receives a `storage` event and speaks the text.
+    components.html(f"""
+        <script>
+        try {{
+            localStorage.setItem('russian_audio_text', JSON.stringify({{
+                text: {json.dumps(text)},
+                counter: {counter}
+            }}));
+        }} catch (e) {{}}
+        </script>
+    """, height=0)
+
+
 # ── Answer checking ──────────────────────────────────────────────────────────
 
 def check_answer(user_input: str, correct: str, alts: list[str]) -> bool:
@@ -172,78 +264,13 @@ def quiz_question_fragment():
 
     revealed = st.session_state.get("quiz_revealed", False)
     audio_mode = st.session_state.get("audio_mode", True)
-    is_reverse = (phase_type == "phrases_reverse")
     is_audio_quiz = audio_mode and (phase_type in AUDIO_TYPES)
-    audio_lang = 'ru-RU'
 
     if is_audio_quiz:
-        # Audio quiz: show play button instead of text
         if not revealed:
-            components.html(f"""
-                <div style="margin: 20px 0;">
-                    <button id="playBtn" style="
-                        background-color: #FF4B4B;
-                        color: white;
-                        border: none;
-                        padding: 15px 20px;
-                        border-radius: 8px;
-                        cursor: pointer;
-                        font-size: 18px;
-                        font-weight: 600;
-                        width: 100%;
-                        box-shadow: 0 2px 8px rgba(255,75,75,0.3);
-                        transition: all 0.2s;
-                    ">
-                        ▶️ Play Audio
-                    </button>
-                </div>
-                <script>
-                const text = {json.dumps(item['prompt'])};
-                let hasPlayedOnce = false;
-
-                const speak = () => {{
-                    window.speechSynthesis.cancel();
-                    const utterance = new SpeechSynthesisUtterance(text);
-                    utterance.lang = {json.dumps(audio_lang)};
-                    utterance.rate = 0.85;
-                    window.speechSynthesis.speak(utterance);
-
-                    // Update button only on actual click
-                    if (!hasPlayedOnce) {{
-                        hasPlayedOnce = true;
-                        const btn = document.getElementById('playBtn');
-                        btn.textContent = '🔁 Play Again';
-                        btn.style.backgroundColor = '#262730';
-                        btn.style.boxShadow = 'none';
-                    }}
-                }};
-
-                // Button click - only way to play
-                document.getElementById('playBtn').addEventListener('click', (e) => {{
-                    e.preventDefault();
-                    speak();
-                }});
-
-                // Hover effect
-                const btn = document.getElementById('playBtn');
-                btn.addEventListener('mouseover', () => {{
-                    if (hasPlayedOnce) {{
-                        btn.style.backgroundColor = '#3d3d4a';
-                    }} else {{
-                        btn.style.backgroundColor = '#ff5e5e';
-                    }}
-                }});
-                btn.addEventListener('mouseout', () => {{
-                    if (hasPlayedOnce) {{
-                        btn.style.backgroundColor = '#262730';
-                    }} else {{
-                        btn.style.backgroundColor = '#FF4B4B';
-                    }}
-                }});
-                </script>
-            """, height=80)
+            # Push the current text to the persistent audio player (rendered in show_quiz).
+            _push_audio_text(item['prompt'], index)
         else:
-            # Show the prompt text when revealed
             st.markdown(f"## {item['prompt']}")
     else:
         # Regular quiz: show Russian text
@@ -267,7 +294,7 @@ def quiz_question_fragment():
                     "is_correct": False,
                 })
                 st.session_state["quiz_index"] += 1
-                st.rerun()
+                st.rerun(scope="fragment")
         with col2:
             if st.button("Quit Quiz", use_container_width=True):
                 st.session_state["view"] = "home"
@@ -291,7 +318,7 @@ def quiz_question_fragment():
                 "is_correct": is_correct,
             })
             st.session_state["quiz_index"] += 1
-            st.rerun()
+            st.rerun(scope="fragment")
 
         autofocus(index)
 
@@ -299,7 +326,7 @@ def quiz_question_fragment():
         with col1:
             if st.button("Reveal", use_container_width=True):
                 st.session_state["quiz_revealed"] = True
-                st.rerun()
+                st.rerun(scope="fragment")
         with col2:
             if st.button("Quit Quiz", use_container_width=True):
                 st.session_state["view"] = "home"
@@ -320,6 +347,12 @@ def show_quiz():
     st.title("Quiz" + (" - Listening" if is_audio_quiz else ""))
     st.progress(index / total)
     st.caption(f"Question {index + 1} of {total}")
+
+    # Persistent audio player — sits outside the fragment so it survives
+    # fragment-scoped reruns. The fragment pushes new text into it via
+    # localStorage on each question change.
+    if is_audio_quiz and index < total:
+        _render_audio_player(items[index]["prompt"])
 
     # Call the fragment - only this part reruns on answer submission
     quiz_question_fragment()
