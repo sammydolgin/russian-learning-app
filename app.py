@@ -189,6 +189,23 @@ def show_home():
     stats = db.get_phase_stats(phase["id"])
     grad = db.get_graduation_status(phase["id"])
 
+    if st.button("Start Quiz", type="primary" if not grad["can_graduate"] else "secondary", use_container_width=True, key="start_quiz_top"):
+        items = db.get_quiz_items(phase["id"])
+        if not items:
+            st.warning("No items available.")
+            return
+        st.session_state.update({
+            "view": "quiz",
+            "quiz_phase_id": phase["id"],
+            "quiz_phase_type": phase["type"],
+            "quiz_items": items,
+            "quiz_index": 0,
+            "quiz_results": [],
+        })
+        st.rerun()
+
+    st.divider()
+
     col1, col2, col3 = st.columns(3)
     col1.metric("Mastered ✓", stats["mastered"])
     col2.metric("In Review ↻", stats["review"])
@@ -225,21 +242,6 @@ def show_home():
     available = stats["review"] + stats["unseen"]
     if available == 0 and stats["mastered"] == phase["total_items"] and not grad["can_graduate"]:
         st.info("All items mastered but accuracy threshold not met. Keep quizzing to build your score.")
-
-    if st.button("Start Quiz", type="primary" if not grad["can_graduate"] else "secondary", use_container_width=True):
-        items = db.get_quiz_items(phase["id"])
-        if not items:
-            st.warning("No items available.")
-            return
-        st.session_state.update({
-            "view": "quiz",
-            "quiz_phase_id": phase["id"],
-            "quiz_phase_type": phase["type"],
-            "quiz_items": items,
-            "quiz_index": 0,
-            "quiz_results": [],
-        })
-        st.rerun()
 
 
 @st.fragment
