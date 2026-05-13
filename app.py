@@ -323,10 +323,11 @@ def quiz_question_fragment():
                 st.session_state["view"] = "home"
                 st.rerun()
     else:
+        answer_lang = "Russian" if phase_type == "phrases_reverse" else "English"
         with st.form(key=f"q_{index}"):
             user_input = st.text_input(
-                "English translation",
-                placeholder="Type your answer",
+                "Answer",
+                placeholder=f"Type your answer in {answer_lang}",
                 label_visibility="collapsed",
             )
             submitted = st.form_submit_button("Submit", type="primary", use_container_width=True)
@@ -602,6 +603,9 @@ def inject_custom_css():
         .stTextInput input, .stTextInput textarea {
             font-size: 1.2rem !important;
             padding: 16px 14px !important;
+        }
+        [data-testid="InputInstructions"] {
+            display: none !important;
         }
         </style>
     """, unsafe_allow_html=True)
