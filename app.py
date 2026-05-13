@@ -259,7 +259,25 @@ def quiz_question_fragment():
         return
 
     st.progress(index / total)
-    st.caption(f"Question {index + 1} of {total}")
+
+    audio_mode = st.session_state.get("audio_mode", True)
+    if phase_type in AUDIO_TYPES:
+        cap_col, toggle_col = st.columns([3, 2])
+        with cap_col:
+            st.caption(f"Question {index + 1} of {total}")
+        with toggle_col:
+            new_mode = st.toggle(
+                "Audio mode",
+                value=audio_mode,
+                key=f"audio_toggle_q{index}",
+                help="Play audio instead of showing Russian text.",
+            )
+            if new_mode != audio_mode:
+                st.session_state["audio_mode"] = new_mode
+                st.rerun()
+            audio_mode = new_mode
+    else:
+        st.caption(f"Question {index + 1} of {total}")
 
     item = items[index]
 
@@ -269,7 +287,6 @@ def quiz_question_fragment():
         st.session_state["quiz_revealed_for"] = index
 
     revealed = st.session_state.get("quiz_revealed", False)
-    audio_mode = st.session_state.get("audio_mode", True)
     is_audio_quiz = audio_mode and (phase_type in AUDIO_TYPES)
 
     if is_audio_quiz:
@@ -608,6 +625,9 @@ def main():
     if "view" not in st.session_state:
         st.session_state["view"] = "home"
 
+    if "audio_mode" not in st.session_state:
+        st.session_state["audio_mode"] = True
+
     with st.sidebar:
         st.markdown("## Russian Learning")
         if st.button("Home", use_container_width=True):
@@ -616,16 +636,6 @@ def main():
         if st.button("Progress", use_container_width=True):
             st.session_state["view"] = "progress"
             st.rerun()
-
-        st.divider()
-
-        if "audio_mode" not in st.session_state:
-            st.session_state["audio_mode"] = True
-        st.toggle(
-            "Audio mode",
-            key="audio_mode",
-            help="When on, Words and Phrases prompts play audio instead of showing Russian text.",
-        )
 
         st.divider()
         st.markdown("### Phases")
